@@ -1,0 +1,34 @@
+.responsive {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 480px) {
+    .responsive{
+        width: 100%
+    }
+}
+@media (min-width: 481px) and (max-width: 1024px) {
+    .responsive{
+        width: 75%
+    }
+}
+@media (min-width: 1025px) {
+    .responsive{
+        width: 70%
+    }
+}
+
+/* color for code comments */
+:root > * {
+  --md-code-hl-comment-color: #AFA08A;
+}
+
+.video{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
