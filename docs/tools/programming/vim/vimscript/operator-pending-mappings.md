@@ -8,7 +8,8 @@ Resources
 Simple operator mapping
 ---
 
-`d`, `y`, `c` are operators that wait for a movement command (`w`, `i(`, etc.). Vim lets you create new movements.
+`d`, `y`, `c` are operators that wait for a movement command (`w`, `i(`, etc.). 
+Vim lets you create new movements.
 
 Here's a sweet mapping to directly operator on the contents of the next braces.
 
@@ -20,7 +21,8 @@ Here's a sweet mapping to directly operator on the contents of the next braces.
 def somefunc(param1, param2):
 ```
 
-When the cursor is somewhere before the braces, running `cin()` will clear out the contents of the braces.
+When the cursor is somewhere before the braces, running `cin()` will clear out 
+the contents of the braces.
 
 Structural breakdown of the mapping:
 
@@ -35,13 +37,19 @@ Structural breakdown of the mapping:
 
 Operator mapping using `execute`
 ---
-`normal!` doesn't recognize "special characters" like `<cr>`. There are a number of ways around this, but the easiest to use and read is execute.
+`normal!` doesn't recognize "special characters" like `<cr>`. There are a number 
+of ways around this, but the easiest to use and read is execute.
 
+The execute command is used to evaluate a string as if it were a Vimscript 
+command.
 ```
 :onoremap ih :<c-u>execute "normal! ?^==\\+$\r:nohlsearch\rkvg_"<cr>
 ```
 
-When `execute` looks at the string you tell it to run, it will substitute any special characters it finds before running it. In this case, `\r` is an escape sequence that means "carriage return". The double backslash is also an escape sequence that puts a literal backslash in the string.
+When `execute` looks at the string you tell it to run, it will substitute any 
+special characters it finds before running it. In this case, `\r` is an escape 
+sequence that means "carriage return". The double backslash is also an escape 
+sequence that puts a literal backslash in the string.
 
 So, the above command can be seen as:
 
