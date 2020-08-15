@@ -39,3 +39,28 @@ git clean somedirectory -f
 git checkout some_branch some_dir
 # will only update some_dir with changes from some_branch
 ```
+
+## Git push default behaviour
+
+Git's default is `simple`. In this mode, pushes the current branch to its upstream branch, but refuses to push if the upstream's branch name is different from the local one.
+
+```bash
+git config --global push.default current
+```
+
+Pushes the current branch to a remote branch of the same name.
+
+[:fontawesome-solid-link:
+More](https://stackoverflow.com/questions/948354/default-behavior-of-git-push-without-a-branch-specified).
+
+## Git stash
+```bash
+git stash save "message"
+git stash list
+git stash apply stash@{1}
+
+# interactive mode
+git stash save -p "my commit message"
+```
+
+[:fontawesome-solid-link: More](https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/).

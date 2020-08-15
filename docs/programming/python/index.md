@@ -1,6 +1,7 @@
 # Python
 
 ## Subpages
+- [:fontawesome-solid-folder: Setup](setup/index.md)
 - [:fontawesome-solid-folder: Resources](resources.md)
 - [:fontawesome-solid-folder: Debugging](debugging/index.md)
 - [:fontawesome-solid-folder: Databases](databases/index.md)

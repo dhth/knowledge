@@ -10,7 +10,7 @@ theme:
     - tabs
   favicon: assets/images/favicon.png
   icon:
-    logo: fontawesome/solid/book-open
+    logo: fontawesome/solid/code
 extra:
   social:
     - icon: fontawesome/brands/twitter

@@ -40,7 +40,7 @@ pytest -k "asdict" --collect-only
 ```
 
 ```bash
--lf
+--lf
 # last failed
 ```
 
