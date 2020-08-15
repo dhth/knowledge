@@ -1,12 +1,15 @@
-# 3: Pytest Fixtures
+3: Pytest Fixtures
+===
 
-## Intro
+Intro
+---
 
 The `@pytest.fixture()` decorator is used to tell pytest that a function is a fixture. When you include the fixture name in the parameter list of a test function, pytest knows to run it before running the test. Fixtures can do work, and can also return data to the test function.
 
 > Test fixtures refer to the mechanism pytest provides to allow the separation of “getting ready for” and “cleaning up after” code from your test functions.
 
-## Fixtures
+Fixtures
+---
 
 GIVEN/WHEN/THEN → Useful to document behaviour of test
 
@@ -61,7 +64,8 @@ TEARDOWN S tmp_path_factory
 
 Exceptions can be raise from fixtures. These will be reported as  `ERROR` by pytest, instead of a `FAIL`.
 
-## Combining multiple fixtures
+Combining multiple fixtures
+---
 
 ```python
 ########## FIXTURES ############
@@ -132,7 +136,8 @@ SETUP    S tmp_path_factory
 TEARDOWN S tmp_path_factory
 ```
 
-## Fixture scopes
+Fixture scopes
+---
 
 ```python
  	import pytest
@@ -200,7 +205,8 @@ pytest --setup-show test_scope.py
 """
 ```
 
-## Parameterising Fixtures
+Parameterising Fixtures
+---
 
 ```python
 tasks_to_try = (Task('sleep', done=True),

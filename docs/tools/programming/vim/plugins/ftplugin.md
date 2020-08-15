@@ -1,6 +1,8 @@
-# ftplugin
+ftplugin
+===
 
-## Create filetype specific mappings
+Create filetype specific mappings
+---
 
 Create `~/.config/nvim/ftplugin/markdown.vim`.
 

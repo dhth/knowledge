@@ -1,6 +1,8 @@
-# Shell Utilities
+Shell Utilities
+===
 
-## Currently using:
+Currently using:
+---
 These are the shell utilities that I use.
 
 ### tree
@@ -8,7 +10,8 @@ These are the shell utilities that I use.
 brew install tree
 ```
 
-## Yet to check out:
+Yet to check out:
+---
 
 - [:fontawesome-solid-link: broot](https://github.com/Canop/broot): A better way to navigate directories
 

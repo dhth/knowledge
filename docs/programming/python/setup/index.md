@@ -1,6 +1,8 @@
-# Setup
+Setup
+===
 
 Setting up Python for development use.
 
-## Subpages
+Subpages
+---
 - [:fontawesome-solid-folder: Pyenv](pyenv/index.md)

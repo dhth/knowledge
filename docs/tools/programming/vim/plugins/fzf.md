@@ -1,18 +1,22 @@
-# fzf.vim
+fzf.vim
+===
 
 FZF is general purpose command line fuzzy finder, and fzf.vim is the vim companion.
 
-## Resources
+Resources
+---
 
 - [:fontawesome-solid-link: junegunn/fzf](https://github.com/junegunn/fzf)
 
 - [:fontawesome-solid-link: junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 
-## `:GFiles`
+`:GFiles`
+---
 
 Wrapper for `git ls-files`. Very handy when only dealing with files associated with git.
 
-## `:Files`
+`:Files`
+---
 
 General purpose search. Uses `FZF_DEFAULT_COMMAND` environment variable under the hood. I'm using [:fontawesome-solid-link: `fd`](https://github.com/sharkdp/fd) for general search, since it respects `.gitignore`. The command I'm using is
 
@@ -24,13 +28,15 @@ fd -iH
 # for universal ignoring
 ```
 
-## Search only certain filetype
+Search only certain filetype
+---
 
 ```python
 :Rg -t py breakpoint
 ```
 
-## Modifications
+Modifications
+---
 
 ### Use ripgrep with live preview:
 

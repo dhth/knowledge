@@ -1,4 +1,5 @@
-# Python Resources
+Python Resources
+===
 
 Awesome python resources:
 

@@ -1,13 +1,16 @@
-# Fugitive
+Fugitive
+===
 
-## Resources
+Resources
+---
 
 - [:fontawesome-solid-link: Dive into Git history with fugitive.vim](https://advancedweb.hu/dive-into-git-history-with-fugitive-vim/)
 
 - [:fontawesome-solid-link: The Fugitive Series - a retrospective](http://vimcasts.org/blog/2011/05/the-fugitive-series/)
 
 
-## Diffs
+Diffs
+---
 
 ```bash
 `dv` opens diff in vertical split (after :Gstatus)

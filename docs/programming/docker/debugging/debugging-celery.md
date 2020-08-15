@@ -1,4 +1,5 @@
-# Debugging Celery
+Debugging Celery
+===
 
 Debugging dockerized celery services is not as straightforward as debugging simple python services. One issue is that the normal `breakpoint()` doesn't work for celery. The other issue is that celery doesn't come with a `auto-reload` feature, the same way frameworks like `flask` do.
 
@@ -8,7 +9,8 @@ So, we need to do a couple of things to make debugging celery docker services ea
 - open up the ports the debugger generally listens to
 - use an external hot reloading tool
 
-## Changes to docker-compose.yml
+Changes to docker-compose.yml
+---
 
 ```yaml
 stdin_open: true
@@ -20,7 +22,8 @@ environment:
 	- PYTHONUNBUFFERED=1       # any non-empty string will do
 ```
 
-## Hot reloading celery
+Hot reloading celery
+---
 
 ```
 pip install watchdog
@@ -34,7 +37,8 @@ watchmedo auto-restart --directory=./ --pattern=*.py --recursive -- celery worke
 
 More [:fontawesome-solid-link: here](https://www.distributedpython.com/2019/04/23/celery-reload/).
 
-## Add breakpoints in code
+Add breakpoints in code
+---
 Add a breakpoint using:
 
 ```python
@@ -47,7 +51,8 @@ rdb.set_trace()
 
 More [:fontawesome-solid-link: here](https://docs.celeryproject.org/en/stable/reference/celery.contrib.rdb.html).
 
-## Running containers
+Running containers
+---
 
 Unfortunately, celery's `rdb` doesn't work with `docker-compose up`. There seems to be an issue with the way service ports are exposed via `up`. More on that [:fontawesome-solid-link: here](https://github.com/docker/compose/issues/4677).
 
@@ -57,7 +62,8 @@ Run the service using `docker-compose run`.
 docker-compose run --service-ports celery
 ```
 
-## Using the debugger
+Using the debugger
+---
 
 Invoke breakpoint. On invocation, remote debugger will take over: `Remote debugger:<PORT>: Ready to connect: telnet 0.0.0.0 <PORT>`. It's important that the debugger is listening on `0.0.0.0` as it will enable us to connect to it from outside the container.
 

@@ -1,5 +1,7 @@
-# Debugging
+Debugging
+===
 
-## Subpages
+Subpages
+---
 
 - [:fontawesome-solid-file-alt: Debugging Celery](debugging-celery.md)

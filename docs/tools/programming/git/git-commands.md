@@ -1,6 +1,8 @@
-# Git Commands
+Git Commands
+===
 
-## Pretty git log
+Pretty git log
+---
 
 ```bash
 alias gl='git log --all --color --graph --pretty=format:'"'"'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'"'"' --abbrev-commit'
@@ -8,7 +10,8 @@ alias gl='git log --all --color --graph --pretty=format:'"'"'%Cred%h%Creset -%C(
 
 More [here](https://git-scm.com/docs/pretty-formats).
 
-## See git log for specific branch
+See git log for specific branch
+---
 
 First, use `git log` with fancy coloring.
 
@@ -24,7 +27,8 @@ Usage:
 glb origin/master..some branch
 ```
 
-## Remove untracked files
+Remove untracked files
+---
 
 ```bash
 # dry run
@@ -33,14 +37,16 @@ git clean somedirectory -n
 git clean somedirectory -f
 ```
 
-## Get changes from a branch to a specific directory
+Get changes from a branch to a specific directory
+---
 
 ```bash
 git checkout some_branch some_dir
 # will only update some_dir with changes from some_branch
 ```
 
-## Git push default behaviour
+Git push default behaviour
+---
 
 Git's default is `simple`. In this mode, pushes the current branch to its upstream branch, but refuses to push if the upstream's branch name is different from the local one.
 
@@ -53,7 +59,8 @@ Pushes the current branch to a remote branch of the same name.
 [:fontawesome-solid-link:
 More](https://stackoverflow.com/questions/948354/default-behavior-of-git-push-without-a-branch-specified).
 
-## Git stash
+Git stash
+---
 ```bash
 git stash save "message"
 git stash list

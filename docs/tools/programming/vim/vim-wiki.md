@@ -1,6 +1,8 @@
-# Vim Wiki
+Vim Wiki
+===
 
-## Mapping
+Mapping
+---
 
 It's almost always better to use `nnoremap` instead of `nmap` as it ignores recursive mappings. More at [:fontawesome-solid-link: chapter 5](https://learnvimscriptthehardway.stevelosh.com/chapters/05.html) of Learn VimScript the Hard Way.
 
@@ -18,7 +20,8 @@ It's almost always better to use `nnoremap` instead of `nmap` as it ignores recu
 
 This effectively disables the escape key in insert mode by telling Vim to perform <nop> (no operation) instead. More [here](https://learnvimscriptthehardway.stevelosh.com/chapters/10.html).
 
-## Split
+Split
+---
 
 [:fontawesome-solid-link: Managing Your Splits In Vim](https://www.youtube.com/watch?v=Zir28KFCSQw)
 
@@ -40,7 +43,8 @@ This effectively disables the escape key in insert mode by telling Vim to perfor
 
 - `:vert res + 5` make pane grow by 5 lines horizontally
 
-## Movement
+Movement
+---
 
 - `gj` move to visual line below (can be used when lines wrap around)
 
@@ -80,13 +84,15 @@ This effectively disables the escape key in insert mode by telling Vim to perfor
 
 - `'J` go to mark j
 
-## Modifications
+Modifications
+---
 
 `d2i{` → deletes inner bracket plus one outer bracket
 
 `dip` → deletes a paragraph (contiguous block of text)
 
-## Multi line editing
+Multi line editing
+---
 
 ```bash
 #Go to position
@@ -95,13 +101,15 @@ Select
 I/A
 ```
 
-## Copy/Pasting
+Copy/Pasting
+---
 
 Vim keeps a history of previous yanks/deletes. `:reg` lists them. `"0p` pastes register at `0`.T
 
 [:fontawesome-solid-link: Remembering previous deletes/yanks](https://vim.fandom.com/wiki/Remembering_previous_deletes/yanks)
 
-## Windows
+Windows
+---
 
 ```bash
 <c-w><o>
@@ -110,40 +118,49 @@ Vim keeps a history of previous yanks/deletes. `:reg` lists them. `"0p` pastes r
 ## source: https://github.com/tpope/vim-fugitive/issues/36
 ```
 
-## Diffing
+Diffing
+---
 
 ```bash
 :windo diffthis
 // diff buffers in current tab
 ```
 
-## Execute in all tabs
+Execute in all tabs
+---
 
 ```bash
 :windo diffthis
-## execute in all windows in current tab
+execute in all windows in current tab
+---
 
 :tabdo windo diffthis
-## execute in all tabs in all windows
+execute in all tabs in all windows
+---
 ```
 
-## Sessions
+Sessions
+---
 
 ```bash
 :mksession ~/vim-sessions/dotfiles.vim
-## save current session
+save current session
+---
 
 :source ~/.vim-sessions/dotfiles.vim
 #load saved session
 
 vim -S ~/mysession.vim
-## open session from command line
+open session from command line
+---
 ```
 
-## Folds
+Folds
+---
 
 ```bash
-## from my vimrc
+from my vimrc
+---
 
 "folds on by default
  set foldmethod=indent
@@ -172,7 +189,8 @@ noremap <leader>op zA
 noremap <leader>cl zC
 ```
 
-## Resizing
+Resizing
+---
 
 ```bash
 <C-W> | --> make window take entire horizontal space
@@ -180,17 +198,21 @@ noremap <leader>cl zC
 <C-W> = --> make windows equal in size
 ```
 
-## Search and Replace
+Search and Replace
+---
 
 ```bash
-## search with contents of register 0
+search with contents of register 0
+---
 :%s/<c-r>0/text to replace with/g
 
-## replace with contents of register 0
+replace with contents of register 0
+---
 :%s/text to search/\=@0/g
 ```
 
-## Command Line
+Command Line
+---
 
 ```bash
 <C-R><C-W> puts the current word in the command line
@@ -202,14 +224,17 @@ noremap <leader>cl zC
 #show value of a command
 :set command?
 #eg. :set background?
-## background=light
+background=light
+---
 ```
 
-## Custom Commands
+Custom Commands
+---
 
 [:fontawesome-solid-link: Here's how to create custom workspaces to switch between programming and writing prose in Vim](https://www.reddit.com/r/vim/comments/ckyspu/heres_how_to_create_custom_workspaces_to_switch/)
 
-## Keywords
+Keywords
+---
 
 ```bash
 :map means map recursively
@@ -224,14 +249,16 @@ let is usually used to change configuration variables for plugins
 
 [:fontawesome-solid-link: 3 of the Most Common Beginner Problems in Vim and How To Fix Them](https://medium.com/@evidanary/3-of-the-most-common-beginner-problems-in-vim-and-how-to-fix-them-16e1b95c94a3)
 
-## `g`
+`g`
+---
 
 ```bash
 gf ## opens file under cursor
 <c-w>gf #opens file under cursor in a new tab
 ```
 
-## Files
+Files
+---
 
 ### Create file under cursor
 
@@ -246,7 +273,8 @@ noremap <leader>gcf :tabe <cfile><CR>
 
 More [here](https://stackoverflow.com/questions/6158294/create-and-open-for-editing-nonexistent-file-under-the-cursor) and [here](https://stackoverflow.com/questions/13239464/create-a-new-file-in-the-directory-of-the-open-file-in-vim/13239757).
 
-## Autocommand
+Autocommand
+---
 
 ### Autocommand structure
 
@@ -285,7 +313,8 @@ It is possible to create duplicate autocommands which might slow down Vim. When 
 
 `autocmd!` clears out the group, and then Vim defines the autocommands present in the group, preventing duplicates.
 
-## Substitute
+Substitute
+---
 
 ### Substitute only in visual block
 
@@ -317,11 +346,13 @@ It is possible to create duplicate autocommands which might slow down Vim. When 
 # use :s/foo/bar/e
 ```
 
-## Switching cases
+Switching cases
+---
 
 - `~`: inverts case of current letter
 - `g~w`: inverts case of current word
 
-## Increment Number
+Increment Number
+---
 
 `<C-a>` increments number under cursor

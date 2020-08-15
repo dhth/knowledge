@@ -1,4 +1,5 @@
-# Mac Tools
+Mac Tools
+===
 
 *Unticked means I think the app might be useful for me, but I haven't used it yet*
 

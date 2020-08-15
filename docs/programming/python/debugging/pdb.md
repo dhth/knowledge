@@ -1,10 +1,13 @@
-# pdb
+pdb
+===
 
-## Resources
+Resources
+---
 
 - [:fontawesome-solid-link: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
 
-## Print with colors in a pdb session
+Print with colors in a pdb session
+---
 
 I like to have dictionaries printed with colors in a pdb session. I'm sure there's a better way of doing this, but here's my method:
 
@@ -34,6 +37,7 @@ alias ppi from somemodule.pdb_utils import *
 
 Finally, in my pdb session, I can import my pdb util functions with `ppi`. And, print a dictionary with colors using `ppd(somedict)`.
 
-## Use ipython inside pdb
+Use ipython inside pdb
+---
 
 [:fontawesome-solid-link: https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors](https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors)

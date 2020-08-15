@@ -1,12 +1,15 @@
-# rich
+rich
+===
 
 [:fontawesome-solid-link: https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)
 
-## Resources
+Resources
+---
 
 - [:fontawesome-solid-link: Video series on rich](https://calmcode.io/rich/introduction.html)
 
-## Custom theme
+Custom theme
+---
 
 This will let us print stuff in various colors based on the config and the `style` passed to `Console`.
 

@@ -1,6 +1,8 @@
-# Meta
+Meta
+===
 
-## Exploring this wiki
+Exploring this wiki
+---
 
 A wiki is meant to be explored as fast as possible. Here are a few keyboard shortcuts to move around quickly:
 

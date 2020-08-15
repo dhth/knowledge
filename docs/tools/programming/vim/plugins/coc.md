@@ -1,6 +1,8 @@
-# Coc
+Coc
+===
 
-## CocSearch
+CocSearch
+---
 
 ```
 :CocSearch whateverstring -A 20
@@ -8,7 +10,8 @@
 // whateverstring along with 20 more lines
 ```
 
-## Set workspace (for coc-python)
+Set workspace (for coc-python)
+---
 
 [:fontawesome-solid-link: Unresolved import · Issue #26 · neoclide/coc-python](https://github.com/neoclide/coc-python/issues/26)
 
@@ -19,7 +22,8 @@ Run :CocRestart to restart service.
 Save a session file to persist workspaceFolders.
 ```
 
-## Open jump definition in a new tab
+Open jump definition in a new tab
+---
 
 [:fontawesome-solid-link: Goto Definition in Vsplit? · Issue #1249 · neoclide/coc.nvim](https://github.com/neoclide/coc.nvim/issues/1249)
 
@@ -27,6 +31,7 @@ Save a session file to persist workspaceFolders.
 :call CocAction('jumpDefinition', 'tabe')
 ```
 
-## Move to floating window
+Move to floating window
+---
 
 `<c-w><c-w>` switches between windows.

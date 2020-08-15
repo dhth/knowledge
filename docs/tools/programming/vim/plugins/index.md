@@ -1,6 +1,9 @@
-# Vim Plugins
+Vim Plugins
+===
 
-## List of plugins:
+List of plugins:
+---
+
 - [:fontawesome-solid-file-alt: fzf](fzf.md)
 - [:fontawesome-solid-file-alt: ftplugin](ftplugin.md)
 - [:fontawesome-solid-file-alt: fugitive](fugitive.md)

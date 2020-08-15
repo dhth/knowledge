@@ -1,6 +1,8 @@
-# 2: Writing Test Functions
+2: Writing Test Functions
+===
 
-## Test if exception raised
+Test if exception raised
+---
 
 ```python
 # code to be tested
@@ -17,7 +19,8 @@ def test_add_raises():
         tasks.add(task='not a Task object')
 ```
 
-## Test exception message
+Test exception message
+---
 
 ```python
 # code to be tested
@@ -46,7 +49,8 @@ def test_start_tasks_db_raises():
     assert exception_msg == "db_type must be a 'tiny' or 'mongo'"
 ```
 
-## Marks
+Marks
+---
 
 ```bash
 # Mark a function as:
@@ -75,14 +79,16 @@ pytest test.py -rs
 # to see reasons for skipping
 ```
 
-## Running tests based on name
+Running tests based on name
+---
 
 ```bash
 pytest -k _raises
 pytest -k "_raises and not delete"
 ```
 
-## Parametrize
+Parametrize
+---
 
 ### Send params directly
 

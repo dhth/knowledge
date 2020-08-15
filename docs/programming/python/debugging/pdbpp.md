@@ -1,6 +1,8 @@
-# pdbpp
+pdbpp
+===
 
-## Use pdbpp's in sticky mode by default
+Use pdbpp's in sticky mode by default
+---
 
 pdbpp's `sticky` command keeps the source code fixed in position, and only moves the line highlighter down. To enable it by default, create a `~/.pdbrc.py` file with the following contents:
 

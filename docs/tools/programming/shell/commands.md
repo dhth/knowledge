@@ -1,12 +1,15 @@
-# Commands
+Commands
+===
 
-## Diff two directories
+Diff two directories
+---
 
 ```bash
 diff --brief --recursive -x '.git' -x 'autoload' ~/.config/nvim ~/local.usersnap.com/.config/nvim
 ```
 
-## Find and replace recursively in a directory
+Find and replace recursively in a directory
+---
 
 ```bash
 find docs -name '*.md' | xargs sed -i "" 's/\[/\[:fontawesome-solid-link: /g'

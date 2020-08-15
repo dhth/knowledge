@@ -1,6 +1,8 @@
-# Gruvbox
+Gruvbox
+===
 
-## Cursor not visible in gruvbox light
+Cursor not visible in gruvbox light
+---
 
 ```bash
 Settings -> Profiles -> Colors and check "Smart box cursor color"
