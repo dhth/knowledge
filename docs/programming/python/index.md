@@ -1,7 +1,7 @@
 Python
 ===
 
-Subpages
+Modules
 ---
 - [:fontawesome-solid-folder: Setup](setup/index.md)
 - [:fontawesome-solid-folder: Resources](resources.md)

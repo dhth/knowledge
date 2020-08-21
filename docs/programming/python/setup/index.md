@@ -3,6 +3,6 @@ Setup
 
 Setting up Python for development use.
 
-Subpages
+Modules
 ---
 - [:fontawesome-solid-folder: Pyenv](pyenv/index.md)

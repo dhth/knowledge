@@ -1,6 +1,6 @@
 # Responsive Web Design
 
-## Subpages
+## Modules
 
 - [:fontawesome-solid-file-alt: Basic CSS](1-basic-css.md)
 

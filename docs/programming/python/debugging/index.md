@@ -1,7 +1,7 @@
 Debugging
 ===
 
-Subpages
+Modules
 ---
 - [:fontawesome-solid-file-alt: pdb](pdb.md)
 - [:fontawesome-solid-file-alt: pdbpp](pdbpp.md)

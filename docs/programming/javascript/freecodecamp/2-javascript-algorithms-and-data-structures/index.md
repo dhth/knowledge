@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures
 
-## Subpages
+## Modules
 
 - [:fontawesome-solid-file-alt: 1-Basic JS](1-basic-js.md)
 

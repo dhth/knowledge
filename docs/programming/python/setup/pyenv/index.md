@@ -1,7 +1,7 @@
 Pyenv
 ===
 
-Subpages
+Modules
 ---
 
 - [:fontawesome-solid-file-alt: Installing Python Using Pyenv](installing-python-using-pyenv.md)

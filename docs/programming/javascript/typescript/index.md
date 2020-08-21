@@ -1,5 +1,5 @@
 # TypeScript
 
-## Subpages
+## Modules
 
 - [:fontawesome-solid-file-alt: Basics](./basics.md)

@@ -1,7 +1,7 @@
 Mac
 ===
 
-Subpages
+Modules
 ---
 
 - [:fontawesome-solid-file-alt: Tools](tools.md)

@@ -6,7 +6,7 @@ Vim
 I've only been using Vim for a few months now (as of August 2020), but in a short amount of time I've been absolutely blown away by its
 capabilities.
 
-Subpages
+Modules
 ---
 
 - [:fontawesome-solid-file-alt: Vim Wiki](vim-wiki.md): Wiki of stuff I've learnt about Vim.

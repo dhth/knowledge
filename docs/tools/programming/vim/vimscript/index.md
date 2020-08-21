@@ -5,7 +5,7 @@ Resources
 ---
 - [:fontawesome-solid-link: Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 
-Subpages
+Modules
 ---
 - [:fontawesome-solid-file-alt: Basic VimScript](basic-vimscript.md)
 - [:fontawesome-solid-file-alt: Operator Pending Mappings](operator-pending-mappings.md)

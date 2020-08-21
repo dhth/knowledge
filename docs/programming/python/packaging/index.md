@@ -8,6 +8,6 @@
 
 - [:fontawesome-solid-link: Python Packaging Docs](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 
-## Subpages
+## Modules
 
 - [:fontawesome-solid-file-alt: Packaging Python Projects](packaging-python-projects)

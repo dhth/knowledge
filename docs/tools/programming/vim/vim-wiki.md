@@ -84,6 +84,12 @@ Movement
 
 - `'J` go to mark j
 
+Lesser used motions
+---
+
+- `is` -> inner sentence
+- `as` -> around sentence
+
 Modifications
 ---
 
@@ -107,6 +113,21 @@ Copy/Pasting
 Vim keeps a history of previous yanks/deletes. `:reg` lists them. `"0p` pastes register at `0`.T
 
 [:fontawesome-solid-link: Remembering previous deletes/yanks](https://vim.fandom.com/wiki/Remembering_previous_deletes/yanks)
+
+### `:copy`, `:move`
+
+`:copy`, `:move` are solid ways of moving text around without moving the cursor.
+Shorthands are `:t`, and `:m` respectively.
+
+```vim
+:-15,-10t.
+" Copy lines between -15 and -10 and paste it below.
+:-15,-10t+5
+" Same, but paste it 5 lines below.
+```
+
+More [:fontawesome-solid-link:
+here](http://vimcasts.org/episodes/long-range-line-duplication/).
 
 Windows
 ---
@@ -352,7 +373,12 @@ Switching cases
 - `~`: inverts case of current letter
 - `g~w`: inverts case of current word
 
-Increment Number
+Increment/Decrement Number
 ---
 
 `<C-a>` increments number under cursor
+`<C-x>` decrements number under cursor
+
+Tabs
+---
+- `tabmove 2`: moves current tab to position 2 (ie, 3rd tab)
