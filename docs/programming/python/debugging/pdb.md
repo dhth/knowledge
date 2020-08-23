@@ -4,10 +4,44 @@ pdb
 Resources
 ---
 
-- [:fontawesome-solid-link: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
+- [:fontawesome-solid-play: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
+
+My .pdbrc
+---
+
+```
+alias brr print(f"\n{'='*100}\n")
+alias ppi from pdb_utils import *
+
+alias brk print(f'\n\n{"=" * 100}\n\n')
+
+from rich.console import Console
+from rich.theme import Theme
+
+custom_theme = Theme({"red": "bold red", "yellow": "bold yellow"})
+
+console = Console(theme=custom_theme)
+
+alias rp console.print(%1, style="red")
+
+alias pl console.print(locals(), style="red")
+
+import json
+import shutil
+
+alias cls print("\n" * shutil.get_terminal_size().lines)
+
+```
+
+!!! note
+    aliases can accept arguments using `%1`, `%2`, and so on.
 
 Print with colors in a pdb session
 ---
+
+!!! warning
+    I no longer use this method since `rich` pretty much handles this on its
+    own.
 
 I like to have dictionaries printed with colors in a pdb session. I'm sure there's a better way of doing this, but here's my method:
 

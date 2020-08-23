@@ -24,6 +24,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - attr_list
+  - admonition
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
