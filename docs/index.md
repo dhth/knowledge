@@ -21,4 +21,5 @@ Modules
 - [:fontawesome-solid-archive: Computer Science](./computer-science/index.md)
 - [:fontawesome-solid-archive: Programming](./programming/index.md)
 - [:fontawesome-solid-archive: Tools](./tools/index.md)
+- [:fontawesome-solid-archive: Books](books/index.md)
 - [:fontawesome-solid-archive: Other](other/index.md)

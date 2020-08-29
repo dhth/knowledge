@@ -334,39 +334,6 @@ It is possible to create duplicate autocommands which might slow down Vim. When 
 
 `autocmd!` clears out the group, and then Vim defines the autocommands present in the group, preventing duplicates.
 
-Substitute
----
-
-### Substitute only in visual block
-
-```bash
-# first make visual selection
-# then :s
-# which will expand to :'<,'>
-# replace text in visual block using \%V
-:'<,'>s/\%Vfoo/bar/g
-```
-
-### Substitute from current line till end of file
-
-```
-:.,$s/foo/bar/g
-" $ corresponds to end of file
-```
-
-### Substitute from specific line till end of file
-
-```
-:2,$s/foo/bar/g
-" from line 2 till end of file
-```
-
-### Pattern not found
-
-```bash
-# use :s/foo/bar/e
-```
-
 Switching cases
 ---
 

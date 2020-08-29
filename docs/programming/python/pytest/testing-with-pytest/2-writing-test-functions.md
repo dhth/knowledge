@@ -1,4 +1,4 @@
-2: Writing Test Functions
+Ch 2: Writing Test Functions
 ===
 
 Test if exception raised

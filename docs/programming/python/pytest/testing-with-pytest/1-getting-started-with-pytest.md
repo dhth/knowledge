@@ -1,4 +1,4 @@
-1: Getting started with Pytest
+Ch 1: Getting started with Pytest
 ===
 
 Pytest options

@@ -1,4 +1,4 @@
-g
+global
 ===
 
 Resources
@@ -17,7 +17,7 @@ A few examples:
 
 ```vim
 :g/import/m$
-" moves all lines containing the word "import" to the end of the file
+" moves all lines containing the word 'import' to the end of the file
 ```
 
 `g`
