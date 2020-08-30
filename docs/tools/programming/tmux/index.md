@@ -12,3 +12,4 @@ Resources
 Modules
 ---
 
+- [:fontawesome-solid-file-alt: Colors in Tmux](colors-in-tmux.md)
