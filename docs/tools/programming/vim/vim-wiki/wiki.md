@@ -20,29 +20,6 @@ It's almost always better to use `nnoremap` instead of `nmap` as it ignores recu
 
 This effectively disables the escape key in insert mode by telling Vim to perform <nop> (no operation) instead. More [here](https://learnvimscriptthehardway.stevelosh.com/chapters/10.html).
 
-Split
----
-
-[:fontawesome-solid-link: Managing Your Splits In Vim](https://www.youtube.com/watch?v=Zir28KFCSQw)
-
-- `:sp` vertical split
-
-- `:vs` horizontal split
-
-- `Ctrl + W _` Make current buffer take entire vertical space
-
-- `Ctrl + W |` Make current buffer take entire horizontal space
-
-- `Ctrl + W =` Make buffers take equal space
-
-- `Ctrl + W r` swap panes
-
-- `set splitbelow splitright`
-
-- `:res +5` make buffer grow by 5 lines vertically
-
-- `:vert res + 5` make pane grow by 5 lines horizontally
-
 Movement
 ---
 
@@ -219,19 +196,6 @@ Resizing
 <C-W> = --> make windows equal in size
 ```
 
-Search and Replace
----
-
-```bash
-search with contents of register 0
----
-:%s/<c-r>0/text to replace with/g
-
-replace with contents of register 0
----
-:%s/text to search/\=@0/g
-```
-
 Command Line
 ---
 
@@ -294,46 +258,6 @@ noremap <leader>gcf :tabe <cfile><CR>
 
 More [here](https://stackoverflow.com/questions/6158294/create-and-open-for-editing-nonexistent-file-under-the-cursor) and [here](https://stackoverflow.com/questions/13239464/create-a-new-file-in-the-directory-of-the-open-file-in-vim/13239757).
 
-Autocommand
----
-
-### Autocommand structure
-
-```
-:autocmd BufNewFile * :write
-         ^          ^ ^
-         |          | |
-         |          | The command to run.
-         |          |
-         |          A "pattern" to filter the event.
-         |
-         The "event" to watch for.
-```
-
-An example:
-
-```
-:autocmd BufNewFile,BufRead *.html setlocal nowrap
-
-```
-
-As seen here, a single autocommand can be bound to multiple events by separating the events with a comma.
-
-> :help autocmd-events
-
-### Autocommand Groups
-
-It is possible to create duplicate autocommands which might slow down Vim. When a config file is sourced, Vim has no way of knowing if we want to replace an existing autocommand with a new one. A solution to this is to use `augroup`.
-
-```
-:augroup testgroup
-:    autocmd!
-:    autocmd BufWrite * :echom "Cats"
-:augroup END
-```
-
-`autocmd!` clears out the group, and then Vim defines the autocommands present in the group, preventing duplicates.
-
 Switching cases
 ---
 
@@ -345,7 +269,3 @@ Increment/Decrement Number
 
 `<C-a>` increments number under cursor
 `<C-x>` decrements number under cursor
-
-Tabs
----
-- `tabmove 2`: moves current tab to position 2 (ie, 3rd tab)

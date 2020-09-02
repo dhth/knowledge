@@ -55,3 +55,16 @@ Don't error out if missing
 :s/foo/bar/e
 ```
 
+Search with contents of register 0
+---
+
+```
+:%s/<c-r>0/text to replace with/g
+```
+
+Replace with contents of register 0
+---
+
+```
+:%s/text to search/\=@0/g
+```
