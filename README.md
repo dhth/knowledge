@@ -1,3 +1,4 @@
-# Dhruv's Wiki
+Dhruv's Wiki
+===
 
-Start [here](docs/index.md).
+Start here: [https://wiki.dhruvs.space](https://wiki.dhruvs.space)

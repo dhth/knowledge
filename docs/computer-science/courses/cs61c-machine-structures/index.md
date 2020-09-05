@@ -5,15 +5,17 @@ UCB's course from Spring 2015.
 
 Resources
 ---
-- [:fontawesome-solid-link: Course Page](https://inst.eecs.berkeley.edu/~cs61c/sp15/#Schedule)
+- [:fontawesome-solid-link: Course Page](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
+- [:fontawesome-solid-play: Playlist](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
 
 Modules
 ---
+- [:fontawesome-solid-file-alt: Lec 1: Intro](lec-1-intro.md)
 
 Lecture Checklist
 ---
 
-- [ ] 1: Intro, Number Representation
+- [x] 1: Intro, Number Representation
 - [ ] 2: C Intro, Pointers
 - [ ] 3: C Arrays, Strings, Pointers
 - [ ] 4: C Memory Mangement, Usage
