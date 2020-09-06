@@ -15,6 +15,7 @@ Legend:
 | [Testing with Pytest](../../programming/python/pytest/testing-with-pytest/index.md)                 | [:fontawesome-solid-link:](https://learning.oreilly.com/library/view/python-testing-with/9781680502848/)      | `pytest`     | :fontawesome-solid-hourglass-half: |
 | [Essential SQLAlchemy](../../programming/python/databases/sqlalchemy/essential-sqlalchemy/index.md) | [:fontawesome-solid-link:](https://learning.oreilly.com/library/view/essential-sqlalchemy-2nd/9781491916544/) | `sqlalchemy` | :fontawesome-solid-hourglass-half: |
 | Practical Vim                                                                                       | [:fontawesome-solid-link:](https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629/)        | `vim`        | :fontawesome-solid-hourglass-half: |
+| Learn VimScript the Hard Way                                                                        | [:fontawesome-solid-link:](https://learnvimscriptthehardway.stevelosh.com/)                                   | `Vim`        | :fontawesome-solid-check-circle:   |
 | tmux 2                                                                                              | [:fontawesome-solid-link:](https://learning.oreilly.com/library/view/tmux-2/9781680502374/)                   | `tmux`       | :fontawesome-solid-check-circle:   |
 
 To Read

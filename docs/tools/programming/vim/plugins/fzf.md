@@ -18,15 +18,8 @@ Wrapper for `git ls-files`. Very handy when only dealing with files associated w
 `:Files`
 ---
 
-General purpose search. Uses `FZF_DEFAULT_COMMAND` environment variable under the hood. I'm using [:fontawesome-solid-link: `fd`](https://github.com/sharkdp/fd) for general search, since it respects `.gitignore`. The command I'm using is
+General purpose search. Uses `FZF_DEFAULT_COMMAND` environment variable under the hood. I'm using [:fontawesome-solid-link: `fd`](../../shell/search-utils/fd.md) for general search, since it respects `.gitignore`.
 
-```bash
-fd -iH
-# i for ignoring case
-# H for including hidden files
-# Since .git is also hidden, I've placed it under ~/.fdignore
-# for universal ignoring
-```
 
 Search only certain filetype
 ---

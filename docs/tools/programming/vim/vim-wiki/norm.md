@@ -8,7 +8,8 @@ Resources
 Use norm with visual mode
 ---
 
-Let's say I want to prepend the text "prepend" and append the text "append" to a bunch of lines.
+Let's say I want to prepend the text "prepend" and append the text "append" to a
+bunch of lines.
 
 - Highlight lines
 - `:'<,'>norm! 0iprepend<C-v><Esc>Aappend` (Literally type `<C-v>` and `Esc`,

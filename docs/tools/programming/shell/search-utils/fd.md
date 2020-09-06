@@ -1,0 +1,27 @@
+fd
+===
+
+Resources
+---
+- [:fontawesome-brands-github: fd](https://github.com/sharkdp/fd)
+
+Powering FZF
+---
+
+`fd` can be used to power [fzf](../../vim/plugins/fzf.md) under the hood (both
+in the shell, and in vim), by setting`$FZF_DEFAULT_COMMAND`.
+
+My `$FZF_DEFAULT_COMMAND` is:
+
+```bash
+fd -iH
+# i for ignoring case
+# H for including hidden files
+```
+
+Ignore Files
+---
+
+fd has a `-E` flag for excluding files. For project specific configuration,
+create a `.fdignore` file, and place the exclude patterns in it. For global
+configuration, create a file at `~/.config/fd/ignore`.
