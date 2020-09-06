@@ -94,13 +94,13 @@ Given NAND:
 
 Build the following gates:
 
- - [ ] Elementary
+ - [x] Elementary
      - [x] Not
      - [x] And
      - [x] Or
      - [x] Xor
-     - [ ] Mux
-     - [ ] DMux
+     - [x] Mux
+     - [x] DMux
  - [ ] 16 bit variants
      - [ ] Not16
      - [ ] And16
@@ -131,5 +131,63 @@ CHIP Xor {
     And (a=a, b=notb, out=x);
     And (a=nota, b=b, out=y);
     Or (a=x, b=y, out=out);
+}
+```
+
+Mux
+---
+
+A multiplexor is a three-input gate that uses one of the inputs, called
+‘selection bit,’ to select and output one of the other two inputs, called ‘data
+bits.’ The name multiplexor was adopted from communications systems, where
+similar devices are used to serialize (multiplex) several input signals over a
+single output wire.
+
+![ [Image] ](assets/mux.png)
+
+A mux can be represented as:
+
+```
+(a AND NOT sel) OR  (b AND sel)
+```
+
+```vhdl
+CHIP Mux {
+    IN a, b, sel;
+    OUT out;
+
+    PARTS:
+    Not(in=sel, out=notSel);
+    And(a=a, b=notSel, out=aAndNotSel);
+    And(a=b, b=sel, out=bAndSel);
+    Or(a=aAndNotSel, b=bAndSel, out=out);
+}
+```
+
+DMux
+---
+
+A demultiplexor performs the opposite function of a multiplexor: It takes a
+single input and channels it to one of two possible outputs according to a
+selector bit that specifies which output to chose.
+
+![Image](assets/Dmux.png)
+
+a and b can be represented as:
+
+```
+a = in AND NOT sel
+b = in AND sel
+```
+
+```vhdl
+CHIP DMux {
+    IN in, sel;
+    OUT a, b;
+
+    PARTS:
+    Not(in=sel, out=notSel);
+    And(a=in, b=notSel, out=a);
+    And(a=in, b=sel, out=b);
 }
 ```
