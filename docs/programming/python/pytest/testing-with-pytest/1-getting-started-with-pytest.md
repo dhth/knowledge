@@ -55,3 +55,11 @@ pytest -k "asdict" --collect-only
 --disable-pytest-warnings
 # disable warnings
 ```
+
+```bash
+-r
+# show extra test summary info as specified by chars
+# show extra test summary info as specified by chars
+# (f)ailed, (E)error, (s)skipped, (x)failed, (X)passed,
+# (p)passed, (P)passed with output, (a)all except pP.
+```

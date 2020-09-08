@@ -23,3 +23,4 @@ Modules
 - [:fontawesome-solid-archive: Tools](./tools/index.md)
 - [:fontawesome-solid-archive: Books](books/index.md)
 - [:fontawesome-solid-archive: Other](other/index.md)
+- [:fontawesome-solid-archive: On My Mind](on-my-mind/index.md)
