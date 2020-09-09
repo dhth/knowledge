@@ -1,6 +1,9 @@
-# Programming
+Programming
+===
 
-## Modules
-- [:fontawesome-solid-folder: Python](python/index.md)
-- [:fontawesome-solid-folder: JavaScript](javascript/index.md)
-- [:fontawesome-solid-folder: Docker](docker/index.md)
+Modules
+---
+
+- [:fontawesome-brands-python: Python](python/index.md)
+- [:fontawesome-brands-js: JavaScript](javascript/index.md)
+- [:fontawesome-brands-docker: Docker](docker/index.md)

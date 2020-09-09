@@ -1,6 +1,8 @@
-# JavaScript
+JavaScript
+===
 
-## Modules
+Modules
+---
 
 - [:fontawesome-solid-folder: FreeCodeCamp](freecodecamp/index.md)
 - [:fontawesome-solid-file-alt: Timing Events](./timing_events.md)
