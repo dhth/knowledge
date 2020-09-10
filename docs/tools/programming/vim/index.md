@@ -13,5 +13,5 @@ Modules
 - [:fontawesome-solid-folder: Plugins](plugins/index.md): Vim plugins I use, and their commands.
 - [:fontawesome-solid-folder: Themes](themes/index.md): Vim themes
 - [:fontawesome-solid-folder: VimScript](vimscript/index.md)
-- [:fontawesome-solid-folder: Resources](resources.md)
+- [:fontawesome-solid-folder: Resources](resources/index.md)
 - [:fontawesome-solid-file-alt: Awesome Vim Folks](awesome-vim-folks.md)
