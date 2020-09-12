@@ -6,7 +6,7 @@ UCB's course from Spring 2015.
 Resources
 ---
 - [:fontawesome-solid-link: Course Page](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
-- [:fontawesome-solid-play: Playlist](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+- [:fontawesome-solid-play-circle: Playlist](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
 
 Modules
 ---

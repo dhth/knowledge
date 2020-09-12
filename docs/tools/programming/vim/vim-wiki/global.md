@@ -3,8 +3,8 @@ global
 
 Resources
 ---
-- [:fontawesome-solid-play: Video](https://www.youtube.com/watch?v=JgZu5-FNeMk)
-- [:fontawesome-solid-play: Video by ThePrimeagen](https://www.youtube.com/watch?v=CN8p9iL7PPI)
+- [:fontawesome-solid-play-circle: Video](https://www.youtube.com/watch?v=JgZu5-FNeMk)
+- [:fontawesome-solid-play-circle: Video by ThePrimeagen](https://www.youtube.com/watch?v=CN8p9iL7PPI)
 
 `:g`
 ---

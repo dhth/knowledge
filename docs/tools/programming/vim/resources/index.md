@@ -6,13 +6,15 @@ Awesome Vim resources.
 Screen Casts
 ---
 
-- [:fontawesome-solid-file-alt: VimCasts by Drew Neil](vimcasts-by-drew-neil.md)
+- [:fontawesome-solid-play-circle: VimCasts by Drew Neil](vimcasts-by-drew-neil.md)
+- [:fontawesome-solid-play-circle: Screencasts by Greg
+    Hurrell](screencasts-by-greg-hurrell.md)
 
 Videos
 ---
 
-- [:fontawesome-solid-play: Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0): Making good use of the basics
-- [:fontawesome-solid-play: VimConf 2020 Playlist](https://www.youtube.com/watch?v=bq0AksG6-S4)
+- [:fontawesome-solid-play-circle: Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0): Making good use of the basics
+- [:fontawesome-solid-play-circle: VimConf 2020 Playlist](https://www.youtube.com/watch?v=bq0AksG6-S4)
 
 Books
 ---

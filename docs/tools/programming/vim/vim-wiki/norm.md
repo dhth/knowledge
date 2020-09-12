@@ -3,7 +3,7 @@ Norm
 
 Resources
 ---
-- [:fontawesome-solid-play: A Vid in which Vim Saves Me Hours & Hundreds of Clicks](https://www.youtube.com/watch?v=hraHAZ1-RaM)
+- [:fontawesome-solid-play-circle: A Vid in which Vim Saves Me Hours & Hundreds of Clicks](https://www.youtube.com/watch?v=hraHAZ1-RaM)
 
 Use norm with visual mode
 ---

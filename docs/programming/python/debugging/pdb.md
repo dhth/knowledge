@@ -4,7 +4,7 @@ pdb
 Resources
 ---
 
-- [:fontawesome-solid-play: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
+- [:fontawesome-solid-play-circle: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
 
 My .pdbrc
 ---
