@@ -79,6 +79,6 @@ Screencasts
 - [ ] [:fontawesome-solid-play: 71 - Meet Neovim](http://vimcasts.org/episodes/meet-neovim/)
 - [ ] [:fontawesome-solid-play: 72 - CheckHealth in Neovim](http://vimcasts.org/episodes/neovim-checkhealth/)
 - [ ] [:fontawesome-solid-play: 73 - Live substitution and yank highlighting](http://vimcasts.org/episodes/neovim-eyecandy/)
-- [ ] [:fontawesome-solid-play: 74 - Neovim's terminal emulator](http://vimcasts.org/episodes/neovim-terminal/)
+- [x] [:fontawesome-solid-play: 74 - Neovim's terminal emulator](http://vimcasts.org/episodes/neovim-terminal/)
 - [ ] [:fontawesome-solid-play: 75 - Creating mappings for :terminal](http://vimcasts.org/episodes/neovim-terminal-mappings/)
 - [ ] [:fontawesome-solid-play: 76 - Pasting into a terminal buffer](http://vimcasts.org/episodes/neovim-terminal-paste/)

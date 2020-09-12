@@ -18,6 +18,7 @@ Books
 ---
 
 - [:fontawesome-solid-book: Learn VimScript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+- [:fontawesome-solid-book: Practical Vim](practical-vim.md)
 
 Articles
 ---
