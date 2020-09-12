@@ -10,7 +10,7 @@ Trying to document my short term goals here.
 - [x] Read [:fontawesome-solid-book: Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 - [ ] Read [:fontawesome-solid-book: Testing with
     Pytest](../programming/python/pytest/testing-with-pytest/index.md)
-- [ ] Learn about computer architecture from [:fontawesome-solid-university:
+- [ ] Finish [:fontawesome-solid-university:
   NandToTetris Part
   1](../computer-science/courses/from-nand-to-tetris-part-1/index.md)
 - [ ] Read [:fontawesome-solid-book: Essential SQLAlchemy](../programming/python/databases/sqlalchemy/essential-sqlalchemy/index.md)

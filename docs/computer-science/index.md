@@ -1,3 +1,3 @@
 # Computer Science
 
-- [:fontawesome-solid-folder: Courses](courses/index.md)
+- [:fontawesome-solid-university: Courses](courses/index.md)
