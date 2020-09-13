@@ -1,4 +1,4 @@
-.responsive {
+img {
   width: 80%;
   height: auto;
   display: block;
@@ -7,18 +7,18 @@
 }
 
 @media (max-width: 480px) {
-    .responsive{
+    img{
         width: 100%
     }
 }
 @media (min-width: 481px) and (max-width: 1024px) {
-    .responsive{
+    img{
         width: 75%
     }
 }
 @media (min-width: 1025px) {
-    .responsive{
-        width: 70%
+    img{
+        width: 80%
     }
 }
 
