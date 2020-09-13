@@ -88,7 +88,7 @@ Screencasts
 - [ ] [ #75: Plugin managers ](https://www.youtube.com/watch?v=X2_R3uxDN6g)
 - [ ] [ #76: vcs-jump ](https://www.youtube.com/watch?v=zKwsWIMfs24)
 - [ ] [ #77: Merge conflicts ](https://www.youtube.com/watch?v=5yAnbYNqU5A)
-- [ ] [ #78: Language Server Protocol ](https://www.youtube.com/watch?v=8PZZkIr5Dcc)
+- [x] [ #78: Language Server Protocol ](https://www.youtube.com/watch?v=8PZZkIr5Dcc)
 - [ ] [ #79: Project-specific overrides ](https://www.youtube.com/watch?v=ifA8iw42vwI)
 - [ ] [ #80: Learning Vim ](https://www.youtube.com/watch?v=ravIz1VXTTk)
 - [ ] [ #81: Compound FileTypes & Autocommands ](https://www.youtube.com/watch?v=Rleend27tes)

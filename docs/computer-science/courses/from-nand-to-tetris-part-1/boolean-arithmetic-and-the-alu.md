@@ -1,9 +1,6 @@
 Boolean Arithmetic and the ALU
 ===
 
-Addition of binary numbers
----
-
 Representing Negative Numbers
 ---
 
@@ -102,9 +99,48 @@ The ALU has 2 output control bits (`zr`, and `ng`), which work as follows:
 Project 2
 ---
 
-- [ ] HalfAdder
-- [ ] FullAdder
+- [x] HalfAdder
+- [x] FullAdder
 - [ ] Add16
 - [ ] Inc16
 - [ ] ALU
 
+HalfAdder
+---
+
+![Image](assets/half_adder.png)
+
+The carry column resembles an `AND` gate, and the sum column resembles an `XOR`
+gate.
+
+```vhdl
+CHIP HalfAdder {
+    IN a, b;    // 1-bit inputs
+    OUT sum,    // Right bit of a + b 
+        carry;  // Left bit of a + b
+
+    PARTS:
+    And(a=a, b=b, out=carry);
+    Xor(a=a, b=b, out=sum);
+}
+```
+
+
+FullAdder
+---
+
+![Image](assets/full_adder.png)
+
+![Image](assets/full_adder_helper.png)
+
+```vhdl
+CHIP HalfAdder {
+    IN a, b;    // 1-bit inputs
+    OUT sum,    // Right bit of a + b 
+        carry;  // Left bit of a + b
+
+    PARTS:
+    And(a=a, b=b, out=carry);
+    Xor(a=a, b=b, out=sum);
+}
+```
