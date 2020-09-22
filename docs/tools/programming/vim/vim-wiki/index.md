@@ -16,3 +16,4 @@ Modules
 - [:fontawesome-solid-file-alt: Autocommands](autocommands.md)
 - [:fontawesome-solid-file-alt: Splits](splits.md)
 - [:fontawesome-solid-file-alt: Vimdiff](vimdiff.md)
+- [:fontawesome-solid-file-alt: Files](files.md)

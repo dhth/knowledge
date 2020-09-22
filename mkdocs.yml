@@ -2,9 +2,9 @@ site_name: Dhruv's Wiki
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: lime
-    accent: deep orange
+    scheme: default
+    primary: indigo
+    accent: red
   font:
     text: Roboto
     code: Roboto Mono
