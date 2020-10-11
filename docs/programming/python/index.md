@@ -13,3 +13,5 @@ Modules
 - [:fontawesome-solid-folder: Profiling](profiling/index.md)
 - [:fontawesome-solid-folder: Asyncio](asyncio/index.md)
 - [:fontawesome-solid-folder: Typing](typing/index.md)
+- [:fontawesome-solid-folder: Flask](flask/index.md)
+- [:fontawesome-solid-file-alt: Imports](imports.md)

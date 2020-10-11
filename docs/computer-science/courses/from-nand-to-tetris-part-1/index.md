@@ -14,13 +14,14 @@ Modules
     Logic](boolean-functions-and-gate-logic.md)
 - [:fontawesome-solid-file-alt: Boolean Arithmetic and the
     ALU](boolean-arithmetic-and-the-alu.md)
+- [:fontawesome-solid-file-alt: Memory](memory.md)
 
 Module Checklist
 ---
 
 - [x] Introduction
 - [x] Boolean Functions and Gate Logic
-- [ ] Boolean Arithmetic and the ALU
+- [x] Boolean Arithmetic and the ALU
 - [ ] Memory
 - [ ] Machine Language
 - [ ] Computer Architecture

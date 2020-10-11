@@ -8,3 +8,4 @@ Modules
 - [:fontawesome-solid-file-alt: Terminal, Console, and,
     Shell](terminal-console-and-shell.md)
 - [:fontawesome-solid-folder: Search Utils](search-utils/index.md)
+- [:fontawesome-solid-folder: Bash](bash/index.md)

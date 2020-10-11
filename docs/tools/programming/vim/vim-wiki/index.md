@@ -17,3 +17,4 @@ Modules
 - [:fontawesome-solid-file-alt: Splits](splits.md)
 - [:fontawesome-solid-file-alt: Vimdiff](vimdiff.md)
 - [:fontawesome-solid-file-alt: Files](files.md)
+- [:fontawesome-solid-file-alt: QuickFix](quickfix.md)
