@@ -8,90 +8,90 @@ Resources
 Exercises
 ---
 
-- [x] [:fontawesome-solid-code: Hello World]
-- [x] [:fontawesome-solid-code: Two Fer]
-- [x] [:fontawesome-solid-code: Error Handling]
-- [ ] [:fontawesome-solid-code: Raindrops]
-- [ ] [:fontawesome-solid-code: Hamming]
-- [ ] [:fontawesome-solid-code: Acronym]
-- [ ] [:fontawesome-solid-code: Armstrong Numbers]
-- [ ] [:fontawesome-solid-code: Pangram]
-- [ ] [:fontawesome-solid-code: Bob]
-- [ ] [:fontawesome-solid-code: Scrabble Score]
-- [ ] [:fontawesome-solid-code: Grains]
-- [ ] [:fontawesome-solid-code: Reverse String]
-- [ ] [:fontawesome-solid-code: Difference Of Squares]
-- [ ] [:fontawesome-solid-code: Leap]
-- [ ] [:fontawesome-solid-code: RNA Transcription]
-- [ ] [:fontawesome-solid-code: Anagram]
-- [ ] [:fontawesome-solid-code: Collatz Conjecture]
-- [ ] [:fontawesome-solid-code: Nucleotide Count]
-- [ ] [:fontawesome-solid-code: Phone Number]
-- [ ] [:fontawesome-solid-code: Triangle]
-- [ ] [:fontawesome-solid-code: Word Count]
-- [ ] [:fontawesome-solid-code: Gigasecond]
-- [ ] [:fontawesome-solid-code: Luhn]
-- [ ] [:fontawesome-solid-code: Atbash Cipher]
-- [ ] [:fontawesome-solid-code: Roman Numerals]
-- [ ] [:fontawesome-solid-code: Affine Cipher]
-- [ ] [:fontawesome-solid-code: Isogram]
-- [ ] [:fontawesome-solid-code: Diamond]
-- [ ] [:fontawesome-solid-code: ISBN Verifier]
-- [ ] [:fontawesome-solid-code: All Your Base]
-- [ ] [:fontawesome-solid-code: Allergies]
-- [ ] [:fontawesome-solid-code: Beer Song]
-- [ ] [:fontawesome-solid-code: Food Chain]
-- [ ] [:fontawesome-solid-code: Forth]
-- [ ] [:fontawesome-solid-code: Resistor Color Duo]
-- [ ] [:fontawesome-solid-code: Resistor Color Trio]
-- [ ] [:fontawesome-solid-code: Binary Search]
-- [ ] [:fontawesome-solid-code: Say]
-- [ ] [:fontawesome-solid-code: Space Age]
-- [ ] [:fontawesome-solid-code: Matching Brackets]
-- [ ] [:fontawesome-solid-code: House]
-- [ ] [:fontawesome-solid-code: Proverb]
-- [ ] [:fontawesome-solid-code: Twelve Days]
-- [ ] [:fontawesome-solid-code: Change]
-- [ ] [:fontawesome-solid-code: Grep]
-- [ ] [:fontawesome-solid-code: Diffie Hellman]
-- [ ] [:fontawesome-solid-code: Two Bucket]
-- [ ] [:fontawesome-solid-code: Pig Latin]
-- [ ] [:fontawesome-solid-code: Prime Factors]
-- [ ] [:fontawesome-solid-code: Run Length Encoding]
-- [ ] [:fontawesome-solid-code: Secret Handshake]
-- [ ] [:fontawesome-solid-code: Series]
-- [ ] [:fontawesome-solid-code: Sieve]
-- [ ] [:fontawesome-solid-code: Rotational Cipher]
-- [ ] [:fontawesome-solid-code: Largest Series Product]
-- [ ] [:fontawesome-solid-code: Yacht]
-- [ ] [:fontawesome-solid-code: Rational Numbers]
-- [ ] [:fontawesome-solid-code: Perfect Numbers]
-- [ ] [:fontawesome-solid-code: Protein Translation]
-- [ ] [:fontawesome-solid-code: Sum Of Multiples]
-- [ ] [:fontawesome-solid-code: Pascal's Triangle]
-- [ ] [:fontawesome-solid-code: Bowling]
-- [ ] [:fontawesome-solid-code: Kindergarten Garden]
-- [ ] [:fontawesome-solid-code: Palindrome Products]
-- [ ] [:fontawesome-solid-code: Nth Prime]
-- [ ] [:fontawesome-solid-code: Wordy]
-- [ ] [:fontawesome-solid-code: Simple Cipher]
-- [ ] [:fontawesome-solid-code: Variable Length Quantity]
-- [ ] [:fontawesome-solid-code: Pythagorean Triplet]
-- [ ] [:fontawesome-solid-code: Markdown]
-- [ ] [:fontawesome-solid-code: OCR Numbers]
-- [ ] [:fontawesome-solid-code: Transpose]
-- [ ] [:fontawesome-solid-code: Robot Simulator]
-- [ ] [:fontawesome-solid-code: Tournament]
-- [ ] [:fontawesome-solid-code: Spiral Matrix]
-- [ ] [:fontawesome-solid-code: Clock]
-- [ ] [:fontawesome-solid-code: Sublist]
-- [ ] [:fontawesome-solid-code: Meetup]
-- [ ] [:fontawesome-solid-code: D&D Character]
-- [ ] [:fontawesome-solid-code: Knapsack]
-- [ ] [:fontawesome-solid-code: Queen Attack]
-- [ ] [:fontawesome-solid-code: Poker]
-- [ ] [:fontawesome-solid-code: Rail Fence Cipher]
-- [ ] [:fontawesome-solid-code: Crypto Square]
-- [ ] [:fontawesome-solid-code: Rectangles]
-- [ ] [:fontawesome-solid-code: Darts]
-- [ ] [:fontawesome-solid-code: Satellite]
+- [x] Hello World
+- [x] Two Fer
+- [x] Error Handling
+- [ ] Raindrops
+- [ ] Hamming
+- [ ] Acronym
+- [ ] Armstrong Numbers
+- [ ] Pangram
+- [ ] Bob
+- [ ] Scrabble Score
+- [ ] Grains
+- [ ] Reverse String
+- [ ] Difference Of Squares
+- [ ] Leap
+- [ ] RNA Transcription
+- [ ] Anagram
+- [ ] Collatz Conjecture
+- [ ] Nucleotide Count
+- [ ] Phone Number
+- [ ] Triangle
+- [ ] Word Count
+- [ ] Gigasecond
+- [ ] Luhn
+- [ ] Atbash Cipher
+- [ ] Roman Numerals
+- [ ] Affine Cipher
+- [ ] Isogram
+- [ ] Diamond
+- [ ] ISBN Verifier
+- [ ] All Your Base
+- [ ] Allergies
+- [ ] Beer Song
+- [ ] Food Chain
+- [ ] Forth
+- [ ] Resistor Color Duo
+- [ ] Resistor Color Trio
+- [ ] Binary Search
+- [ ] Say
+- [ ] Space Age
+- [ ] Matching Brackets
+- [ ] House
+- [ ] Proverb
+- [ ] Twelve Days
+- [ ] Change
+- [ ] Grep
+- [ ] Diffie Hellman
+- [ ] Two Bucket
+- [ ] Pig Latin
+- [ ] Prime Factors
+- [ ] Run Length Encoding
+- [ ] Secret Handshake
+- [ ] Series
+- [ ] Sieve
+- [ ] Rotational Cipher
+- [ ] Largest Series Product
+- [ ] Yacht
+- [ ] Rational Numbers
+- [ ] Perfect Numbers
+- [ ] Protein Translation
+- [ ] Sum Of Multiples
+- [ ] Pascal's Triangle
+- [ ] Bowling
+- [ ] Kindergarten Garden
+- [ ] Palindrome Products
+- [ ] Nth Prime
+- [ ] Wordy
+- [ ] Simple Cipher
+- [ ] Variable Length Quantity
+- [ ] Pythagorean Triplet
+- [ ] Markdown
+- [ ] OCR Numbers
+- [ ] Transpose
+- [ ] Robot Simulator
+- [ ] Tournament
+- [ ] Spiral Matrix
+- [ ] Clock
+- [ ] Sublist
+- [ ] Meetup
+- [ ] D&D Character
+- [ ] Knapsack
+- [ ] Queen Attack
+- [ ] Poker
+- [ ] Rail Fence Cipher
+- [ ] Crypto Square
+- [ ] Rectangles
+- [ ] Darts
+- [ ] Satellite
