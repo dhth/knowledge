@@ -15,3 +15,4 @@ Modules
 - [:fontawesome-solid-folder: Typing](typing/index.md)
 - [:fontawesome-solid-folder: Flask](flask/index.md)
 - [:fontawesome-solid-file-alt: Imports](imports.md)
+- [:fontawesome-solid-file-alt: Decorators](decorators.md)

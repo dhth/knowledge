@@ -60,11 +60,11 @@ Book Chapters Checklist
     - [ ] Reflecting a Whole Database
     - [ ] Query Building with Reflected Objects
     - [ ] II. SQLAlchemy ORM
-- [ ] 6. Defining Schema with SQLAlchemy ORM
-    - [ ] Defining Tables via ORM Classes
-    - [ ] Keys, Constraints, and Indexes
-    - [ ] Relationships
-    - [ ] Persisting the Schema
+- [x] 6. Defining Schema with SQLAlchemy ORM
+    - [x] Defining Tables via ORM Classes
+    - [x] Keys, Constraints, and Indexes
+    - [x] Relationships
+    - [x] Persisting the Schema
 - [ ] 7. Working with Data via SQLAlchemy ORM
     - [ ] The Session
     - [ ] Inserting Data
