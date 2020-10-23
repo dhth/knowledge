@@ -7,6 +7,7 @@ Resources
 - [:fontawesome-brands-github:
     Repo](https://github.com/jasonamyers/essential-sqlalchemy-2ed-examples)
 
+
 Modules
 ---
 

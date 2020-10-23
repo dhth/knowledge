@@ -3,6 +3,21 @@ Dhruv's Wiki
 
 My long-term goal for this wiki is to consolidate all — or atleast most! — of what I know.
 
+Recently modified
+---
+
+<!--
+RECENTLYMODIFIEDBEGIN
+-->
+
+- [:fontawesome-solid-link: programming/python/decorators](programming/python/decorators.md)
+- [:fontawesome-solid-link: programming/python/databases/sqlalchemy/essential-sqlalchemy/index](programming/python/databases/sqlalchemy/essential-sqlalchemy/index.md)
+
+<!--
+RECENTLYMODIFIEDEND
+-->
+
+
 Why does this exist?
 ---
 

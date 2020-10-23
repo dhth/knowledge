@@ -12,7 +12,6 @@ def get_staged_files_md_links(staged_files):
                 # if not f_name.endswith("index.md"):
                 md_file_link = (f_name.split("docs/")[1])
                 md_file_title = md_file_link.split(".md")[0]
-                print(md_file_title, md_file_link)
                 md_links.append(f"- [:fontawesome-solid-link: {md_file_title}]({md_file_link})")
     return md_links
 
@@ -52,3 +51,4 @@ if __name__ == "__main__":
     staged_files = get_staged_files()
     updated_links = get_staged_files_md_links(staged_files)
     insert_updated_links(updated_links, 'docs/index.md',begin_marker="RECENTLYMODIFIEDBEGIN", end_marker="RECENTLYMODIFIEDEND")
+    print("Done.")
