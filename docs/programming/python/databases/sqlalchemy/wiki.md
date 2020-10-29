@@ -18,4 +18,9 @@ object will also be deleted. Same goes for addresses that have been
 de-associated from their parent.
 
 
+Query on JSON field
+---
 
+```python
+query = Table.query.filter(Table.json_column.contains({"someField": True}))
+```

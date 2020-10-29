@@ -10,7 +10,10 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-link: programming/python/databases/sqlalchemy/wiki](programming/python/databases/sqlalchemy/wiki.md)
 - [:fontawesome-solid-link: programming/python/decorators](programming/python/decorators.md)
+- [:fontawesome-solid-link: tools/programming/vim/vim-wiki/index](tools/programming/vim/vim-wiki/index.md)
+- [:fontawesome-solid-link: tools/programming/vim/vim-wiki/search](tools/programming/vim/vim-wiki/search.md)
 - [:fontawesome-solid-link: programming/python/databases/sqlalchemy/essential-sqlalchemy/index](programming/python/databases/sqlalchemy/essential-sqlalchemy/index.md)
 
 <!--
