@@ -5,8 +5,9 @@
 
 import subprocess
 
+
 def get_staged_files():
-    command = ['git', 'diff', '--name-only', '--cached']
+    command = ["git", "diff", "--name-only", "--cached"]
     result = subprocess.run(command, stdout=subprocess.PIPE)
     staged_files_str = (result.stdout).decode("utf-8")
 
@@ -31,15 +32,19 @@ def get_staged_file_names(staged_files):
 
     res_files_unique_str = " ".join(res_files_unique)
 
-    copy_command = f"echo \"{res_files_unique_str}\" | pbcopy"
+    copy_command = f'echo "{res_files_unique_str}" | pbcopy'
 
-# https://stackoverflow.com/questions/41238273/execute-shell-command-with-pipes-in-python
+    # https://stackoverflow.com/questions/41238273/execute-shell-command-with-pipes-in-python
 
-# Copy changed file names to system clipboard
+    # Copy changed file names to system clipboard
 
-    p = subprocess.Popen(copy_command, shell=True, stdin=subprocess.PIPE,
-                     stdout=subprocess.PIPE,
-                     stderr=subprocess.PIPE)
+    p = subprocess.Popen(
+        copy_command,
+        shell=True,
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
 
     print(res_files_unique_str)
 

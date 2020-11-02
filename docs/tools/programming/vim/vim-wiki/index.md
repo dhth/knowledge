@@ -19,3 +19,4 @@ Modules
 - [:fontawesome-solid-file-alt: Files](files.md)
 - [:fontawesome-solid-file-alt: QuickFix](quickfix.md)
 - [:fontawesome-solid-file-alt: Search](search.md)
+- [:fontawesome-solid-file-alt: Miscellaneous](miscellaneous.md)
