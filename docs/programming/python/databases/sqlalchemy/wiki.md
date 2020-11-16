@@ -24,3 +24,12 @@ Query on JSON field
 ```python
 query = Table.query.filter(Table.json_column.contains({"someField": True}))
 ```
+
+Single table inheritance alongside mixins
+---
+
+A mixin that sets table name for a table can be used for a single table
+inheritance scenario by just setting `__tablename__` to `None` in subclasses.
+
+More [:fontawesome-solid-link:
+here](https://docs.sqlalchemy.org/en/13/orm/extensions/declarative/mixins.html#controlling-table-inheritance-with-mixins).

@@ -46,7 +46,7 @@ def get_staged_files_md_links(staged_files):
                 md_file_link = f_name.split("docs/")[1]
                 md_file_title = md_file_link.split(".md")[0]
                 md_file_title_trimmed = trim_title(md_file_title)
-                md_line = f"- [:fontawesome-solid-link: {md_file_title_trimmed}]({md_file_link})"
+                md_line = f"- [:fontawesome-solid-file-alt: {md_file_title_trimmed}]({md_file_link})"
                 md_links.append(md_line)
     return md_links
 

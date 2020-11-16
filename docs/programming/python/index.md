@@ -16,3 +16,4 @@ Modules
 - [:fontawesome-solid-folder: Flask](flask/index.md)
 - [:fontawesome-solid-file-alt: Imports](imports.md)
 - [:fontawesome-solid-file-alt: Decorators](decorators.md)
+- [:fontawesome-solid-book: Python Tricks](python-tricks/index.md)
