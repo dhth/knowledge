@@ -1,3 +1,8 @@
+---
+title: Boolean Arithmetic and the ALU
+summary:
+---
+
 Boolean Arithmetic and the ALU
 ===
 

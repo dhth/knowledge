@@ -1,4 +1,9 @@
-Python Resources
+---
+title: Resources
+summary:
+---
+
+Resources
 ===
 
 Awesome python resources:

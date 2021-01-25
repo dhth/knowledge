@@ -2,7 +2,7 @@ from utils.get_staged_file_names import get_staged_files
 import re
 
 
-def insert_updated_links(updated_links, file_name, begin_marker, end_marker, limit=10):
+def insert_updated_links(updated_links, file_name, begin_marker, end_marker, limit=15):
     chop = re.compile(f"{begin_marker}.*?{end_marker}", re.DOTALL)
 
     f = open(file_name, "r")
@@ -42,12 +42,12 @@ def get_staged_files_md_links(staged_files):
         if len(f) > 0:
             f_name = f.strip()
             if f_name.endswith(".md"):
-                # if not f_name.endswith("index.md"):
-                md_file_link = f_name.split("docs/")[1]
-                md_file_title = md_file_link.split(".md")[0]
-                md_file_title_trimmed = trim_title(md_file_title)
-                md_line = f"- [:fontawesome-solid-file-alt: {md_file_title_trimmed}]({md_file_link})"
-                md_links.append(md_line)
+                if not f_name.endswith("index.md"):
+                    md_file_link = f_name.split("docs/")[1]
+                    md_file_title = md_file_link.split(".md")[0]
+                    md_file_title_trimmed = trim_title(md_file_title)
+                    md_line = f"- [:fontawesome-solid-file-alt: {md_file_title_trimmed}]({md_file_link})"
+                    md_links.append(md_line)
     return md_links
 
 

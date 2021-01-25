@@ -1,3 +1,8 @@
+---
+title: Vimdiff
+summary:
+---
+
 Vimdiff
 ===
 

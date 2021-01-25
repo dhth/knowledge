@@ -1,3 +1,8 @@
+---
+title: Global
+summary:
+---
+
 global
 ===
 

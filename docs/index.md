@@ -10,15 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: book-tracker/index](books/book-tracker/index.md)
-- [:fontawesome-solid-file-alt: json-web-token/index](computer-science/security/json-web-token/index.md)
-- [:fontawesome-solid-file-alt: exercism/index](programming/exercism/index.md)
-- [:fontawesome-solid-file-alt: exercism/vim-script](programming/exercism/vim-script.md)
-- [:fontawesome-solid-file-alt: sqlalchemy/wiki](programming/python/databases/sqlalchemy/wiki.md)
-- [:fontawesome-solid-file-alt: python/index](programming/python/index.md)
-- [:fontawesome-solid-file-alt: python-tricks/index](programming/python/python-tricks/index.md)
-- [:fontawesome-solid-file-alt: programming/index](programming/index.md)
-- [:fontawesome-solid-file-alt: web/index](programming/web/index.md)
+- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/1_introduction](computer-science/courses/from-nand-to-tetris-part-1/1_introduction.md)
+- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/2_boolean-functions-and-gate-logic](computer-science/courses/from-nand-to-tetris-part-1/2_boolean-functions-and-gate-logic.md)
+- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/3_boolean-arithmetic-and-the-alu](computer-science/courses/from-nand-to-tetris-part-1/3_boolean-arithmetic-and-the-alu.md)
+- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/4_memory](computer-science/courses/from-nand-to-tetris-part-1/4_memory.md)
+- [:fontawesome-solid-file-alt: other/01_random](other/01_random.md)
+- [:fontawesome-solid-file-alt: python/01_resources](programming/python/01_resources.md)
+- [:fontawesome-solid-file-alt: python/02_imports](programming/python/02_imports.md)
+- [:fontawesome-solid-file-alt: python/03_decorators](programming/python/03_decorators.md)
+- [:fontawesome-solid-file-alt: python/04_traceback](programming/python/04_traceback.md)
+- [:fontawesome-solid-file-alt: apis/github-api](programming/web/apis/github-api.md)
+- [:fontawesome-solid-file-alt: search-utils/01_fd](tools/programming/shell/search-utils/01_fd.md)
+- [:fontawesome-solid-file-alt: search-utils/02_ripgrep](tools/programming/shell/search-utils/02_ripgrep.md)
+- [:fontawesome-solid-file-alt: plugins/fzf](tools/programming/vim/plugins/fzf.md)
+- [:fontawesome-solid-file-alt: vim-wiki/01_norm](tools/programming/vim/vim-wiki/01_norm.md)
+- [:fontawesome-solid-file-alt: vim-wiki/02_global](tools/programming/vim/vim-wiki/02_global.md)
 
 <!--
 RECENTLYMODIFIEDEND

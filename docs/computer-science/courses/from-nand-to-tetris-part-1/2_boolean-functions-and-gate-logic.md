@@ -1,3 +1,8 @@
+---
+title: Boolean Functions and Gate Logic
+summary:
+---
+
 Boolean Functions and Gate Logic
 ===
 
