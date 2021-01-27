@@ -27,4 +27,6 @@ With Vim
 
 ```bash
 :Rg --hidden --iglob='!.git/' -g 'conftest.py' attachment
-```
+``` 
+
+Ripgrep powers [CocSearch](../../vim/plugins/coc/01_cocsearch.md).

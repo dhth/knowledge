@@ -8,16 +8,9 @@ Resources
 
 Modules
 ---
-- [:fontawesome-solid-file-alt: Coc-Python](coc-python.md)
+- [:fontawesome-solid-file-alt: CocSearch](01_cocsearch.md)
+- [:fontawesome-solid-file-alt: Coc-Python](02_coc-python.md)
 
-CocSearch
----
-
-```
-:CocSearch whateverstring -A 20
-// returns buffer with instances of
-// whateverstring along with 20 more lines
-```
 
 Open jump definition in a new tab
 ---

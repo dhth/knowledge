@@ -10,6 +10,9 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: search-utils/02_ripgrep](tools/programming/shell/search-utils/02_ripgrep.md)
+- [:fontawesome-solid-file-alt: coc/01_cocsearch](tools/programming/vim/plugins/coc/01_cocsearch.md)
+- [:fontawesome-solid-file-alt: coc/02_coc-python](tools/programming/vim/plugins/coc/02_coc-python.md)
 - [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/1_introduction](computer-science/courses/from-nand-to-tetris-part-1/1_introduction.md)
 - [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/2_boolean-functions-and-gate-logic](computer-science/courses/from-nand-to-tetris-part-1/2_boolean-functions-and-gate-logic.md)
 - [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/3_boolean-arithmetic-and-the-alu](computer-science/courses/from-nand-to-tetris-part-1/3_boolean-arithmetic-and-the-alu.md)
@@ -21,10 +24,7 @@ RECENTLYMODIFIEDBEGIN
 - [:fontawesome-solid-file-alt: python/04_traceback](programming/python/04_traceback.md)
 - [:fontawesome-solid-file-alt: apis/github-api](programming/web/apis/github-api.md)
 - [:fontawesome-solid-file-alt: search-utils/01_fd](tools/programming/shell/search-utils/01_fd.md)
-- [:fontawesome-solid-file-alt: search-utils/02_ripgrep](tools/programming/shell/search-utils/02_ripgrep.md)
 - [:fontawesome-solid-file-alt: plugins/fzf](tools/programming/vim/plugins/fzf.md)
-- [:fontawesome-solid-file-alt: vim-wiki/01_norm](tools/programming/vim/vim-wiki/01_norm.md)
-- [:fontawesome-solid-file-alt: vim-wiki/02_global](tools/programming/vim/vim-wiki/02_global.md)
 
 <!--
 RECENTLYMODIFIEDEND
@@ -34,7 +34,7 @@ RECENTLYMODIFIEDEND
 Why does this exist?
 ---
 
-I've been writing reasonably well maintained notes on Notion for a while now. Even though it's one of the best note taking tools out there, I didn't want to be tied down to a specific platform for my wiki. On top of that, the lack of Vim — which I recently picked up — key bindings in Notion expedited the switch to simple markdown based notes.
+I've been writing reasonably well maintained notes on Notion for a while now. Even though it's one of the best note taking tools out there, I didn't want to be tied down to a specific platform for my wiki. On top of that, the lack of Vim key bindings in Notion expedited the switch to simple markdown based notes.
 
 The following infographic sums up my reasoning behind creating a wiki like this.
 <img src="assets/images/information-vs-knowledge.png" alt="information-vs-knowledge" class="responsive">
