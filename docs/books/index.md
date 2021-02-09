@@ -4,4 +4,6 @@ Books
 Modules
 ---
 
-- [:fontawesome-solid-folder: Book Tracker](book-tracker/index.md)
+- [:fontawesome-solid-clipboard: Book Tracker](00-book-tracker.md)
+- [:fontawesome-solid-book: The Mediocre
+    Programmer](01-the-mediocre-programmer.md)

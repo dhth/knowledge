@@ -42,22 +42,33 @@ def get_staged_files_md_links(staged_files):
         if len(f) > 0:
             f_name = f.strip()
             if f_name.endswith(".md"):
-                if not f_name.endswith("index.md"):
-                    md_file_link = f_name.split("docs/")[1]
-                    md_file_title = md_file_link.split(".md")[0]
-                    md_file_title_trimmed = trim_title(md_file_title)
-                    md_line = f"- [:fontawesome-solid-file-alt: {md_file_title_trimmed}]({md_file_link})"
-                    md_links.append(md_line)
+                # if not f_name.endswith("index.md"):
+                md_file_link = f_name.split("docs/")[1]
+                md_file_title = md_file_link.split(".md")[0]
+                md_file_title_trimmed = trim_title(md_file_title)
+                md_line = f"- [:fontawesome-solid-file-alt: {md_file_title_trimmed}]({md_file_link})"
+                md_links.append(md_line)
     return md_links
 
 
 def trim_title(title):
     count_slashes = title.count("/")
     if count_slashes <= 1:
-        return title
+        return title_case(title)
     separated = title.split("/")
     last_two = separated[-2:]
-    return "/".join(last_two)
+    return title_case("/".join(last_two))
+
+def title_case(title):
+    elements = title.split("/")
+    if len(elements) > 1:
+        if elements[1][0].isdigit():
+            first_two = elements[1][:2]
+            first_two = re.sub('\d', '', first_two).strip()
+            elements[1] = f'{first_two}{elements[1][2:]}'
+    return "/".join([re.sub('[-_]', ' ',
+                            element).strip().title() for element in elements])
+
 
 
 if __name__ == "__main__":

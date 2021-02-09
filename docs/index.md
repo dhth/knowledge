@@ -10,21 +10,17 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: search-utils/02_ripgrep](tools/programming/shell/search-utils/02_ripgrep.md)
-- [:fontawesome-solid-file-alt: coc/01_cocsearch](tools/programming/vim/plugins/coc/01_cocsearch.md)
-- [:fontawesome-solid-file-alt: coc/02_coc-python](tools/programming/vim/plugins/coc/02_coc-python.md)
-- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/1_introduction](computer-science/courses/from-nand-to-tetris-part-1/1_introduction.md)
-- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/2_boolean-functions-and-gate-logic](computer-science/courses/from-nand-to-tetris-part-1/2_boolean-functions-and-gate-logic.md)
-- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/3_boolean-arithmetic-and-the-alu](computer-science/courses/from-nand-to-tetris-part-1/3_boolean-arithmetic-and-the-alu.md)
-- [:fontawesome-solid-file-alt: from-nand-to-tetris-part-1/4_memory](computer-science/courses/from-nand-to-tetris-part-1/4_memory.md)
-- [:fontawesome-solid-file-alt: other/01_random](other/01_random.md)
-- [:fontawesome-solid-file-alt: python/01_resources](programming/python/01_resources.md)
-- [:fontawesome-solid-file-alt: python/02_imports](programming/python/02_imports.md)
-- [:fontawesome-solid-file-alt: python/03_decorators](programming/python/03_decorators.md)
-- [:fontawesome-solid-file-alt: python/04_traceback](programming/python/04_traceback.md)
-- [:fontawesome-solid-file-alt: apis/github-api](programming/web/apis/github-api.md)
-- [:fontawesome-solid-file-alt: search-utils/01_fd](tools/programming/shell/search-utils/01_fd.md)
-- [:fontawesome-solid-file-alt: plugins/fzf](tools/programming/vim/plugins/fzf.md)
+- [:fontawesome-solid-file-alt: Books/Book Tracker](books/00-book-tracker.md)
+- [:fontawesome-solid-file-alt: Books/The Mediocre Programmer](books/01-the-mediocre-programmer.md)
+- [:fontawesome-solid-file-alt: Books/Index](books/index.md)
+- [:fontawesome-solid-file-alt: 13 Asymptotics/Index](computer-science/courses/cs61b-data-structures/13-asymptotics/index.md)
+- [:fontawesome-solid-file-alt: 17 B Trees/Index](computer-science/courses/cs61b-data-structures/17-b-trees/index.md)
+- [:fontawesome-solid-file-alt: Cs61B Data Structures/Index](computer-science/courses/cs61b-data-structures/index.md)
+- [:fontawesome-solid-file-alt: Programming/Index](tools/programming/index.md)
+- [:fontawesome-solid-file-alt: Intellij/Shortcuts](tools/programming/intellij/01_shortcuts.md)
+- [:fontawesome-solid-file-alt: Intellij/Resources](tools/programming/intellij/02_resources.md)
+- [:fontawesome-solid-file-alt: Intellij/Ideavim](tools/programming/intellij/03_ideavim.md)
+- [:fontawesome-solid-file-alt: Intellij/Index](tools/programming/intellij/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

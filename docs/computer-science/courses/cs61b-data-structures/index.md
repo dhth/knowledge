@@ -7,6 +7,8 @@ Resources
 
 Modules
 ---
+- [:fontawesome-solid-folder: 13: Asymptotics](13-asymptotics/index.md)
+- [:fontawesome-solid-folder: 17: B Trees](17-b-trees/index.md)
 
 Lecture Checklist
 ---
