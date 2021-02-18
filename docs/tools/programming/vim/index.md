@@ -13,3 +13,4 @@ Modules
 - [:fontawesome-solid-folder: VimScript](vimscript/index.md)
 - [:fontawesome-solid-folder: Resources](resources/index.md)
 - [:fontawesome-solid-file-alt: Awesome Vim Folks](awesome-vim-folks.md)
+- [:fontawesome-solid-folder: NeoVim](neovim/index.md)

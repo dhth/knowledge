@@ -9,3 +9,4 @@ Modules
 - [:fontawesome-brands-docker: Docker](docker/index.md)
 - [:fontawesome-solid-code: Exercism](exercism/index.md)
 - [:fontawesome-solid-folder: Web](web/index.md)
+- [:fontawesome-solid-folder: Java](java/index.md)

@@ -12,4 +12,5 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Colors in Tmux](colors-in-tmux.md)
+- [:fontawesome-solid-file-alt: Wiki](01-wiki.md)
+- [:fontawesome-solid-file-alt: Colors in Tmux](02-colors-in-tmux.md)

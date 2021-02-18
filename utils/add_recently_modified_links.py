@@ -41,6 +41,8 @@ def get_staged_files_md_links(staged_files):
     for f in staged_files:
         if len(f) > 0:
             f_name = f.strip()
+            if f_name == "docs/index.md":
+                continue
             if f_name.endswith(".md"):
                 # if not f_name.endswith("index.md"):
                 md_file_link = f_name.split("docs/")[1]

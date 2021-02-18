@@ -1,4 +1,4 @@
-site_name: Dhruv's Wiki
+site_name: dhruv's wiki
 theme:
   name: material
   palette:
@@ -9,8 +9,8 @@ theme:
     text: Roboto
     code: Roboto Mono
   features:
-    - instant
-    - tabs
+    - navigation.instant
+    - navigation.tabs
   favicon: assets/images/favicon.png
   icon:
     logo: fontawesome/solid/code

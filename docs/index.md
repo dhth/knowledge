@@ -1,4 +1,4 @@
-Dhruv's Wiki
+dhruv's wiki
 ===
 
 My long-term goal for this wiki is to consolidate all — or atleast most! — of what I know.
@@ -12,15 +12,19 @@ RECENTLYMODIFIEDBEGIN
 
 - [:fontawesome-solid-file-alt: Books/Book Tracker](books/00-book-tracker.md)
 - [:fontawesome-solid-file-alt: Books/The Mediocre Programmer](books/01-the-mediocre-programmer.md)
-- [:fontawesome-solid-file-alt: Books/Index](books/index.md)
-- [:fontawesome-solid-file-alt: 13 Asymptotics/Index](computer-science/courses/cs61b-data-structures/13-asymptotics/index.md)
-- [:fontawesome-solid-file-alt: 17 B Trees/Index](computer-science/courses/cs61b-data-structures/17-b-trees/index.md)
+- [:fontawesome-solid-file-alt: 20 Heaps And Primary Queues/Index](computer-science/courses/cs61b-data-structures/20-heaps-and-primary-queues/index.md)
 - [:fontawesome-solid-file-alt: Cs61B Data Structures/Index](computer-science/courses/cs61b-data-structures/index.md)
-- [:fontawesome-solid-file-alt: Programming/Index](tools/programming/index.md)
-- [:fontawesome-solid-file-alt: Intellij/Shortcuts](tools/programming/intellij/01_shortcuts.md)
-- [:fontawesome-solid-file-alt: Intellij/Resources](tools/programming/intellij/02_resources.md)
-- [:fontawesome-solid-file-alt: Intellij/Ideavim](tools/programming/intellij/03_ideavim.md)
-- [:fontawesome-solid-file-alt: Intellij/Index](tools/programming/intellij/index.md)
+- [:fontawesome-solid-file-alt: Programming/Index](programming/index.md)
+- [:fontawesome-solid-file-alt: Java/Index](programming/java/index.md)
+- [:fontawesome-solid-file-alt: Maven/Basics](programming/java/maven/01-basics.md)
+- [:fontawesome-solid-file-alt: Maven/Index](programming/java/maven/index.md)
+- [:fontawesome-solid-file-alt: Mac/Tools](tools/mac/tools.md)
+- [:fontawesome-solid-file-alt: Tmux/Wiki](tools/programming/tmux/01-wiki.md)
+- [:fontawesome-solid-file-alt: Tmux/Colors In Tmux](tools/programming/tmux/02-colors-in-tmux.md)
+- [:fontawesome-solid-file-alt: Tmux/Index](tools/programming/tmux/index.md)
+- [:fontawesome-solid-file-alt: Vim/Index](tools/programming/vim/index.md)
+- [:fontawesome-solid-file-alt: Neovim/Index](tools/programming/vim/neovim/index.md)
+- [:fontawesome-solid-file-alt: Plugin Development/Index](tools/programming/vim/neovim/plugin-development/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

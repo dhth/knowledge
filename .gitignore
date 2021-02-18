@@ -2,3 +2,4 @@
 *.mov
 __pycache__
 .pytest_cache
+site
