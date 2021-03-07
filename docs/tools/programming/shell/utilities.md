@@ -1,14 +1,11 @@
 Shell Utilities
 ===
 
-Currently using:
+Cool Tools
 ---
-These are the shell utilities that I use.
 
-### tree
-```bash
-brew install tree
-```
+- [:fontawesome-solid-link: tree](https://formulae.brew.sh/formula/tree): recursive directory listing
+- [:fontawesome-brands-github: lookatme](https://github.com/d0c-s4vage/lookatme): presentations
 
 Yet to check out:
 ---

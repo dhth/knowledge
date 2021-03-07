@@ -1,9 +1,9 @@
 ---
-title: "17: B Trees"
+title: "B Trees"
 summary: 
 ---
 
-17: B Trees
+B Trees
 ===
 
 Asymptotics for tree height

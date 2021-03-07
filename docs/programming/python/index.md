@@ -20,6 +20,6 @@ Modules
 - [:fontawesome-solid-folder: Packaging](packaging/index.md)
 - [:fontawesome-solid-folder: Profiling](profiling/index.md)
 - [:fontawesome-solid-folder: Pytest](pytest/index.md)
-- [:fontawesome-solid-book: Python Tricks](python-tricks/index.md)
+- [:fontawesome-solid-book: Books](books/index.md)
 - [:fontawesome-solid-folder: Setup](setup/index.md)
 - [:fontawesome-solid-folder: Typing](typing/index.md)

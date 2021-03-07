@@ -1,9 +1,9 @@
 ---
-title: "20: Heaps and Primary Queues"
+title: "Heaps and Primary Queues"
 summary: 
 ---
 
-20: Heaps and Primary Queues
+Heaps and Primary Queues
 ===
 
 Resources
@@ -105,13 +105,11 @@ queue can have duplicates. This makes a BST a bad contender for this use case.
 The worst case runtimes for these two data structures can be summarized as
 follows.
 
-```markdown
 |  Operation     | Ordered Array | Bushy BST |
 |----------------|---------------|-----------|
 | add            | Θ(N)          | Θ(log N)  |
 | getSmallest    | Θ(1)          | Θ(log N)  |
 | removeSmallest | Θ(N)          | Θ(log N)  |
-```
 
 We need a specialized data structure that caters to the very specific needs of a
 priority queue.
@@ -211,10 +209,8 @@ up" and "swim down" the entire depth of the tree). This runtime is actually
 amortized since the underlying array will need to be resized occasionally.
 `getSmallest` will take `Θ(1)` time.
 
-```markdown
 |  Operation     | Ordered Array | Bushy BST | Heap     |
 |----------------|---------------|-----------|----------|
 | add            | Θ(N)          | Θ(log N)  | Θ(log N) |
 | getSmallest    | Θ(1)          | Θ(log N)  | Θ(1)     |
 | removeSmallest | Θ(N)          | Θ(log N)  | Θ(log N) |
-```

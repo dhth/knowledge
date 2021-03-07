@@ -70,7 +70,7 @@ Chapters in **bold** are really insightful.
     - [x] 6.6 Failure and learning
     - [x] 6.7 Dead ends and changing topography
     - [x] 6.8 Approach with curiosity
-- [ ] 7 The struggle within
+- [x] 7 The struggle within
     - [x] 7.1 The emotions of programming
     - [x] 7.2 Emotional drains
     - [x] 7.3 Awareness of our Emotional State
@@ -78,9 +78,9 @@ Chapters in **bold** are really insightful.
     - [x] **7.5 Awareness in action**
     - [x] 7.6 Finding our feelings
     - [x] 7.7 Emotional Triage
-    - [ ] 7.8 Burnout
-    - [ ] 7.9 Reaching out for help
-    - [ ] 7.10 Giving up
-- [ ] 8 Epilogue
-- [ ] 9 Gratitude
-- [ ] 10 My journey
+    - [x] 7.8 Burnout
+    - [x] 7.9 Reaching out for help
+    - [x] 7.10 Giving up
+- [x] 8 Epilogue
+- [x] 9 Gratitude
+- [x] 10 My journey

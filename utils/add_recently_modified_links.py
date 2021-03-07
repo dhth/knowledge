@@ -68,6 +68,9 @@ def title_case(title):
             first_two = elements[1][:2]
             first_two = re.sub('\d', '', first_two).strip()
             elements[1] = f'{first_two}{elements[1][2:]}'
+    # remove /Index at the end of title, if exists
+    if elements[-1] == "index":
+        del elements[-1]
     return "/".join([re.sub('[-_]', ' ',
                             element).strip().title() for element in elements])
 

@@ -12,10 +12,12 @@ Resources
 
 Modules
 ---
-- [:fontawesome-solid-folder: 13: Asymptotics](13-asymptotics/index.md)
-- [:fontawesome-solid-folder: 17: B Trees](17-b-trees/index.md)
-- [:fontawesome-solid-folder: 20: Heaps and Primary
-    Queues](20-heaps-and-primary-queues/index.md)
+- [:fontawesome-solid-chalkboard: 13: Asymptotics](asymptotics/index.md)
+- [:fontawesome-solid-chalkboard: 17: B Trees](b-trees/index.md)
+- [:fontawesome-solid-chalkboard: 20: Heaps and Primary
+    Queues](heaps-and-primary-queues/index.md)
+- [:fontawesome-solid-chalkboard: 22: Range Searching and Multi Dimensional
+    Data](range-searching-and-multi-dimensional-data/index.md)
 
 Lecture Checklist
 ---

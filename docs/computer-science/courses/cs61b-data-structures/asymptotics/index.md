@@ -1,9 +1,9 @@
 ---
-title: "13: Asymptotics"
+title: "Asymptotics"
 summary: 
 ---
 
-13: Asymptotics
+Asymptotics
 ===
 
 Big Theta

@@ -1,4 +1,10 @@
-# Courses
+---
+title: "Courses"
+summary: 
+---
+
+Courses
+===
 
 Notes on CS courses I take in my free time.
 
