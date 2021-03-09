@@ -38,3 +38,10 @@ gF         " go to specific line in a file
 gv         " re-highlight last highlighted region
 gi         " jump to last insert location
 ```
+
+Global in a visual block
+---
+
+```vim
+:'<,'>g/\%V./norm! 0dt.dw
+```

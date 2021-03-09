@@ -10,6 +10,10 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: Books](computer-science/books/index.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
+- [:fontawesome-solid-file-alt: Computer Science](computer-science/index.md)
+- [:fontawesome-solid-file-alt: Vim Wiki/Global](tools/programming/vim/vim-wiki/02_global.md)
 - [:fontawesome-solid-file-alt: Books/Book Tracker](books/00-book-tracker.md)
 - [:fontawesome-solid-file-alt: Books/The Mediocre Programmer](books/01-the-mediocre-programmer.md)
 - [:fontawesome-solid-file-alt: Computer Science/Roadmap](computer-science/01-roadmap.md)
@@ -19,12 +23,8 @@ RECENTLYMODIFIEDBEGIN
 - [:fontawesome-solid-file-alt: Cs61B Data Structures](computer-science/courses/cs61b-data-structures/index.md)
 - [:fontawesome-solid-file-alt: Range Searching And Multi Dimensional Data](computer-science/courses/cs61b-data-structures/range-searching-and-multi-dimensional-data/index.md)
 - [:fontawesome-solid-file-alt: Courses](computer-science/courses/index.md)
-- [:fontawesome-solid-file-alt: Computer Science](computer-science/index.md)
 - [:fontawesome-solid-file-alt: Books](programming/python/books/index.md)
 - [:fontawesome-solid-file-alt: Python Tricks/Patterns For Cleaner Python](programming/python/books/python-tricks/01-patterns-for-cleaner-python.md)
-- [:fontawesome-solid-file-alt: Python Tricks/Effective Functions](programming/python/books/python-tricks/02-effective-functions.md)
-- [:fontawesome-solid-file-alt: Python Tricks](programming/python/books/python-tricks/index.md)
-- [:fontawesome-solid-file-alt: Python](programming/python/index.md)
 
 <!--
 RECENTLYMODIFIEDEND
