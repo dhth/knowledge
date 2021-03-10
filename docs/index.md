@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Books](computer-science/books/index.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Modeling The Problem](computer-science/books/the-algorithm-design-manual/14-modeling-the-problem.md)
 - [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
 - [:fontawesome-solid-file-alt: Computer Science](computer-science/index.md)
+- [:fontawesome-solid-file-alt: Leetcode/1 Linked List Cycle](computer-science/leetcode/141-linked-list-cycle.md)
+- [:fontawesome-solid-file-alt: Leetcode](computer-science/leetcode/index.md)
 - [:fontawesome-solid-file-alt: Vim Wiki/Global](tools/programming/vim/vim-wiki/02_global.md)
+- [:fontawesome-solid-file-alt: Vim Wiki/Command Line](tools/programming/vim/vim-wiki/13-command-line.md)
+- [:fontawesome-solid-file-alt: Vim Wiki](tools/programming/vim/vim-wiki/index.md)
+- [:fontawesome-solid-file-alt: Books](computer-science/books/index.md)
 - [:fontawesome-solid-file-alt: Books/Book Tracker](books/00-book-tracker.md)
 - [:fontawesome-solid-file-alt: Books/The Mediocre Programmer](books/01-the-mediocre-programmer.md)
 - [:fontawesome-solid-file-alt: Computer Science/Roadmap](computer-science/01-roadmap.md)
 - [:fontawesome-solid-file-alt: Asymptotics](computer-science/courses/cs61b-data-structures/asymptotics/index.md)
 - [:fontawesome-solid-file-alt: B Trees](computer-science/courses/cs61b-data-structures/b-trees/index.md)
 - [:fontawesome-solid-file-alt: Heaps And Primary Queues](computer-science/courses/cs61b-data-structures/heaps-and-primary-queues/index.md)
-- [:fontawesome-solid-file-alt: Cs61B Data Structures](computer-science/courses/cs61b-data-structures/index.md)
-- [:fontawesome-solid-file-alt: Range Searching And Multi Dimensional Data](computer-science/courses/cs61b-data-structures/range-searching-and-multi-dimensional-data/index.md)
-- [:fontawesome-solid-file-alt: Courses](computer-science/courses/index.md)
-- [:fontawesome-solid-file-alt: Books](programming/python/books/index.md)
-- [:fontawesome-solid-file-alt: Python Tricks/Patterns For Cleaner Python](programming/python/books/python-tricks/01-patterns-for-cleaner-python.md)
 
 <!--
 RECENTLYMODIFIEDEND

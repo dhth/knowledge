@@ -10,6 +10,12 @@ Resources
 ---
 - [:fontawesome-solid-link: Steven Skiena Homepage](https://www3.cs.stonybrook.edu/~skiena/)
 
+Modules
+---
+
+- [:fontawesome-solid-file-alt: 1.4 Modeling the
+    Problem](14-modeling-the-problem.md)
+
 Chapters Checklist
 ---
 - [ ] 1 Introduction To Algorithm Design

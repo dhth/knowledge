@@ -18,12 +18,6 @@ Resources
 :g/pattern_to_look_for/command
 ```
 
-A few examples:
-
-```vim
-:g/import/m$
-" moves all lines containing the word 'import' to the end of the file
-```
 
 `g`
 ---
@@ -45,3 +39,30 @@ Global in a visual block
 ```vim
 :'<,'>g/\%V./norm! 0dt.dw
 ```
+
+Examples
+---
+
+### Move lines to end of file
+
+```vim
+:g/import/m$
+" moves all lines containing the word 'import' to the end of the file
+```
+
+### Make the first word in a markdown list bold
+
+Suppose we have the following list:
+
+```
+- word1 -- some text
+- word2 -- some text
+- word2 -- some text
+```
+
+`g` command to make the first word bold:
+
+```vim
+:.,$g/^-/norm! wi**^[wea**
+```
+
