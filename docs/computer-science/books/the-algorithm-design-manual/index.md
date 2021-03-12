@@ -13,8 +13,10 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: 1.4 Modeling the
+- [:fontawesome-solid-file-alt: 1.4: Modeling the
     Problem](14-modeling-the-problem.md)
+- [:fontawesome-solid-file-alt: 2.1: The RAM Model of
+    Computation](21-the-ram-model-of-computation.md)
 
 Chapters Checklist
 ---
