@@ -29,7 +29,7 @@ Chapters Checklist
     - [ ] 1.6 War Story: Psychic Modeling 
     - [ ] 1.7 Exercises
 - [ ] 2 Algorithm Analysis
-    - [ ] 2.1 The Ram Model of Computation
+    - [x] 2.1 The Ram Model of Computation
     - [ ] 2.2 The Big Oh notation
     - [ ] 2.3 Growth Rates and Dominance Relations
     - [ ] 2.4 Working with the Big Oh 

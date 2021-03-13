@@ -20,3 +20,4 @@ Problems
     List](19-remove-nth-node-from-end-of-list.md)
 - [:fontawesome-solid-file-alt: 142: Linked List Cycle
     2](142-linked-list-cycle-2.md)
+- [:fontawesome-solid-file-alt: 143: Reorder List](143-reorder-list.md)

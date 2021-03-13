@@ -1,9 +1,9 @@
 ---
-title: "Linked List Cycle"
+title: "141: Linked List Cycle"
 summary: 
 ---
 
-Linked List Cycle
+141: Linked List Cycle
 ===
 
 Resources
