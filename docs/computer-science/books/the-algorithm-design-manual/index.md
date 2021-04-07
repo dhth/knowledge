@@ -17,6 +17,16 @@ Modules
     Problem](14-modeling-the-problem.md)
 - [:fontawesome-solid-file-alt: 2.1: The RAM Model of
     Computation](21-the-ram-model-of-computation.md)
+- [:fontawesome-solid-file-alt: 2.2: The Big Oh
+    Notation](22-the-big-oh-notation.md)
+- [:fontawesome-solid-file-alt: 2.3: Growth Rate and Dominance
+    Relations](23-growth-rate-and-dominance-relations.md)
+- [:fontawesome-solid-file-alt: 2.4: Working with the Big
+    Oh](24-working-with-the-big-oh.md)
+- [:fontawesome-solid-file-alt: 2.7: Properties of
+    Logarithms](27-properties-of-logarithms.md)
+- [:fontawesome-solid-file-alt: 3.1: Contiguous vs Linked Data
+    Structures](31-contiguous-vs-linked-data-structures.md)
 
 Chapters Checklist
 ---
@@ -30,19 +40,19 @@ Chapters Checklist
     - [ ] 1.7 Exercises
 - [ ] 2 Algorithm Analysis
     - [x] 2.1 The Ram Model of Computation
-    - [ ] 2.2 The Big Oh notation
-    - [ ] 2.3 Growth Rates and Dominance Relations
-    - [ ] 2.4 Working with the Big Oh 
+    - [x] 2.2 The Big Oh notation
+    - [x] 2.3 Growth Rates and Dominance Relations
+    - [x] 2.4 Working with the Big Oh 
     - [ ] 2.5 Reasoning about Efficiency 
-    - [ ] 2.6 Logarithms and their Applications
-    - [ ] 2.7 Properties of Logarithms
-    - [ ] 2.8 War Story: Mystery of the Pyramids
+    - [x] 2.6 Logarithms and their Applications
+    - [x] 2.7 Properties of Logarithms
+    - [x] 2.8 War Story: Mystery of the Pyramids
     - [ ] 2.9 Advanced Analysis (*) 
     - [ ] 2.10 Exercises
 - [ ] 3 Data Structures
-    - [ ] 3.1 Contiguous vs. Linked Data Structures
-    - [ ] 3.2 Stacks and Queues 
-    - [ ] 3.3 Dictionaries 
+    - [x] 3.1 Contiguous vs. Linked Data Structures
+    - [x] 3.2 Stacks and Queues 
+    - [x] 3.3 Dictionaries 
     - [ ] 3.4 Binary Search Trees
     - [ ] 3.5 Priority Queues 
     - [ ] 3.6 War Story: Stripping Triangulations 

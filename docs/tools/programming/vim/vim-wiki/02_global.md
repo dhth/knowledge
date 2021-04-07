@@ -65,4 +65,3 @@ Suppose we have the following list:
 ```vim
 :.,$g/^-/norm! wi**^[wea**
 ```
-

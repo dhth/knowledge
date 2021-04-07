@@ -10,6 +10,8 @@ Resources
 
 - [:fontawesome-solid-link: junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 
+- [:fontawesome-solid-link: Improving shell workflows with fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
+
 `:GFiles`
 ---
 

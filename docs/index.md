@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/The Big Oh Notation](computer-science/books/the-algorithm-design-manual/22-the-big-oh-notation.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Growth Rate And Dominance Relations](computer-science/books/the-algorithm-design-manual/23-growth-rate-and-dominance-relations.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Working With The Big Oh](computer-science/books/the-algorithm-design-manual/24-working-with-the-big-oh.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Properties Of Logarithms](computer-science/books/the-algorithm-design-manual/27-properties-of-logarithms.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Contiguous Vs Linked Data Structures](computer-science/books/the-algorithm-design-manual/31-contiguous-vs-linked-data-structures.md)
 - [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
-- [:fontawesome-solid-file-alt: Leetcode/Linked List Cycle](computer-science/leetcode/141-linked-list-cycle.md)
-- [:fontawesome-solid-file-alt: Leetcode/Reorder List](computer-science/leetcode/143-reorder-list.md)
-- [:fontawesome-solid-file-alt: Leetcode](computer-science/leetcode/index.md)
-- [:fontawesome-solid-file-alt: Search Utils/Fd](tools/programming/shell/search-utils/01_fd.md)
-- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Modeling The Problem](computer-science/books/the-algorithm-design-manual/14-modeling-the-problem.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/The Ram Model Of Computation](computer-science/books/the-algorithm-design-manual/21-the-ram-model-of-computation.md)
-- [:fontawesome-solid-file-alt: Leetcode/Linked List Cycle 2](computer-science/leetcode/142-linked-list-cycle-2.md)
-- [:fontawesome-solid-file-alt: Leetcode/Remove Nth Node From End Of List](computer-science/leetcode/19-remove-nth-node-from-end-of-list.md)
+- [:fontawesome-solid-file-alt: Heaps And Primary Queues](computer-science/courses/cs61b-data-structures/heaps-and-primary-queues/index.md)
 - [:fontawesome-solid-file-alt: Computer Science](computer-science/index.md)
-- [:fontawesome-solid-file-alt: Leetcode/Linked List Cycle](computer-science/leetcode/141-linked-list-cycle.md)
-- [:fontawesome-solid-file-alt: Vim Wiki/Global](tools/programming/vim/vim-wiki/02_global.md)
-- [:fontawesome-solid-file-alt: Vim Wiki/Command Line](tools/programming/vim/vim-wiki/13-command-line.md)
-- [:fontawesome-solid-file-alt: Vim Wiki](tools/programming/vim/vim-wiki/index.md)
+- [:fontawesome-solid-file-alt: Wiki/Binary Search Trees](computer-science/wiki/01-binary-search-trees.md)
+- [:fontawesome-solid-file-alt: Wiki](computer-science/wiki/index.md)
+- [:fontawesome-solid-file-alt: Programming](programming/index.md)
+- [:fontawesome-solid-file-alt: Interviewing/Resources](programming/interviewing/01-resources.md)
+- [:fontawesome-solid-file-alt: Interviewing](programming/interviewing/index.md)
+- [:fontawesome-solid-file-alt: Graphql/Resources](programming/web/graphql/01-resources.md)
+- [:fontawesome-solid-file-alt: Graphql](programming/web/graphql/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

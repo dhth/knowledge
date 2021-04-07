@@ -148,15 +148,19 @@ item in the heap is very easy: it's always the value of the root node. As such,
 
 Adding an item to a heap is slightly more complicated; the complication arises
 from the fact that the resultant structure (after insertion) must be a min-heap
-itself. The following video describes the working of this operation.
+itself. The following presentation describes the working of this operation.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyr2OtkVJpvbv1bDlmGaVi36heVBVvMnmAchIXm7qwMHFed1t59uKSD4C-s7kI-ce1W7EZxe5G_j2R/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### removeSmallest()
 
 
 Removing an item means changing the value of the root node in the tree. Since
 the resultant tree has to be a min-heap, we need to replace it with an
-appropriate element from the heap itself. The following video describes this
+appropriate element from the heap itself. The following presentation describes this
 operation.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdtjjuvPYCNUTuHYWpPKK8kvSps5RVU0FXHg3yPNxWWdfpfmyxGadJqWeiSMI8IBVmLiBVWDXhXeX7/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Implementation
 ---
@@ -192,12 +196,16 @@ We start by adding the new item to the array. We then make the item this item
 "swim up" to an appropriate position in the tree. The following video describes
 the implemention in more detail.
 
+[VID]
+
 ### removeSmallest()
 
 We start by copying the item at index `1` for further retrieval. The item at the
 last index is removed and it's contents are placed at index `1`. We then make
 this item "swim down" the tree to an appropriate location. The following video
 describes the implemention in more detail.
+
+[VID]
 
 Runtime
 ---
