@@ -1,7 +1,7 @@
 fzf.vim
 ===
 
-FZF is general purpose command line fuzzy finder, and fzf.vim is the vim companion.
+Is powered by [FZF](../../shell/01-fzf.md).
 
 Resources
 ---

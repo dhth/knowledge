@@ -1,3 +1,8 @@
+---
+title: "Colors in Tmux"
+summary: 
+---
+
 Colors in Tmux
 ===
 

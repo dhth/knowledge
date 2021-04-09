@@ -2,9 +2,23 @@ site_name: dhruv's wiki
 theme:
   name: material
   palette:
-    scheme: default
-    primary: indigo
-    accent: red
+    # Light mode
+    - pink: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: pink
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
   font:
     text: Roboto
     code: Roboto Mono

@@ -4,6 +4,7 @@ Shell Utilities
 Cool Tools
 ---
 
+- [:fontawesome-solid-file-alt: FZF](01-fzf.md)
 - [:fontawesome-solid-link: tree](https://formulae.brew.sh/formula/tree): recursive directory listing
 - [:fontawesome-brands-github: lookatme](https://github.com/d0c-s4vage/lookatme): presentations
 

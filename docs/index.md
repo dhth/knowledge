@@ -10,6 +10,10 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: Shell/Fzf](tools/programming/shell/01-fzf.md)
+- [:fontawesome-solid-file-alt: Shell/Utilities](tools/programming/shell/utilities.md)
+- [:fontawesome-solid-file-alt: Tmux/Colors In Tmux](tools/programming/tmux/02-colors-in-tmux.md)
+- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
 - [:fontawesome-solid-file-alt: The Algorithm Design Manual/The Big Oh Notation](computer-science/books/the-algorithm-design-manual/22-the-big-oh-notation.md)
 - [:fontawesome-solid-file-alt: The Algorithm Design Manual/Growth Rate And Dominance Relations](computer-science/books/the-algorithm-design-manual/23-growth-rate-and-dominance-relations.md)
 - [:fontawesome-solid-file-alt: The Algorithm Design Manual/Working With The Big Oh](computer-science/books/the-algorithm-design-manual/24-working-with-the-big-oh.md)
@@ -21,10 +25,6 @@ RECENTLYMODIFIEDBEGIN
 - [:fontawesome-solid-file-alt: Wiki/Binary Search Trees](computer-science/wiki/01-binary-search-trees.md)
 - [:fontawesome-solid-file-alt: Wiki](computer-science/wiki/index.md)
 - [:fontawesome-solid-file-alt: Programming](programming/index.md)
-- [:fontawesome-solid-file-alt: Interviewing/Resources](programming/interviewing/01-resources.md)
-- [:fontawesome-solid-file-alt: Interviewing](programming/interviewing/index.md)
-- [:fontawesome-solid-file-alt: Graphql/Resources](programming/web/graphql/01-resources.md)
-- [:fontawesome-solid-file-alt: Graphql](programming/web/graphql/index.md)
 
 <!--
 RECENTLYMODIFIEDEND
