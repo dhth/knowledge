@@ -1,3 +1,8 @@
+---
+title: "Bash"
+summary:
+---
+
 Bash
 ===
 

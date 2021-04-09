@@ -1,3 +1,8 @@
+---
+title: "Debugging Celery"
+summary:
+---
+
 Debugging Celery
 ===
 

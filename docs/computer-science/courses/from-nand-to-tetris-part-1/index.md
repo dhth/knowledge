@@ -1,3 +1,8 @@
+---
+title: "From Nand To Tetris: Part 1"
+summary:
+---
+
 From Nand To Tetris: Part 1
 ===
 

@@ -1,3 +1,8 @@
+---
+title: "Awesome Vim Folks"
+summary:
+---
+
 Awesome Vim Folks
 ===
 

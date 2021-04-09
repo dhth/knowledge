@@ -1,3 +1,8 @@
+---
+title: "Working with data via SQLAlchemy Core"
+summary:
+---
+
 Working with data via SQLAlchemy Core
 ===
 

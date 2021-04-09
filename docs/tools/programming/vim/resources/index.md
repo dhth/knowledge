@@ -1,3 +1,8 @@
+---
+title: "Vim Resources"
+summary:
+---
+
 Vim Resources
 ===
 

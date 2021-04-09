@@ -15,7 +15,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: orange
-      accent: pink
+      accent: deep orange
       toggle:
         icon: material/toggle-switch
         name: Light mode
@@ -25,6 +25,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.sections
   favicon: assets/images/favicon.png
   icon:
     logo: fontawesome/solid/code

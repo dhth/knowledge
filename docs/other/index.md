@@ -1,3 +1,8 @@
+---
+title: "Other"
+summary:
+---
+
 Other
 ===
 

@@ -1,3 +1,8 @@
+---
+title: "Terminal, Console, and Shell"
+summary:
+---
+
 Terminal, Console, and Shell
 ===
 

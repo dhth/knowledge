@@ -1,3 +1,8 @@
+---
+title: "Resources"
+summary:
+---
+
 Resources
 ===
 

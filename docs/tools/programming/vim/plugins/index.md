@@ -1,3 +1,8 @@
+---
+title: "Vim Plugins"
+summary:
+---
+
 Vim Plugins
 ===
 
