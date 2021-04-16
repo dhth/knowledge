@@ -12,10 +12,10 @@ Resources
 ---
 
 - [:fontawesome-solid-link: junegunn/fzf](https://github.com/junegunn/fzf)
-
 - [:fontawesome-solid-link: junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
-
 - [:fontawesome-solid-link: Improving shell workflows with fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
+- [:fontawesome-solid-link:
+    Readme](https://github.com/junegunn/fzf/blob/master/README-VIM.md)
 
 `:GFiles`
 ---
@@ -54,3 +54,19 @@ endfunction
 command! -nargs=* -bang RG call RipgrepFzf(<q-args>, <bang>0)
 ```
 
+Create file helper using fzf
+---
+
+```vim
+call fzf#run(fzf#wrap({'source': 'fd -t d', 'sink': function('s:CreateFileHelper')}))
+" will pop up fzf with directories listed
+
+function! s:CreateFileHelper(command)
+    call inputsave()
+    let l:file_name_in = input('Enter file name: ')
+    call inputrestore()
+    if len(l:file_name_in) > 0
+        execute "tabnew ".a:command."/".l:file_name_in
+    endif
+endfunction
+```

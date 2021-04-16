@@ -53,8 +53,8 @@ Chapters Checklist
     - [x] 3.1 Contiguous vs. Linked Data Structures
     - [x] 3.2 Stacks and Queues 
     - [x] 3.3 Dictionaries 
-    - [ ] 3.4 Binary Search Trees
-    - [ ] 3.5 Priority Queues 
+    - [x] 3.4 Binary Search Trees
+    - [x] 3.5 Priority Queues 
     - [ ] 3.6 War Story: Stripping Triangulations 
     - [ ] 3.7 Hashing and Strings 
     - [ ] 3.8 Specialized Data Structures 

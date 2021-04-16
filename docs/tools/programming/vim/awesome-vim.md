@@ -1,14 +1,20 @@
 ---
-title: "Awesome Vim Folks"
+title: "Awesome Vim"
 summary:
 ---
 
-Awesome Vim Folks
+Awesome Vim
 ===
 
-Awesome people in the Vim community.
+Resources
+---
 
-List
+- [:fontawesome-solid-link: Eric Chapdelaine: How I Take
+    Notes](https://ericchapdelaine.com/articles/how-i-take-notes)
+- [:fontawesome-solid-link: How I'm able to take notes in mathematics lectures
+    using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+
+People
 ---
 - [:fontawesome-brands-github: junegunn](https://github.com/junegunn)
 - [:fontawesome-brands-github: wincent](https://github.com/wincent)

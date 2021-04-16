@@ -1,8 +1,3 @@
----
-title: "dhruv's wiki"
-summary:
----
-
 dhruv's wiki
 ===
 
@@ -15,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Shell/Fzf](tools/programming/shell/01-fzf.md)
-- [:fontawesome-solid-file-alt: Shell/Utilities](tools/programming/shell/utilities.md)
-- [:fontawesome-solid-file-alt: Tmux/Colors In Tmux](tools/programming/tmux/02-colors-in-tmux.md)
-- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/The Big Oh Notation](computer-science/books/the-algorithm-design-manual/22-the-big-oh-notation.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Growth Rate And Dominance Relations](computer-science/books/the-algorithm-design-manual/23-growth-rate-and-dominance-relations.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Working With The Big Oh](computer-science/books/the-algorithm-design-manual/24-working-with-the-big-oh.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Properties Of Logarithms](computer-science/books/the-algorithm-design-manual/27-properties-of-logarithms.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Contiguous Vs Linked Data Structures](computer-science/books/the-algorithm-design-manual/31-contiguous-vs-linked-data-structures.md)
 - [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
-- [:fontawesome-solid-file-alt: Heaps And Primary Queues](computer-science/courses/cs61b-data-structures/heaps-and-primary-queues/index.md)
-- [:fontawesome-solid-file-alt: Computer Science](computer-science/index.md)
-- [:fontawesome-solid-file-alt: Wiki/Binary Search Trees](computer-science/wiki/01-binary-search-trees.md)
-- [:fontawesome-solid-file-alt: Wiki](computer-science/wiki/index.md)
-- [:fontawesome-solid-file-alt: Programming](programming/index.md)
+- [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
+- [:fontawesome-solid-file-alt: Docker/Commands](programming/docker/commands.md)
+- [:fontawesome-solid-file-alt: Docker](programming/docker/index.md)
+- [:fontawesome-solid-file-alt: Setup/Pyright](programming/python/setup/01-pyright.md)
+- [:fontawesome-solid-file-alt: Setup](programming/python/setup/index.md)
+- [:fontawesome-solid-file-alt: Tools](tools/index.md)
+- [:fontawesome-solid-file-alt: Other/Vimium](tools/other/01-vimium.md)
+- [:fontawesome-solid-file-alt: Other](tools/other/index.md)
+- [:fontawesome-solid-file-alt: Shell/Commands](tools/programming/shell/commands.md)
+- [:fontawesome-solid-file-alt: Tmux/Tmux Wiki](tools/programming/tmux/01-tmux-wiki.md)
+- [:fontawesome-solid-file-alt: Tmux/Wiki](tools/programming/tmux/01-wiki.md)
+- [:fontawesome-solid-file-alt: Tmux/Tmuxinator](tools/programming/tmux/03-tmuxinator.md)
+- [:fontawesome-solid-file-alt: Tmux](tools/programming/tmux/index.md)
+- [:fontawesome-solid-file-alt: Vim/Awesome Vim](tools/programming/vim/awesome-vim.md)
 
 <!--
 RECENTLYMODIFIEDEND
