@@ -10,9 +10,13 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
 - [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
-- [:fontawesome-solid-file-alt: Docker/Commands](programming/docker/commands.md)
+- [:fontawesome-solid-file-alt: Debugging/Pdbpp](programming/python/debugging/pdbpp.md)
+- [:fontawesome-solid-file-alt: Tmux/Tmuxinator](tools/programming/tmux/03-tmuxinator.md)
+- [:fontawesome-solid-file-alt: Plugins/Vim Test](tools/programming/vim/plugins/05-vim-test.md)
+- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
+- [:fontawesome-solid-file-alt: Plugins](tools/programming/vim/plugins/index.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
 - [:fontawesome-solid-file-alt: Docker](programming/docker/index.md)
 - [:fontawesome-solid-file-alt: Setup/Pyright](programming/python/setup/01-pyright.md)
 - [:fontawesome-solid-file-alt: Setup](programming/python/setup/index.md)
@@ -20,11 +24,6 @@ RECENTLYMODIFIEDBEGIN
 - [:fontawesome-solid-file-alt: Other/Vimium](tools/other/01-vimium.md)
 - [:fontawesome-solid-file-alt: Other](tools/other/index.md)
 - [:fontawesome-solid-file-alt: Shell/Commands](tools/programming/shell/commands.md)
-- [:fontawesome-solid-file-alt: Tmux/Tmux Wiki](tools/programming/tmux/01-tmux-wiki.md)
-- [:fontawesome-solid-file-alt: Tmux/Wiki](tools/programming/tmux/01-wiki.md)
-- [:fontawesome-solid-file-alt: Tmux/Tmuxinator](tools/programming/tmux/03-tmuxinator.md)
-- [:fontawesome-solid-file-alt: Tmux](tools/programming/tmux/index.md)
-- [:fontawesome-solid-file-alt: Vim/Awesome Vim](tools/programming/vim/awesome-vim.md)
 
 <!--
 RECENTLYMODIFIEDEND

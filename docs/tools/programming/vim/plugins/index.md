@@ -14,3 +14,4 @@ List of plugins:
 - [:fontawesome-solid-file-alt: fugitive](fugitive.md)
 - [:fontawesome-solid-file-alt: coc](coc/index.md)
 - [:fontawesome-solid-file-alt: Replace With Register](replace-with-register.md)
+- [:fontawesome-solid-file-alt: Vim Test](05-vim-test.md)

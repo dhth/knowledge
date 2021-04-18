@@ -57,8 +57,10 @@ command! -nargs=* -bang RG call RipgrepFzf(<q-args>, <bang>0)
 Create file helper using fzf
 ---
 
+More on `fd` [here](../../shell/search-utils/01_fd.md).
+
 ```vim
-call fzf#run(fzf#wrap({'source': 'fd -t d', 'sink': function('s:CreateFileHelper')}))
+call fzf#run(fzf#wrap({'source': 'fd -H -t d', 'sink': function('s:CreateFileHelper')}))
 " will pop up fzf with directories listed
 
 function! s:CreateFileHelper(command)

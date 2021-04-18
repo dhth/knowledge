@@ -1,9 +1,9 @@
 ---
-title: "Commands"
+title: "Docker Wiki"
 summary:
 ---
 
-Commands
+Docker Wiki
 ===
 
 Get container ID from image name
