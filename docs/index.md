@@ -11,19 +11,20 @@ RECENTLYMODIFIEDBEGIN
 -->
 
 - [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
+- [:fontawesome-solid-file-alt: Programming](programming/index.md)
+- [:fontawesome-solid-file-alt: Lua/Programming In Lua](programming/lua/01-programming-in-lua.md)
+- [:fontawesome-solid-file-alt: Lua](programming/lua/index.md)
+- [:fontawesome-solid-file-alt: Other/Chrome](tools/other/02-chrome.md)
+- [:fontawesome-solid-file-alt: Other](tools/other/index.md)
+- [:fontawesome-solid-file-alt: Shell/Sed](tools/programming/shell/05-sed.md)
+- [:fontawesome-solid-file-alt: Shell](tools/programming/shell/index.md)
+- [:fontawesome-solid-file-alt: Shell/Shell Wiki](tools/programming/shell/shell-wiki.md)
+- [:fontawesome-solid-file-alt: Shell/Utilities](tools/programming/shell/utilities.md)
+- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
+- [:fontawesome-solid-file-alt: Vim Wiki/Performance](tools/programming/vim/vim-wiki/14-performance.md)
+- [:fontawesome-solid-file-alt: Vim Wiki](tools/programming/vim/vim-wiki/index.md)
 - [:fontawesome-solid-file-alt: Debugging/Pdbpp](programming/python/debugging/pdbpp.md)
 - [:fontawesome-solid-file-alt: Tmux/Tmuxinator](tools/programming/tmux/03-tmuxinator.md)
-- [:fontawesome-solid-file-alt: Plugins/Vim Test](tools/programming/vim/plugins/05-vim-test.md)
-- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
-- [:fontawesome-solid-file-alt: Plugins](tools/programming/vim/plugins/index.md)
-- [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
-- [:fontawesome-solid-file-alt: Docker](programming/docker/index.md)
-- [:fontawesome-solid-file-alt: Setup/Pyright](programming/python/setup/01-pyright.md)
-- [:fontawesome-solid-file-alt: Setup](programming/python/setup/index.md)
-- [:fontawesome-solid-file-alt: Tools](tools/index.md)
-- [:fontawesome-solid-file-alt: Other/Vimium](tools/other/01-vimium.md)
-- [:fontawesome-solid-file-alt: Other](tools/other/index.md)
-- [:fontawesome-solid-file-alt: Shell/Commands](tools/programming/shell/commands.md)
 
 <!--
 RECENTLYMODIFIEDEND

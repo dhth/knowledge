@@ -72,3 +72,26 @@ function! s:CreateFileHelper(command)
     endif
 endfunction
 ```
+
+Custom source and sink
+---
+
+```vim
+" autoload/somemodule.vim
+
+function! s:HelperCommandToRun(command)
+    if a:command ==? "first"
+        call DoFirstThing()
+    elseif a:command ==? "second"
+        call DoSecondThing()
+    endif
+endfunction
+
+function! somemodule#CreateLink()
+    let l:commands = [
+                \"first",
+                \"second",
+                \]
+    return fzf#run({'source': l:commands, 'sink': function('s:HelperCommandToRun'),  'window': { 'width': 0.2, 'height': 0.4 } })
+endfunction
+```

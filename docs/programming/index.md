@@ -16,3 +16,4 @@ Modules
 - [:fontawesome-solid-ethernet: Web](web/index.md)
 - [:fontawesome-brands-java: Java](java/index.md)
 - [:fontawesome-solid-folder: Interviewing](interviewing/index.md)
+- [:fontawesome-solid-folder: Lua](lua/index.md)

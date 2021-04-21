@@ -1,9 +1,9 @@
 ---
-title: "Commands"
+title: "Shell Wiki"
 summary:
 ---
 
-Commands
+Shell Wiki
 ===
 
 Diff two directories

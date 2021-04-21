@@ -26,3 +26,4 @@ Modules
 - [:fontawesome-solid-file-alt: Search](11_search.md)
 - [:fontawesome-solid-file-alt: Miscellaneous](12_miscellaneous.md)
 - [:fontawesome-solid-file-alt: Command Line](13-command-line.md)
+- [:fontawesome-solid-file-alt: Performance](14-performance.md)
