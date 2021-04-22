@@ -6,6 +6,12 @@ summary:
 ripgrep
 ===
 
+Respources
+---
+
+- [:fontawesome-brands-github:
+    Guide](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)
+
 Manual filtering
 ---
 

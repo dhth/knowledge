@@ -1,5 +1,6 @@
 from utils.get_staged_file_names import get_staged_files
 import re
+import subprocess
 
 
 def insert_updated_links(updated_links, file_name, begin_marker, end_marker, limit=15):
@@ -61,6 +62,7 @@ def trim_title(title):
     last_two = separated[-2:]
     return title_case("/".join(last_two))
 
+
 def title_case(title):
     elements = title.split("/")
     if len(elements) > 1:
@@ -75,6 +77,11 @@ def title_case(title):
                             element).strip().title() for element in elements])
 
 
+def stage_index_file():
+    command = ["git", "add", "docs/index.md"]
+    result = subprocess.run(command, stdout=subprocess.PIPE)
+    result_str = (result.stdout).decode("utf-8")
+
 
 if __name__ == "__main__":
     staged_files = get_staged_files()
@@ -85,4 +92,6 @@ if __name__ == "__main__":
         begin_marker="RECENTLYMODIFIEDBEGIN",
         end_marker="RECENTLYMODIFIEDEND",
     )
-    print("Done.")
+    print("Added links.")
+    stage_index_file()
+    print("Staged index file.")

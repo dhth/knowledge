@@ -8,7 +8,7 @@ theme:
       primary: indigo
       accent: pink
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/lightbulb
         name: Dark mode
 
     # Dark mode
@@ -17,7 +17,7 @@ theme:
       primary: orange
       accent: deep orange
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb-outline
         name: Light mode
   font:
     text: Roboto

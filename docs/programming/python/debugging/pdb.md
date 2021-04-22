@@ -10,32 +10,28 @@ Resources
 ---
 
 - [:fontawesome-solid-play-circle: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
+- [:fontawesome-solid-play-circle: PDB like a
+    Pro](https://www.youtube.com/watch?v=yOG36Ae_TJ0)
+- [:fontawesome-solid-play-circle: How to become a better programmer through
+    pdb-driven development](https://www.youtube.com/watch?v=9dyX19r7hJs)
+- [:fontawesome-solid-link: Become a pdb power
+    user](https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2)
 
 My .pdbrc
 ---
 
 ```
 alias brr print(f"\n{'='*100}\n")
-alias ppi from pdb_utils import *
 
 alias brk print(f'\n\n{"=" * 100}\n\n')
 
-from rich.console import Console
-from rich.theme import Theme
+# hack to get around the fact that imports get lost when you step into a call
+# [TODO] find a better way
+alias rp from rich import print as _print; _print(%1)
 
-custom_theme = Theme({"red": "bold red", "yellow": "bold yellow"})
+alias pl from rich import print as _print; _print(locals(), style="red")
 
-console = Console(theme=custom_theme)
-
-alias rp console.print(%1, style="red")
-
-alias pl console.print(locals(), style="red")
-
-import json
-import shutil
-
-alias cls print("\n" * shutil.get_terminal_size().lines)
-
+alias cls import shutil; print("\n" * shutil.get_terminal_size().lines)
 ```
 
 !!! note
@@ -80,3 +76,9 @@ Use ipython inside pdb
 ---
 
 [:fontawesome-solid-link: https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors](https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors)
+
+Losing terminal echo
+---
+
+[:fontawesome-brands-github:
+This](https://github.com/saimn/dotfiles/blob/master/pdbrc) might help.

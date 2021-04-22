@@ -12,6 +12,6 @@ Modules
 - [:fontawesome-solid-file-alt: Shell Wiki](shell-wiki.md)
 - [:fontawesome-solid-file-alt: Terminal, Console, and,
     Shell](terminal-console-and-shell.md)
-- [:fontawesome-solid-folder: Search Utils](search-utils/index.md)
+- [:fontawesome-solid-search: Search Utils](search-utils/index.md)
 - [:fontawesome-solid-folder: Bash](bash/index.md)
 - [:fontawesome-solid-file-alt: sed](05-sed.md)

@@ -44,3 +44,12 @@ docker build -f Dockerfile -t project-api:prod .
 docker run --name project-prod --env-file ./.current.env -p 5003:80 project-api:prod
 docker rm project-prod -f
 ```
+
+Keep container running
+---
+
+Mount a dummy file to the container. Set the entrypoint as:
+
+```
+entrypoint: tail -F /path/to/dummy/file.txt
+```
