@@ -1,6 +1,6 @@
 ---
 title: "Wiki"
-summary: 
+summary:
 ---
 
 Wiki

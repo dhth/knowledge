@@ -1,6 +1,6 @@
 ---
 title: "142: Linked List Cycle 2"
-summary: 
+summary:
 ---
 
 142: Linked List Cycle 2

@@ -1,6 +1,6 @@
 ---
 title: "CS61B Data Structures"
-summary: 
+summary:
 ---
 
 CS61B Data Structures

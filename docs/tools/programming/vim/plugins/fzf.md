@@ -6,7 +6,7 @@ summary:
 fzf.vim
 ===
 
-Is powered by [FZF](../../shell/01-fzf.md).
+Is powered by [FZF](../../unix/utilities/01-fzf.md).
 
 Resources
 ---
@@ -57,7 +57,7 @@ command! -nargs=* -bang RG call RipgrepFzf(<q-args>, <bang>0)
 Create file helper using fzf
 ---
 
-More on `fd` [here](../../shell/search-utils/01_fd.md).
+More on `fd` [here](../../unix/utilities/02-fd.md).
 
 ```vim
 call fzf#run(fzf#wrap({'source': 'fd -H -t d', 'sink': function('s:CreateFileHelper')}))

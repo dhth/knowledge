@@ -1,6 +1,6 @@
 ---
 title: "Patterns for Cleaner Python"
-summary: 
+summary:
 ---
 
 Patterns for Cleaner Python

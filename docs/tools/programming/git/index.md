@@ -1,6 +1,6 @@
 ---
 title: "Git"
-summary: 
+summary:
 ---
 
 Git

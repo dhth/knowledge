@@ -1,6 +1,6 @@
 ---
 title: "sed"
-summary: 
+summary:
 ---
 
 sed

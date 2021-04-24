@@ -1,6 +1,6 @@
 ---
 title: CocSearch
-summary: 
+summary:
 ---
 
 CocSearch
@@ -18,7 +18,7 @@ Add lines to search
 Search specific files
 ---
 
-Since CocSearch uses [ripgrep](../../../shell/search-utils/02_ripgrep.md) behind
+Since CocSearch uses [ripgrep](../../../unix/utilities/03-ripgrep.md) behind
 the scenes, ripgrep arguments can be used with it.
 
 ```

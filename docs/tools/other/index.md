@@ -1,6 +1,6 @@
 ---
 title: "Other"
-summary: 
+summary:
 ---
 
 Other

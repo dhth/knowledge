@@ -1,6 +1,6 @@
 ---
 title: "Basics"
-summary: 
+summary:
 ---
 
 Basics

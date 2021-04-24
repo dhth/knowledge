@@ -1,6 +1,6 @@
 ---
 title: "Effective Functions"
-summary: 
+summary:
 ---
 
 Effective Functions

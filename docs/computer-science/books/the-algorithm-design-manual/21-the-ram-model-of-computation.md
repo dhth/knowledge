@@ -1,6 +1,6 @@
 ---
 title: "2.1: The RAM Model of Computation"
-summary: 
+summary:
 ---
 
 2.1: The RAM Model of Computation

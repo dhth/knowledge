@@ -1,6 +1,6 @@
 ---
 title: "2.4: Working with the Big Oh"
-summary: 
+summary:
 ---
 
 2.4: Working with the Big Oh

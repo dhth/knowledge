@@ -1,6 +1,6 @@
 ---
 title: "Colors in Tmux"
-summary: 
+summary:
 ---
 
 Colors in Tmux

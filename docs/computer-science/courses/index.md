@@ -1,6 +1,6 @@
 ---
 title: "Courses"
-summary: 
+summary:
 ---
 
 Courses

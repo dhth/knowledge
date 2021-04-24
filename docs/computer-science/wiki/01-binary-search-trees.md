@@ -1,6 +1,6 @@
 ---
 title: "Binary Search Trees"
-summary: 
+summary:
 ---
 
 Binary Search Trees

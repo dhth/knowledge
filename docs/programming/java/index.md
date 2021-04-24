@@ -1,6 +1,6 @@
 ---
 title: "Java"
-summary: 
+summary:
 ---
 
 Java

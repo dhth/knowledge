@@ -1,12 +1,12 @@
 ---
 title: "FZF"
-summary: 
+summary:
 ---
 
 FZF
 ===
 
-Has a Vim [plugin](../vim/plugins/fzf.md).
+Has a Vim [plugin](../../vim/plugins/fzf.md).
 
 Options
 ---

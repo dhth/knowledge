@@ -1,6 +1,6 @@
 ---
 title: "Asymptotics"
-summary: 
+summary:
 ---
 
 Asymptotics

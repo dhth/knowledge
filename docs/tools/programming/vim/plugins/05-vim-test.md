@@ -1,6 +1,6 @@
 ---
 title: "Vim Test"
-summary: 
+summary:
 ---
 
 Vim Test

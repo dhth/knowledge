@@ -1,6 +1,6 @@
 ---
 title: "Plugin Development"
-summary: 
+summary:
 ---
 
 Plugin Development

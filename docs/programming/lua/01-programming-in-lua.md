@@ -1,6 +1,6 @@
 ---
 title: "Programming In Lua"
-summary: 
+summary:
 ---
 
 Programming In Lua

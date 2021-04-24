@@ -1,6 +1,6 @@
 ---
 title: "B Trees"
-summary: 
+summary:
 ---
 
 B Trees

@@ -1,6 +1,6 @@
 ---
 title: "Range Searching and Multi Dimensional Data"
-summary: 
+summary:
 ---
 
 Range Searching and Multi Dimensional Data

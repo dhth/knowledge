@@ -12,9 +12,7 @@ RECENTLYMODIFIEDBEGIN
 
 - [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
 - [:fontawesome-solid-file-alt: Debugging/Pdb](programming/python/debugging/pdb.md)
-- [:fontawesome-solid-file-alt: Shell](tools/programming/shell/index.md)
-- [:fontawesome-solid-file-alt: Search Utils/Fd](tools/programming/shell/search-utils/01_fd.md)
-- [:fontawesome-solid-file-alt: Search Utils/Ripgrep](tools/programming/shell/search-utils/02_ripgrep.md)
+- [:fontawesome-solid-file-alt: Shell](tools/programming/unix/index.md)
 - [:fontawesome-solid-file-alt: Neovim/Native Lsp](tools/programming/vim/neovim/01-native-lsp.md)
 - [:fontawesome-solid-file-alt: Neovim](tools/programming/vim/neovim/index.md)
 - [:fontawesome-solid-file-alt: Vim Wiki/Search](tools/programming/vim/vim-wiki/11_search.md)
@@ -23,8 +21,7 @@ RECENTLYMODIFIEDBEGIN
 - [:fontawesome-solid-file-alt: Lua](programming/lua/index.md)
 - [:fontawesome-solid-file-alt: Other/Chrome](tools/other/02-chrome.md)
 - [:fontawesome-solid-file-alt: Other](tools/other/index.md)
-- [:fontawesome-solid-file-alt: Shell/Sed](tools/programming/shell/05-sed.md)
-- [:fontawesome-solid-file-alt: Shell/Shell Wiki](tools/programming/shell/shell-wiki.md)
+- [:fontawesome-solid-file-alt: Unix/Wiki](tools/programming/unix/wiki.md)
 
 <!--
 RECENTLYMODIFIEDEND

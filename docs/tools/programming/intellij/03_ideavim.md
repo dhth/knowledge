@@ -1,6 +1,6 @@
 ---
 title: "IdeaVim"
-summary: 
+summary:
 ---
 
 IdeaVim

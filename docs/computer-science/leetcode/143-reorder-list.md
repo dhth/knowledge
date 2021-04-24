@@ -1,6 +1,6 @@
 ---
 title: "143: Reorder List"
-summary: 
+summary:
 ---
 
 143: Reorder List

@@ -1,6 +1,6 @@
 ---
 title: "Performance"
-summary: 
+summary:
 ---
 
 Performance

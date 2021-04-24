@@ -1,6 +1,6 @@
 ---
 title: "Heaps and Primary Queues"
-summary: 
+summary:
 ---
 
 Heaps and Primary Queues

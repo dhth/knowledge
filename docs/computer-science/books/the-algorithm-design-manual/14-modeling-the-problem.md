@@ -1,6 +1,6 @@
 ---
 title: "1.4: Modeling the Problem"
-summary: 
+summary:
 ---
 
 1.4: Modeling the Problem

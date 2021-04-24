@@ -1,6 +1,6 @@
 ---
 title: "Pyright"
-summary: 
+summary:
 ---
 
 Pyright

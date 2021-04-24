@@ -1,6 +1,6 @@
 ---
 title: "Mac"
-summary: 
+summary:
 ---
 
 Mac

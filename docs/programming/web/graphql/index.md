@@ -1,6 +1,6 @@
 ---
 title: "GraphQL"
-summary: 
+summary:
 ---
 
 GraphQL

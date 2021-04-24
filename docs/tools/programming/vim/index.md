@@ -1,6 +1,6 @@
 ---
 title: "Vim"
-summary: 
+summary:
 ---
 
 Vim

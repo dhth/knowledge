@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-summary: 
+summary:
 ---
 
 Resources

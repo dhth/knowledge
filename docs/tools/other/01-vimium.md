@@ -1,10 +1,17 @@
 ---
 title: "Vimium"
-summary: 
+summary:
 ---
 
 Vimium
 ===
+
+Bindings worth remembering
+---
+
+```
+W:    Detach tab into new window
+```
 
 Custom CSS
 ---

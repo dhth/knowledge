@@ -1,6 +1,6 @@
 ---
 title: "Tmux Wiki"
-summary: 
+summary:
 ---
 
 Tmux Wiki

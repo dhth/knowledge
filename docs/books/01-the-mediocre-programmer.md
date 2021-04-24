@@ -1,6 +1,6 @@
 ---
 title: "The Mediocre Programmer"
-summary: 
+summary:
 ---
 
 The Mediocre Programmer

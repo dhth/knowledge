@@ -1,6 +1,6 @@
 ---
 title: "2.3: Growth Rate and Dominance Relations"
-summary: 
+summary:
 ---
 
 2.3: Growth Rate and Dominance Relations

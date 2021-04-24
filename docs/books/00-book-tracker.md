@@ -1,6 +1,6 @@
 ---
 title: "Book Tracker"
-summary: 
+summary:
 ---
 
 Book Tracker

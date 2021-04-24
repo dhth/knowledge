@@ -1,6 +1,6 @@
 ---
 title: "19: Remove Nth Node From End of List"
-summary: 
+summary:
 ---
 
 19: Remove Nth Node From End of List

@@ -10,7 +10,8 @@ Diff two directories
 ---
 
 ```bash
-diff --brief --recursive -x '.git' -x 'autoload' ~/.config/nvim ~/local.usersnap.com/.config/nvim
+diff --brief --recursive -x '.git' -x 'autoload' \
+    ~/.config/nvim ~/local.usersnap.com/.config/nvim
 ```
 
 Find and replace recursively in a directory
@@ -42,6 +43,7 @@ function c() {
   fi
 }
 ```
+
 Ignore directories with tree
 ---
 

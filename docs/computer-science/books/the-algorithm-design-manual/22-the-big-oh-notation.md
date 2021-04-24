@@ -1,6 +1,6 @@
 ---
 title: "2.2: The Big Oh Notation"
-summary: 
+summary:
 ---
 
 2.2: The Big Oh Notation

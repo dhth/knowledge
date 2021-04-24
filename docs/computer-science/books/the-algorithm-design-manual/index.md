@@ -1,6 +1,6 @@
 ---
 title: "The Algorithm Design Manual"
-summary: 
+summary:
 ---
 
 The Algorithm Design Manual

@@ -1,6 +1,6 @@
 ---
 title: "Tmuxinator"
-summary: 
+summary:
 ---
 
 Tmuxinator

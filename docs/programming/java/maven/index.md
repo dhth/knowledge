@@ -1,6 +1,6 @@
 ---
 title: "Maven"
-summary: 
+summary:
 ---
 
 Maven

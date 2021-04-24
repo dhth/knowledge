@@ -1,15 +1,17 @@
 ---
-title: "Shell Utilities"
+title: "Utilities"
 summary:
 ---
 
-Shell Utilities
+Utilities
 ===
 
-Utilities
+Search Utilities
 ---
 
 - [:fontawesome-solid-file-alt: FZF](01-fzf.md)
+- [:fontawesome-solid-file-alt: fd](02-fd.md)
+- [:fontawesome-solid-file-alt: ripgrep](03-ripgrep.md)
 
 Tools
 ---
