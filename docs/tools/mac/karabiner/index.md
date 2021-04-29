@@ -19,6 +19,8 @@ Resources
     Keyboard](https://www.youtube.com/watch?v=emNG5DuEzaY)
 - [:fontawesome-solid-link: Karabiner God
     Mode](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6)
+- [:fontawesome-brands-github: karabiner.edn configs on
+    Github](https://github.com/search?l=&o=desc&q=extension%3A.edn+filename%3Akarabiner.edn&s=&type=Code)
 
 
 Examples

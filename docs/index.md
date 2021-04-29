@@ -10,18 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: Mastering Algorithms In C](computer-science/books/mastering-algorithms-in-c/index.md)
 - [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
+- [:fontawesome-solid-file-alt: Programming](programming/index.md)
+- [:fontawesome-solid-file-alt: Miscellaneous](programming/miscellaneous/index.md)
+- [:fontawesome-solid-file-alt: Mac/Iterm2](tools/mac/01-iterm2.md)
+- [:fontawesome-solid-file-alt: Alfred/Workflows](tools/mac/alfred/01-workflows.md)
+- [:fontawesome-solid-file-alt: Alfred](tools/mac/alfred/index.md)
+- [:fontawesome-solid-file-alt: Karabiner](tools/mac/karabiner/index.md)
+- [:fontawesome-solid-file-alt: Mac/Tools](tools/mac/tools.md)
+- [:fontawesome-solid-file-alt: Git/Git Wiki](tools/programming/git/git-wiki.md)
+- [:fontawesome-solid-file-alt: Commands/Sed](tools/programming/unix/commands/01-sed.md)
+- [:fontawesome-solid-file-alt: Utilities/Fzf](tools/programming/unix/utilities/01-fzf.md)
+- [:fontawesome-solid-file-alt: Vim Wiki/Command Line](tools/programming/vim/vim-wiki/13-command-line.md)
 - [:fontawesome-solid-file-alt: Debugging/Pdb](programming/python/debugging/pdb.md)
 - [:fontawesome-solid-file-alt: Shell](tools/programming/unix/index.md)
-- [:fontawesome-solid-file-alt: Neovim/Native Lsp](tools/programming/vim/neovim/01-native-lsp.md)
-- [:fontawesome-solid-file-alt: Neovim](tools/programming/vim/neovim/index.md)
-- [:fontawesome-solid-file-alt: Vim Wiki/Search](tools/programming/vim/vim-wiki/11_search.md)
-- [:fontawesome-solid-file-alt: Programming](programming/index.md)
-- [:fontawesome-solid-file-alt: Lua/Programming In Lua](programming/lua/01-programming-in-lua.md)
-- [:fontawesome-solid-file-alt: Lua](programming/lua/index.md)
-- [:fontawesome-solid-file-alt: Other/Chrome](tools/other/02-chrome.md)
-- [:fontawesome-solid-file-alt: Other](tools/other/index.md)
-- [:fontawesome-solid-file-alt: Unix/Wiki](tools/programming/unix/wiki.md)
 
 <!--
 RECENTLYMODIFIEDEND

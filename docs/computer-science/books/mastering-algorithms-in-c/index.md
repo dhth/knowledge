@@ -27,7 +27,7 @@ Chapters Checklist
             - [ ] 1.2.1. General Approaches in Algorithm Design
                 - [x] 1.2.1.1. Randomized algorithms
                 - [x] 1.2.1.2. Divide-and-conquer algorithms
-                - [ ] 1.2.1.3. Dynamic-programming solutions
+                - [x] 1.2.1.3. Dynamic-programming solutions
                 - [ ] 1.2.1.4. Greedy algorithms
                 - [ ] 1.2.1.5. Approximation algorithms
 

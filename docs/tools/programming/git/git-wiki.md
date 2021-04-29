@@ -94,3 +94,11 @@ git commit -m "new message"
 ```
 
 More [:fontawesome-brands-stack-overflow: here](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git/5201642#5201642).
+
+
+Skip hooks
+---
+
+```bash
+git commit --no-verify
+```

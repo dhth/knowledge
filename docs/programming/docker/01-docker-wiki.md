@@ -41,7 +41,7 @@ Docker build and run
 
 ```bash
 docker build -f Dockerfile -t project-api:prod .
-docker run --name project-prod --env-file ./.current.env -p 5003:80 project-api:prod
+docker run --rm --name project-prod --env-file ./.current.env -p 5003:80 project-api:prod
 docker rm project-prod -f
 ```
 

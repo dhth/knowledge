@@ -17,3 +17,4 @@ Modules
 - [:fontawesome-brands-java: Java](java/index.md)
 - [:fontawesome-solid-folder: Interviewing](interviewing/index.md)
 - [:fontawesome-solid-folder: Lua](lua/index.md)
+- [:fontawesome-solid-folder: Miscellaneous](miscellaneous/index.md)
