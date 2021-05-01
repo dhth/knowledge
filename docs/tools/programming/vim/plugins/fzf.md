@@ -95,3 +95,13 @@ function! somemodule#CreateLink()
     return fzf#run({'source': l:commands, 'sink': function('s:HelperCommandToRun'),  'window': { 'width': 0.2, 'height': 0.4 } })
 endfunction
 ```
+
+Extra key bindings for a list
+---
+
+```vim
+let g:fzf_action = {
+  \ 'ctrl-t': 'tabedit',
+  \ 'ctrl-x': 'split',
+  \ 'ctrl-v': 'vsplit' }
+```

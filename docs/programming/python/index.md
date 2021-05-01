@@ -23,3 +23,4 @@ Modules
 - [:fontawesome-solid-book: Books](books/index.md)
 - [:fontawesome-solid-folder: Setup](setup/index.md)
 - [:fontawesome-solid-folder: Typing](typing/index.md)
+- [:fontawesome-solid-folder: FastAPI](fastapi/index.md)

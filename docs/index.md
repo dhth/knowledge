@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: Ecs](programming/aws/ecs/index.md)
+- [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
+- [:fontawesome-solid-file-alt: Programming](programming/index.md)
+- [:fontawesome-solid-file-alt: Fastapi](programming/python/fastapi/index.md)
+- [:fontawesome-solid-file-alt: Fastapi/Security](programming/python/fastapi/security.md)
+- [:fontawesome-solid-file-alt: Python](programming/python/index.md)
+- [:fontawesome-solid-file-alt: Mac](tools/mac/index.md)
+- [:fontawesome-solid-file-alt: Goku/Templates](tools/mac/karabiner/goku/01-templates.md)
+- [:fontawesome-solid-file-alt: Goku](tools/mac/karabiner/goku/index.md)
+- [:fontawesome-solid-file-alt: Karabiner](tools/mac/karabiner/index.md)
+- [:fontawesome-solid-file-alt: Keyboard Maestro/Automate Work Startup](tools/mac/keyboard-maestro/01-automate-work-startup.md)
+- [:fontawesome-solid-file-alt: Keyboard Maestro](tools/mac/keyboard-maestro/index.md)
+- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
 - [:fontawesome-solid-file-alt: Mastering Algorithms In C](computer-science/books/mastering-algorithms-in-c/index.md)
 - [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
-- [:fontawesome-solid-file-alt: Programming](programming/index.md)
-- [:fontawesome-solid-file-alt: Miscellaneous](programming/miscellaneous/index.md)
-- [:fontawesome-solid-file-alt: Mac/Iterm2](tools/mac/01-iterm2.md)
-- [:fontawesome-solid-file-alt: Alfred/Workflows](tools/mac/alfred/01-workflows.md)
-- [:fontawesome-solid-file-alt: Alfred](tools/mac/alfred/index.md)
-- [:fontawesome-solid-file-alt: Karabiner](tools/mac/karabiner/index.md)
-- [:fontawesome-solid-file-alt: Mac/Tools](tools/mac/tools.md)
-- [:fontawesome-solid-file-alt: Git/Git Wiki](tools/programming/git/git-wiki.md)
-- [:fontawesome-solid-file-alt: Commands/Sed](tools/programming/unix/commands/01-sed.md)
-- [:fontawesome-solid-file-alt: Utilities/Fzf](tools/programming/unix/utilities/01-fzf.md)
-- [:fontawesome-solid-file-alt: Vim Wiki/Command Line](tools/programming/vim/vim-wiki/13-command-line.md)
-- [:fontawesome-solid-file-alt: Debugging/Pdb](programming/python/debugging/pdb.md)
-- [:fontawesome-solid-file-alt: Shell](tools/programming/unix/index.md)
 
 <!--
 RECENTLYMODIFIEDEND
