@@ -105,3 +105,15 @@ let g:fzf_action = {
   \ 'ctrl-x': 'split',
   \ 'ctrl-v': 'vsplit' }
 ```
+
+Colors from shell
+---
+
+`fzf#run` needs `--ansi` as an option to show [ansi colors](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors). eg.
+
+```vim
+function! helpers#GetCommitsForDiffOpen()
+    let source = 'git log --graph --since="2 weeks ago" '.get(g:, 'fzf_commits_log_options', '--color=always '.fzf#shellescape('--format=%C(auto)%h%d %s %C(green)%cr'))
+    call fzf#run(fzf#wrap({'source': source, 'sink': function('s:CommitHelper'), 'options': '--multi=2 --ansi'}))
+endfunction
+```

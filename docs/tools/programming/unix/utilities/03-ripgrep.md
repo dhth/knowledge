@@ -11,6 +11,8 @@ Respources
 
 - [:fontawesome-brands-github:
     Guide](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)
+- [:fontawesome-solid-link: Cheat
+    Sheet](https://jdhao.github.io/2020/02/16/ripgrep_cheat_sheet/)
 
 Manual filtering
 ---
@@ -36,3 +38,10 @@ With Vim
 ``` 
 
 Ripgrep powers [CocSearch](../../vim/plugins/coc/01_cocsearch.md).
+
+Ignore case
+---
+
+```bash
+rg -i
+```

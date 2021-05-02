@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Ecs](programming/aws/ecs/index.md)
-- [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
-- [:fontawesome-solid-file-alt: Programming](programming/index.md)
-- [:fontawesome-solid-file-alt: Fastapi](programming/python/fastapi/index.md)
-- [:fontawesome-solid-file-alt: Fastapi/Security](programming/python/fastapi/security.md)
-- [:fontawesome-solid-file-alt: Python](programming/python/index.md)
+- [:fontawesome-solid-file-alt: Applescript/Spotify](tools/mac/applescript/01-spotify.md)
+- [:fontawesome-solid-file-alt: Applescript](tools/mac/applescript/index.md)
 - [:fontawesome-solid-file-alt: Mac](tools/mac/index.md)
-- [:fontawesome-solid-file-alt: Goku/Templates](tools/mac/karabiner/goku/01-templates.md)
 - [:fontawesome-solid-file-alt: Goku](tools/mac/karabiner/goku/index.md)
-- [:fontawesome-solid-file-alt: Karabiner](tools/mac/karabiner/index.md)
-- [:fontawesome-solid-file-alt: Keyboard Maestro/Automate Work Startup](tools/mac/keyboard-maestro/01-automate-work-startup.md)
-- [:fontawesome-solid-file-alt: Keyboard Maestro](tools/mac/keyboard-maestro/index.md)
-- [:fontawesome-solid-file-alt: Plugins/Fzf](tools/programming/vim/plugins/fzf.md)
-- [:fontawesome-solid-file-alt: Mastering Algorithms In C](computer-science/books/mastering-algorithms-in-c/index.md)
-- [:fontawesome-solid-file-alt: Docker/Docker Wiki](programming/docker/01-docker-wiki.md)
+- [:fontawesome-solid-file-alt: Mac/Modifications](tools/mac/modifications.md)
+- [:fontawesome-solid-file-alt: Git/Git Wiki](tools/programming/git/git-wiki.md)
+- [:fontawesome-solid-file-alt: Git](tools/programming/git/index.md)
+- [:fontawesome-solid-file-alt: Wiki/Git Log](tools/programming/git/wiki/01-git-log.md)
+- [:fontawesome-solid-file-alt: Wiki/Git Clean](tools/programming/git/wiki/02-git-clean.md)
+- [:fontawesome-solid-file-alt: Wiki/Git Checkout](tools/programming/git/wiki/03-git-checkout.md)
+- [:fontawesome-solid-file-alt: Wiki/Git Push](tools/programming/git/wiki/04-git-push.md)
+- [:fontawesome-solid-file-alt: Wiki/Git Stash](tools/programming/git/wiki/05-git-stash.md)
+- [:fontawesome-solid-file-alt: Wiki/Hooks](tools/programming/git/wiki/06-hooks.md)
+- [:fontawesome-solid-file-alt: Wiki](tools/programming/git/wiki/index.md)
+- [:fontawesome-solid-file-alt: Utilities/Ripgrep](tools/programming/unix/utilities/03-ripgrep.md)
 
 <!--
 RECENTLYMODIFIEDEND

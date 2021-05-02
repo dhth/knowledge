@@ -13,3 +13,4 @@ Modules
 - [:fontawesome-solid-file-alt: Modifications](modifications.md)
 - [:fontawesome-solid-folder: Karabiner](karabiner/index.md)
 - [:fontawesome-solid-folder: Keyboard Maestro](keyboard-maestro/index.md)
+- [:fontawesome-solid-folder: AppleScript](applescript/index.md)

@@ -37,3 +37,10 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 ```
 
 More [:fontawesome-solid-link: here](https://apple.stackexchange.com/questions/10467/how-to-increase-keyboard-key-repeat-rate-on-os-x).
+
+Always open window on a specific monitor
+---
+
+Create 3 desktops in Mission Control (doesn't work with 2 for some reason).
+
+![display-selection](assets/display-selection.png)

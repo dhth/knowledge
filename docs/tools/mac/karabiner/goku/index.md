@@ -10,9 +10,9 @@ Resources
 ---
 
 - [:fontawesome-brands-github: Goku](https://github.com/yqrashawn/GokuRakuJoudo)
-- [:fontawesome-solid-play-circle: John Linquist: Remap Keyboard Shortcuts
+- [:fontawesome-solid-play-circle: John Lindquist: Remap Keyboard Shortcuts
   Karabiner Elements](https://www.youtube.com/watch?v=vysHEYTp0H4)
-- [:fontawesome-solid-play-circle: John Linquist: Optimize your
+- [:fontawesome-solid-play-circle: John Lindquist: Optimize your
     keyboard](https://www.pscp.tv/johnlindquist/1vOxworogovxB)
 - [:fontawesome-solid-play-circle: YT: Optimize Your
     Keyboard](https://www.youtube.com/watch?v=emNG5DuEzaY)
