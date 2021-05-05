@@ -9,4 +9,4 @@ Alfred
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Workflows](01-workflows.md)
+- [:fontawesome-solid-folder: Workflows](workflows/index.md)

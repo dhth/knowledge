@@ -6,7 +6,7 @@ summary:
 ripgrep
 ===
 
-Respources
+Resources
 ---
 
 - [:fontawesome-brands-github:

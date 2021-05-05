@@ -1,14 +1,23 @@
 ---
-title: "Coc-Python"
+title: "Python"
 summary:
 ---
 
-Coc-Python
+Python
 ===
 
 Resources
 ----
-- [:fontawesome-brands-github: neoclide/coc-python](https://github.com/neoclide/coc-python)
+- [:fontawesome-brands-github: neoclide/coc-python](https://github.com/neoclide/coc-python) : Deprecated
+- [:fontawesome-brands-github: fannheyward/coc-pyright: Pyright extension for
+    coc.nvim](https://github.com/fannheyward/coc-pyright)
+
+
+!!! note "Deprecated"
+    The content below is mainly for coc-python, which has now been deprecated.
+    coc-pyright works better. Pyright page
+    [here](../../../../../../programming/python/setup/01-pyright.md).
+
 
 Setting up interpreter
 ---
@@ -21,6 +30,7 @@ Each project might need a specific python interpreter.
         "python.pythonPath": "/Users/dhruvthakur/.virtualenvs/sqlalchemy/bin/python"
     }
     ```
+
 
 When Coc doesn't pick up the right workspace path
 ---

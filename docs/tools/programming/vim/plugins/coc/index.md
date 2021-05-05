@@ -1,9 +1,9 @@
 ---
-title: "Coc"
+title: "coc.nvim"
 summary:
 ---
 
-Coc
+coc.nvim
 ===
 
 Resources
@@ -13,8 +13,9 @@ Resources
 
 Modules
 ---
-- [:fontawesome-solid-file-alt: CocSearch](01_cocsearch.md)
-- [:fontawesome-solid-file-alt: Coc-Python](02_coc-python.md)
+
+- [:fontawesome-solid-folder: Language Servers](language-servers/index.md)
+- [:fontawesome-solid-file-alt: CocSearch](01-cocsearch.md)
 
 
 Open jump definition in a new tab

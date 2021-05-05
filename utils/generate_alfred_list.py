@@ -26,18 +26,28 @@ def generate_list():
                     file_path = file_path[:-9]
                     filename = file_path.split("/")[-1]
                     if file_path:
-                        title_list.append(filename)
+                        title = filename.replace("-", " ").replace("_", " ")
+                        title_list.append(title)
                         arg_list.append(file_path)
                         main_count += 1
                 else:
-                    title_list.append(filename[:-3])
+                    # hack to remove number prefix from titles
+                    # and autocomplete suggestions
+                    # since alfred doesn't do fuzzy search for 
+                    # script filter input
+                    filename = filename[:-3]
+                    if filename.startswith("0") or filename.startswith("1"):
+                        filename = "-".join(filename.split("-")[1:])
+                    title = filename.replace("-", " ").replace("_", " ")
+                    title_list.append(title)
                     arg_list.append(file_path[:-3])
                     main_count += 1
     generate_json_file_with_options(
         arg_list=arg_list,
         title_list=title_list,
         autocomplete_list=title_list,
-        absolute_path=f'{os.environ["WIKI_DIR"]}/alfred_list.json',
+        subtitle_list=arg_list,
+        file_path=f'{os.environ["WIKI_DIR"]}/alfred_list.json',
     )
     print(f"Generated list of {main_count} files")
 

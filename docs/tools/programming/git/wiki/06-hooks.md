@@ -6,6 +6,11 @@ summary:
 Hooks
 ===
 
+Resources
+---
+- [:fontawesome-solid-link: Tips for using a git pre-commit hook — David
+    Winterbottom](https://codeinthehole.com/tips/tips-for-using-a-git-pre-commit-hook/)
+
 Skip hooks
 ---
 

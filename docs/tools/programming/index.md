@@ -16,3 +16,5 @@ Modules
 - [:fontawesome-brands-git-alt: Git](git/index.md)
 - [:fontawesome-solid-desktop: Tmux](tmux/index.md)
 - [:fontawesome-solid-folder: Intellij](intellij/index.md)
+- [:fontawesome-solid-folder: jq](jq/index.md)
+- [:fontawesome-solid-folder: cURL](curl/index.md)

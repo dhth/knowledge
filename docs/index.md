@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Applescript/Spotify](tools/mac/applescript/01-spotify.md)
-- [:fontawesome-solid-file-alt: Applescript](tools/mac/applescript/index.md)
-- [:fontawesome-solid-file-alt: Mac](tools/mac/index.md)
-- [:fontawesome-solid-file-alt: Goku](tools/mac/karabiner/goku/index.md)
-- [:fontawesome-solid-file-alt: Mac/Modifications](tools/mac/modifications.md)
-- [:fontawesome-solid-file-alt: Git/Git Wiki](tools/programming/git/git-wiki.md)
-- [:fontawesome-solid-file-alt: Git](tools/programming/git/index.md)
-- [:fontawesome-solid-file-alt: Wiki/Git Log](tools/programming/git/wiki/01-git-log.md)
-- [:fontawesome-solid-file-alt: Wiki/Git Clean](tools/programming/git/wiki/02-git-clean.md)
-- [:fontawesome-solid-file-alt: Wiki/Git Checkout](tools/programming/git/wiki/03-git-checkout.md)
-- [:fontawesome-solid-file-alt: Wiki/Git Push](tools/programming/git/wiki/04-git-push.md)
-- [:fontawesome-solid-file-alt: Wiki/Git Stash](tools/programming/git/wiki/05-git-stash.md)
+- [:fontawesome-solid-file-alt: Meta](meta.md)
+- [:fontawesome-solid-file-alt: Digital Gardens](other/digital-gardens/index.md)
+- [:fontawesome-solid-file-alt: Other](other/index.md)
+- [:fontawesome-solid-file-alt: Cloudformation](programming/aws/cloudformation/index.md)
+- [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
+- [:fontawesome-solid-file-alt: Alfred/Workflows](tools/mac/alfred/01-workflows.md)
+- [:fontawesome-solid-file-alt: Alfred](tools/mac/alfred/index.md)
+- [:fontawesome-solid-file-alt: Workflows/Pomodoro](tools/mac/alfred/workflows/01-pomodoro.md)
+- [:fontawesome-solid-file-alt: Workflows](tools/mac/alfred/workflows/index.md)
+- [:fontawesome-solid-file-alt: Curl/Use Environment Variables In Data](tools/programming/curl/01-use-environment-variables-in-data.md)
+- [:fontawesome-solid-file-alt: Curl](tools/programming/curl/index.md)
 - [:fontawesome-solid-file-alt: Wiki/Hooks](tools/programming/git/wiki/06-hooks.md)
-- [:fontawesome-solid-file-alt: Wiki](tools/programming/git/wiki/index.md)
-- [:fontawesome-solid-file-alt: Utilities/Ripgrep](tools/programming/unix/utilities/03-ripgrep.md)
+- [:fontawesome-solid-file-alt: Programming](tools/programming/index.md)
+- [:fontawesome-solid-file-alt: Jq/Text To Json](tools/programming/jq/01-text-to-json.md)
+- [:fontawesome-solid-file-alt: Jq](tools/programming/jq/index.md)
 
 <!--
 RECENTLYMODIFIEDEND
