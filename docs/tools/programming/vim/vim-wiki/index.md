@@ -27,3 +27,5 @@ Modules
 - [:fontawesome-solid-file-alt: Miscellaneous](12_miscellaneous.md)
 - [:fontawesome-solid-file-alt: Command Line](13-command-line.md)
 - [:fontawesome-solid-file-alt: Performance](14-performance.md)
+- [:fontawesome-solid-file-alt: External Commands](15-external-commands.md)
+- [:fontawesome-solid-file-alt: Folds](16-folds.md)

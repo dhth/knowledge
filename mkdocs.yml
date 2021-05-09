@@ -26,9 +26,10 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.sections
+    # - navigation.top
   favicon: assets/images/favicon.png
   icon:
-    logo: fontawesome/solid/code
+    logo: fontawesome/solid/archive
 extra:
   social:
     - icon: fontawesome/brands/twitter

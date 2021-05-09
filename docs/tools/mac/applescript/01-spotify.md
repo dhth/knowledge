@@ -46,3 +46,15 @@ end tell
 ```
 
 `previous` for previous track.
+
+Increase/Decrease Volume
+---
+
+```AppleScript
+tell application "Spotify"
+    set sound volume to sound volume + 5
+end tell
+```
+
+!!! note "sound volume"
+    sound volume property is read only

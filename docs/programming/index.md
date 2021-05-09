@@ -18,4 +18,4 @@ Modules
 - [:fontawesome-solid-folder: Interviewing](interviewing/index.md)
 - [:fontawesome-solid-folder: Lua](lua/index.md)
 - [:fontawesome-solid-folder: Miscellaneous](miscellaneous/index.md)
-- [:fontawesome-solid-folder: AWS](aws/index.md)
+- [:fontawesome-brands-aws: AWS](aws/index.md)

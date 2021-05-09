@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Meta](meta.md)
+- [:fontawesome-solid-file-alt: Mastering Algorithms In C](computer-science/books/mastering-algorithms-in-c/index.md)
+- [:fontawesome-solid-file-alt: The Missing Semester](computer-science/courses/the-missing-semester/index.md)
+- [:fontawesome-solid-file-alt: The Missing Semester/Lecture 5 Command Line Environment](computer-science/courses/the-missing-semester/lecture-5-command-line-environment.md)
+- [:fontawesome-solid-file-alt: The Missing Semester/Lecture 6 Version Control](computer-science/courses/the-missing-semester/lecture-6-version-control.md)
+- [:fontawesome-solid-file-alt: Courses](other/courses/index.md)
 - [:fontawesome-solid-file-alt: Digital Gardens](other/digital-gardens/index.md)
 - [:fontawesome-solid-file-alt: Other](other/index.md)
-- [:fontawesome-solid-file-alt: Cloudformation](programming/aws/cloudformation/index.md)
+- [:fontawesome-solid-file-alt: Cdk](programming/aws/cdk/index.md)
 - [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
-- [:fontawesome-solid-file-alt: Alfred/Workflows](tools/mac/alfred/01-workflows.md)
-- [:fontawesome-solid-file-alt: Alfred](tools/mac/alfred/index.md)
-- [:fontawesome-solid-file-alt: Workflows/Pomodoro](tools/mac/alfred/workflows/01-pomodoro.md)
+- [:fontawesome-solid-file-alt: Docker/Resources](programming/docker/02-resources.md)
+- [:fontawesome-solid-file-alt: Docker](programming/docker/index.md)
+- [:fontawesome-solid-file-alt: Programming](programming/index.md)
 - [:fontawesome-solid-file-alt: Workflows](tools/mac/alfred/workflows/index.md)
-- [:fontawesome-solid-file-alt: Curl/Use Environment Variables In Data](tools/programming/curl/01-use-environment-variables-in-data.md)
-- [:fontawesome-solid-file-alt: Curl](tools/programming/curl/index.md)
-- [:fontawesome-solid-file-alt: Wiki/Hooks](tools/programming/git/wiki/06-hooks.md)
-- [:fontawesome-solid-file-alt: Programming](tools/programming/index.md)
-- [:fontawesome-solid-file-alt: Jq/Text To Json](tools/programming/jq/01-text-to-json.md)
-- [:fontawesome-solid-file-alt: Jq](tools/programming/jq/index.md)
+- [:fontawesome-solid-file-alt: My Workflows/Pomodoro](tools/mac/alfred/workflows/my-workflows/01-pomodoro.md)
+- [:fontawesome-solid-file-alt: My Workflows](tools/mac/alfred/workflows/my-workflows/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

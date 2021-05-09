@@ -10,7 +10,6 @@ walk_dir = "docs"
 
 
 def generate_list():
-    print("walk_dir (absolute) = " + os.path.abspath(walk_dir))
     arg_list = []
     title_list = []
     main_count = 0
@@ -49,7 +48,6 @@ def generate_list():
         subtitle_list=arg_list,
         file_path=f'{os.environ["WIKI_DIR"]}/alfred_list.json',
     )
-    print(f"Generated list of {main_count} files")
 
 
 if __name__ == "__main__":

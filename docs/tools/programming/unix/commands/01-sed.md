@@ -5,6 +5,12 @@ summary:
 
 sed
 ===
+Resources
+---
+
+- [:fontawesome-brands-stack-overflow: linux - sed command with -i option
+    (in-place editing) works fine on Ubuntu but not
+    Mac](https://stackoverflow.com/questions/16745988/sed-command-with-i-option-in-place-editing-works-fine-on-ubuntu-but-not-mac)
 
 Print a range of lines
 ---
@@ -20,4 +26,12 @@ Use environment variables in sed
 # sed -e "s/$WIKI_DIR\/docs/string_to_replace_with/"  this doesn't work
 sed -e 's@'"$WIKI_DIR/docs/"'@string_to_replace_with@'
 sed -e "s|$WIKI_DIR/docs/|string_to_replace_with|"
+```
+
+Delete lines in a file
+---
+
+```bash
+sed -i -e '1,3d' file.txt
+# deletes lines 1-3 in place
 ```

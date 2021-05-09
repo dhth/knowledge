@@ -1,16 +1,28 @@
-# The Missing Semester
+---
+title: "The Missing Semester"
+summary:
+---
+
+The Missing Semester
+===
 
 The Missing Semester teaches tools that are normally not taught in most traditional CS curriculum but are indispensible in everyday software engineering work.
 
-## Resources
+Resources
+---
+
 - [:fontawesome-solid-link: Website](https://missing.csail.mit.edu/)
 
-## Lectures
+Lectures
+---
+
 - [:fontawesome-solid-file-alt: Lecture 2: Shell Tools and Scripting](lecture-2-shell-tools-and-scripting.md)
 - [:fontawesome-solid-file-alt: Lecture 4: Data
     Wrangling](lecture-4-data-wrangling.md)
 - [:fontawesome-solid-file-alt: Lecture 5: Command Line
     Environment](lecture-5-command-line-environment.md)
+- [:fontawesome-solid-file-alt: Lecture 6: Version
+    Control](lecture-6-version-control.md)
 
 Lecture Checklist
 ---

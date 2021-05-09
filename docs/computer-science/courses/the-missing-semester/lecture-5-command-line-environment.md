@@ -12,7 +12,6 @@ Resources
 
 Notes
 ---
-
 Things covered:
 
 - Job control

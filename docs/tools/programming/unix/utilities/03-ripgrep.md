@@ -37,7 +37,7 @@ With Vim
 :Rg --hidden --iglob='!.git/' -g 'conftest.py' attachment
 ``` 
 
-Ripgrep powers [CocSearch](../../vim/plugins/coc/01_cocsearch.md).
+Ripgrep powers [CocSearch](../../vim/plugins/coc/01-cocsearch.md).
 
 Ignore case
 ---

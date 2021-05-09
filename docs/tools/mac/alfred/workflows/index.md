@@ -14,8 +14,8 @@ Resources
 - [:fontawesome-brands-github: sindresorhus/alfy: Create Alfred workflows with
     ease](https://github.com/sindresorhus/alfy)
 
-My Workflows
+Modules
 ---
 
-- [:fontawesome-solid-file-alt: Pomodoro](01-pomodoro.md)
-
+- [:fontawesome-solid-layer-group: Wiki](wiki/index.md)
+- [:fontawesome-solid-folder: My Workflows](my-workflows/index.md)

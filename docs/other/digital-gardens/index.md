@@ -21,4 +21,4 @@ Wikis
 
 - [:fontawesome-solid-link:
     https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
-
+- [:fontawesome-solid-link: Nikita's extended wiki](https://epictools.dev/)
