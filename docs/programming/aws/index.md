@@ -18,3 +18,4 @@ Modules
 - [:fontawesome-solid-folder: ECS](ecs/index.md)
 - [:fontawesome-solid-folder: CloudFormation](cloudformation/index.md)
 - [:fontawesome-solid-folder: CDK](cdk/index.md)
+- [:fontawesome-solid-folder: CloudBuild](cloudbuild/index.md)

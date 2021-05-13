@@ -14,12 +14,12 @@ Resources
 
 Modules
 ---
-- [:fontawesome-solid-file-alt: Introduction](1_introduction.md)
+- [:fontawesome-solid-file-alt: Introduction](1-introduction.md)
 - [:fontawesome-solid-file-alt: Boolean Functions and Gate
-    Logic](2_boolean-functions-and-gate-logic.md)
+    Logic](2-boolean-functions-and-gate-logic.md)
 - [:fontawesome-solid-file-alt: Boolean Arithmetic and the
-    ALU](3_boolean-arithmetic-and-the-alu.md)
-- [:fontawesome-solid-file-alt: Memory](4_memory.md)
+    ALU](3-boolean-arithmetic-and-the-alu.md)
+- [:fontawesome-solid-file-alt: Memory](4-memory.md)
 
 Module Checklist
 ---

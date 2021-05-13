@@ -8,10 +8,10 @@ Python
 
 Modules
 ---
-- [:fontawesome-solid-file-alt: Resources](01_resources.md)
-- [:fontawesome-solid-file-alt: Imports](02_imports.md)
-- [:fontawesome-solid-file-alt: Decorators](03_decorators.md)
-- [:fontawesome-solid-file-alt: Traceback](04_traceback.md)
+- [:fontawesome-solid-file-alt: Resources](01-resources.md)
+- [:fontawesome-solid-file-alt: Imports](02-imports.md)
+- [:fontawesome-solid-file-alt: Decorators](03-decorators.md)
+- [:fontawesome-solid-file-alt: Traceback](04-traceback.md)
 - [:fontawesome-solid-folder: Asyncio](asyncio/index.md)
 - [:fontawesome-solid-folder: Databases](databases/index.md)
 - [:fontawesome-solid-folder: Debugging](debugging/index.md)

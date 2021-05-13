@@ -13,7 +13,7 @@ def generate_list():
     arg_list = []
     title_list = []
     main_count = 0
-    for root, _ , files in os.walk(walk_dir):
+    for root, _, files in os.walk(walk_dir):
 
         for filename in files:
             file_path = os.path.join(root, filename)
@@ -32,7 +32,7 @@ def generate_list():
                 else:
                     # hack to remove number prefix from titles
                     # and autocomplete suggestions
-                    # since alfred doesn't do fuzzy search for 
+                    # since alfred doesn't do fuzzy search for
                     # script filter input
                     filename = filename[:-3]
                     if filename.startswith("0") or filename.startswith("1"):

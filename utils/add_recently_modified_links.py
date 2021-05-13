@@ -1,6 +1,6 @@
 from utils.get_staged_file_names import get_staged_files
+from utils.stage_modified_file import stage_file
 import re
-import subprocess
 
 
 def insert_updated_links(updated_links, file_name, begin_marker, end_marker, limit=15):
@@ -68,19 +68,14 @@ def title_case(title):
     if len(elements) > 1:
         if elements[1][0].isdigit():
             first_two = elements[1][:2]
-            first_two = re.sub('\d', '', first_two).strip()
-            elements[1] = f'{first_two}{elements[1][2:]}'
+            first_two = re.sub("\d", "", first_two).strip()
+            elements[1] = f"{first_two}{elements[1][2:]}"
     # remove /Index at the end of title, if exists
     if elements[-1] == "index":
         del elements[-1]
-    return "/".join([re.sub('[-_]', ' ',
-                            element).strip().title() for element in elements])
-
-
-def stage_index_file():
-    command = ["git", "add", "docs/index.md"]
-    result = subprocess.run(command, stdout=subprocess.PIPE)
-    result_str = (result.stdout).decode("utf-8")
+    return "/".join(
+        [re.sub("[-_]", " ", element).strip().title() for element in elements]
+    )
 
 
 if __name__ == "__main__":
@@ -93,5 +88,5 @@ if __name__ == "__main__":
         end_marker="RECENTLYMODIFIEDEND",
     )
     print("Added links.")
-    stage_index_file()
+    stage_file("docs/index.md")
     print("Staged index file.")
