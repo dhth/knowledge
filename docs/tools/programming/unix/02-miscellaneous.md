@@ -1,9 +1,9 @@
 ---
-title: "Shell Wiki"
+title: "Unix Wiki"
 summary:
 ---
 
-Shell Wiki
+Unix Wiki
 ===
 
 Diff two directories
@@ -12,13 +12,6 @@ Diff two directories
 ```bash
 diff --brief --recursive -x '.git' -x 'autoload' \
     ~/.config/nvim ~/local.usersnap.com/.config/nvim
-```
-
-Find and replace recursively in a directory
----
-
-```bash
-find docs -name '*.md' | xargs sed -i "" 's/\[/\[:fontawesome-solid-link: /g'
 ```
 
 [:fontawesome-solid-link: Source](https://stackoverflow.com/questions/4804405/search-and-replace-in-vim-across-all-the-project-files).

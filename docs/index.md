@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Meta](meta.md)
-- [:fontawesome-solid-file-alt: From Nand To Tetris Part 1/Introduction](computer-science/courses/from-nand-to-tetris-part-1/1-introduction.md)
-- [:fontawesome-solid-file-alt: From Nand To Tetris Part 1/Boolean Functions And Gate Logic](computer-science/courses/from-nand-to-tetris-part-1/2-boolean-functions-and-gate-logic.md)
-- [:fontawesome-solid-file-alt: From Nand To Tetris Part 1/Boolean Arithmetic And The Alu](computer-science/courses/from-nand-to-tetris-part-1/3-boolean-arithmetic-and-the-alu.md)
-- [:fontawesome-solid-file-alt: From Nand To Tetris Part 1/Memory](computer-science/courses/from-nand-to-tetris-part-1/4-memory.md)
-- [:fontawesome-solid-file-alt: From Nand To Tetris Part 1](computer-science/courses/from-nand-to-tetris-part-1/index.md)
-- [:fontawesome-solid-file-alt: Other/Random](other/01-random.md)
-- [:fontawesome-solid-file-alt: Other](other/index.md)
-- [:fontawesome-solid-file-alt: Javascript](programming/javascript/index.md)
-- [:fontawesome-solid-file-alt: Javascript/React Forms](programming/javascript/react-forms.md)
-- [:fontawesome-solid-file-alt: Javascript/Timing Events](programming/javascript/timing-events.md)
-- [:fontawesome-solid-file-alt: Python/Resources](programming/python/01-resources.md)
-- [:fontawesome-solid-file-alt: Python/Imports](programming/python/02-imports.md)
-- [:fontawesome-solid-file-alt: Python/Decorators](programming/python/03-decorators.md)
-- [:fontawesome-solid-file-alt: Python/Traceback](programming/python/04-traceback.md)
+- [:fontawesome-solid-file-alt: Courses](computer-science/computer-networking/courses/index.md)
+- [:fontawesome-solid-file-alt: The Bits And Bytes Of Computer Networking](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/index.md)
+- [:fontawesome-solid-file-alt: Week 1/The Tcp Ip Five Layer Network Model](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/01-the-tcp-ip-five-layer-network-model.md)
+- [:fontawesome-solid-file-alt: Week 1/The Basics Of Networking Devices](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/02-the-basics-of-networking-devices.md)
+- [:fontawesome-solid-file-alt: Week 1/The Data Link Layer](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/03-the-data-link-layer.md)
+- [:fontawesome-solid-file-alt: Week 1](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/index.md)
+- [:fontawesome-solid-file-alt: Computer Networking](computer-science/computer-networking/index.md)
+- [:fontawesome-solid-file-alt: Computer Science](computer-science/index.md)
+- [:fontawesome-solid-file-alt: Ecs/Use Secrets From Secrets Manager](programming/aws/cdk/ecs/01-use-secrets-from-secrets-manager.md)
+- [:fontawesome-solid-file-alt: Ecs Patterns/Networkloadbalancedfargateservice](programming/aws/cdk/ecs/ecs-patterns/01-networkloadbalancedfargateservice.md)
+- [:fontawesome-solid-file-alt: Ecs Patterns](programming/aws/cdk/ecs/ecs-patterns/index.md)
+- [:fontawesome-solid-file-alt: Ecs](programming/aws/cdk/ecs/index.md)
+- [:fontawesome-solid-file-alt: Cdk](programming/aws/cdk/index.md)
+- [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
+- [:fontawesome-solid-file-alt: Load Balancers](programming/aws/load-balancers/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

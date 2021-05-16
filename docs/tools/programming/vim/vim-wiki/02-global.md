@@ -65,3 +65,8 @@ Suppose we have the following list:
 ```vim
 :.,$g/^-/norm! wi**^[wea**
 ```
+
+Getting gq to behave nicely with lists
+---
+
+`:set fo-=q` seems to work. Needs more investigation.

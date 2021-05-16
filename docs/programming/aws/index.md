@@ -19,3 +19,4 @@ Modules
 - [:fontawesome-solid-folder: CloudFormation](cloudformation/index.md)
 - [:fontawesome-solid-folder: CDK](cdk/index.md)
 - [:fontawesome-solid-folder: CloudBuild](cloudbuild/index.md)
+- [:fontawesome-solid-folder: Load Balancers](load-balancers/index.md)
