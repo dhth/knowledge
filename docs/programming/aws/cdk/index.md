@@ -31,3 +31,4 @@ Modules
 - [:fontawesome-solid-folder: Python API
     Reference](python-api-reference/index.md)
 - [:fontawesome-solid-folder: ECS](ecs/index.md)
+- [:fontawesome-solid-folder: CICD](cicd/index.md)

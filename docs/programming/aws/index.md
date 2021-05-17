@@ -20,3 +20,5 @@ Modules
 - [:fontawesome-solid-folder: CDK](cdk/index.md)
 - [:fontawesome-solid-folder: CloudBuild](cloudbuild/index.md)
 - [:fontawesome-solid-folder: Load Balancers](load-balancers/index.md)
+- [:fontawesome-solid-folder: VPC](vpc/index.md)
+- [:fontawesome-solid-folder: Certifications](certifications/index.md)

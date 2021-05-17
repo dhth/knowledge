@@ -13,8 +13,8 @@ repos:
         entry: python -m utils.generate_alfred_list
         language: system
         files: ^.*.md$
-    -   id: generate_meta_wiki_tree
-        name: generate_meta_wiki_tree
-        entry: python -m utils.generate_meta_tree
-        language: system
-        files: ^.*.md$
+    # -   id: generate_meta_wiki_tree
+    #     name: generate_meta_wiki_tree
+    #     entry: python -m utils.generate_meta_tree
+    #     language: system
+    #     files: ^.*.md$
