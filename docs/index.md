@@ -10,11 +10,11 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
+- [:fontawesome-solid-file-alt: Cicd](programming/aws/cdk/cicd/index.md)
 - [:fontawesome-solid-file-alt: Computer Networking](computer-science/computer-networking/index.md)
 - [:fontawesome-solid-file-alt: Wiki/Cidr](computer-science/computer-networking/wiki/01-cidr.md)
 - [:fontawesome-solid-file-alt: Wiki](computer-science/computer-networking/wiki/index.md)
 - [:fontawesome-solid-file-alt: Meta](meta.md)
-- [:fontawesome-solid-file-alt: Cicd](programming/aws/cdk/cicd/index.md)
 - [:fontawesome-solid-file-alt: Cdk](programming/aws/cdk/index.md)
 - [:fontawesome-solid-file-alt: Certifications](programming/aws/certifications/index.md)
 - [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)

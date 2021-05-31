@@ -18,3 +18,5 @@ Resources
 Modules
 ---
 
+- [:fontawesome-solid-file-alt: Add private subnets to existing
+    VPC](01-add-private-subnets-to-existing-vpc.md)

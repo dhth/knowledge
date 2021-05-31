@@ -22,7 +22,3 @@ Resources
 [3]: https://github.com/aws/aws-cdk/pull/3437
 [4]: https://github.com/aws-samples/cdk-pipelines-demo
 
-
-Modules
----
-
