@@ -6,7 +6,7 @@ summary:
 AWS
 ===
 
-Resource
+Resources
 ---
 
 - [:fontawesome-solid-link: AWS Twitch Streams

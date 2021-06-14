@@ -6,7 +6,6 @@ summary:
 CDK
 ===
 
-
 Modules
 ---
 
@@ -18,3 +17,5 @@ Modules
 - [:fontawesome-solid-folder: Wiki](wiki/index.md)
 - [:fontawesome-solid-folder: VPC](vpc/index.md)
 - [:fontawesome-solid-folder: API Gateway](api-gateway/index.md)
+- [:fontawesome-solid-folder: Lambda](lambda/index.md)
+- [:fontawesome-solid-folder: IAM](iam/index.md)

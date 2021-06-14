@@ -35,3 +35,18 @@ Delete lines in a file
 sed -i -e '1,3d' file.txt
 # deletes lines 1-3 in place
 ```
+
+Remove nth line of stdin
+---
+
+```bash
+echo '1\n2\n3\n4'
+1
+2
+3
+4
+echo '1\n2\n3\n4' | sed 2d
+1
+3
+4
+```

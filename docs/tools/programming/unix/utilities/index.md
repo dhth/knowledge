@@ -22,6 +22,7 @@ Tools
     types (for ignoring).
 - [:fontawesome-solid-link: tree](https://formulae.brew.sh/formula/tree): recursive directory listing
 - [:fontawesome-brands-github: lookatme](https://github.com/d0c-s4vage/lookatme): presentations
+- [:fontawesome-solid-terminal: CoreUtils](coreutils/index.md)
 
 Yet to check out:
 ---

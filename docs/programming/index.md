@@ -19,3 +19,4 @@ Modules
 - [:fontawesome-solid-folder: Lua](lua/index.md)
 - [:fontawesome-solid-folder: Miscellaneous](miscellaneous/index.md)
 - [:fontawesome-brands-aws: AWS](aws/index.md)
+- [:fontawesome-solid-folder: Go](go/index.md)

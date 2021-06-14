@@ -20,6 +20,12 @@ Resources
     Mode](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6)
 - [:fontawesome-brands-github: karabiner.edn configs on
     Github](https://github.com/search?l=&o=desc&q=extension%3A.edn+filename%3Akarabiner.edn&s=&type=Code)
+- [:fontawesome-solid-play-circle: Save Your Hands and Save Your Time: Rethinking How
+    to Use a Keyboard][1]
+
+<!-- Links -->
+[1]:
+https://egghead.io/talks/egghead-save-your-hands-and-save-your-time-rethinking-how-to-use-a-keyboard
 
 Modules
 ---

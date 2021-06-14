@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Cicd](programming/aws/cdk/cicd/index.md)
-- [:fontawesome-solid-file-alt: Computer Networking](computer-science/computer-networking/index.md)
-- [:fontawesome-solid-file-alt: Wiki/Cidr](computer-science/computer-networking/wiki/01-cidr.md)
-- [:fontawesome-solid-file-alt: Wiki](computer-science/computer-networking/wiki/index.md)
-- [:fontawesome-solid-file-alt: Meta](meta.md)
+- [:fontawesome-solid-file-alt: Courses](other/courses/index.md)
+- [:fontawesome-solid-file-alt: Global Financial Markets And Instruments](other/courses/investment-and-portfolio-management/global-financial-markets-and-instruments/index.md)
+- [:fontawesome-solid-file-alt: Week 1/Annuities](other/courses/investment-and-portfolio-management/global-financial-markets-and-instruments/week-1/01-annuities.md)
+- [:fontawesome-solid-file-alt: Week 1](other/courses/investment-and-portfolio-management/global-financial-markets-and-instruments/week-1/index.md)
+- [:fontawesome-solid-file-alt: Investment And Portfolio Management](other/courses/investment-and-portfolio-management/index.md)
+- [:fontawesome-solid-file-alt: Cdk/Resources](programming/aws/cdk/01-resources.md)
+- [:fontawesome-solid-file-alt: Iam](programming/aws/cdk/iam/index.md)
 - [:fontawesome-solid-file-alt: Cdk](programming/aws/cdk/index.md)
-- [:fontawesome-solid-file-alt: Certifications](programming/aws/certifications/index.md)
+- [:fontawesome-solid-file-alt: Lambda](programming/aws/cdk/lambda/index.md)
+- [:fontawesome-solid-file-alt: Ecs/Speeding Up Deployments](programming/aws/ecs/01-speeding-up-deployments.md)
+- [:fontawesome-solid-file-alt: Ecs](programming/aws/ecs/index.md)
 - [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
-- [:fontawesome-solid-file-alt: Vpc](programming/aws/vpc/index.md)
-- [:fontawesome-solid-file-alt: Courses](computer-science/computer-networking/courses/index.md)
-- [:fontawesome-solid-file-alt: The Bits And Bytes Of Computer Networking](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/index.md)
-- [:fontawesome-solid-file-alt: Week 1/The Tcp Ip Five Layer Network Model](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/01-the-tcp-ip-five-layer-network-model.md)
-- [:fontawesome-solid-file-alt: Week 1/The Basics Of Networking Devices](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/02-the-basics-of-networking-devices.md)
-- [:fontawesome-solid-file-alt: Week 1/The Data Link Layer](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/03-the-data-link-layer.md)
-- [:fontawesome-solid-file-alt: Week 1](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/week-1/index.md)
+- [:fontawesome-solid-file-alt: Docker](programming/docker/index.md)
+- [:fontawesome-solid-file-alt: Multi Architecture Builds](programming/docker/multi-architecture-builds/index.md)
+- [:fontawesome-solid-file-alt: Go](programming/go/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

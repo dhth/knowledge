@@ -18,6 +18,7 @@ Repositories
 - [:fontawesome-brands-github: kolomied/awesome-cdk][2]
 - [:fontawesome-brands-aws: AWS CDK API Reference][3]
 - [:fontawesome-brands-aws: AWS CDK Python Reference][4]
+- [:fontawesome-brands-github: cdk-patterns/serverless][8]
 
 
 Docs
@@ -39,4 +40,5 @@ Docs
 [6]: https://docs.aws.amazon.com/cdk/latest/guide/core_concepts.html
 [7]:
 https://www.rehanvdm.com/aws/4-methods-to-configure-multiple-environments-in-the-aws-cdk/index.html
+[8]: https://github.com/cdk-patterns/serverless
 
