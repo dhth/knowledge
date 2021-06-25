@@ -15,3 +15,5 @@ Modules
 - [:fontawesome-solid-file-alt: Git Push](04-git-push.md)
 - [:fontawesome-solid-file-alt: Git Stash](05-git-stash.md)
 - [:fontawesome-solid-file-alt: Hooks](06-hooks.md)
+- [:fontawesome-solid-file-alt: Accidently pushed local only
+    files](07-accidently-pushed-local-only-files.md)

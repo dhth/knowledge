@@ -12,3 +12,4 @@ Modules
 ---
 
 - [:fontawesome-solid-file-alt: Slack](01-slack.md)
+- [:fontawesome-solid-file-alt: Screenshots](02-screenshots.md)

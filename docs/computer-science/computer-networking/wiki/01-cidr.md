@@ -12,7 +12,7 @@ Resources
 - [:fontawesome-brands-aws: Understanding CIDR Notation][1]
 - [:fontawesome-solid-play-circle: IPv4, CIDR, and VPC Subnets Made Simple!][2]
 - [:fontawesome-solid-link: Visualize CIDRs][3]
-- [:fontawesome-solid-link: Subnetting tool][4]
+- [:fontawesome-solid-link: Visual Subnet Calculator][4]
 
 <!-- Links -->
 [1]: https://www.aws.training/Details/Video?id=16480

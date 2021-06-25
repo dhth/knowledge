@@ -6,6 +6,14 @@ summary:
 Add private subnets to existing VPC
 ===
 
+Resources
+---
+
+- [:fontawesome-brands-stack-overflow: AWS ECS Fargate ResourceInitializationError: unable to pull secrets or registry auth][1]
+
+<!-- Links -->
+[1]: https://stackoverflow.com/questions/61265108/aws-ecs-fargate-resourceinitializationerror-unable-to-pull-secrets-or-registry
+
 Setup
 ---
 

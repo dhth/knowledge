@@ -6,6 +6,20 @@ summary:
 Digital Gardens
 ===
 
+Resources
+---
+
+- [:fontawesome-brands-github: Foam: A personal knowledge management and sharing system for VSCode][1]
+
+<!-- Links -->
+[1]: https://foambubble.github.io/foam/
+
+Modules
+---
+
+- [:fontawesome-solid-file-alt: Move to Foam](01-move-to-foam.md)
+
+
 TILS
 ---
 

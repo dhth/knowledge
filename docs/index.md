@@ -10,21 +10,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Courses](other/courses/index.md)
-- [:fontawesome-solid-file-alt: Global Financial Markets And Instruments](other/courses/investment-and-portfolio-management/global-financial-markets-and-instruments/index.md)
-- [:fontawesome-solid-file-alt: Week 1/Annuities](other/courses/investment-and-portfolio-management/global-financial-markets-and-instruments/week-1/01-annuities.md)
-- [:fontawesome-solid-file-alt: Week 1](other/courses/investment-and-portfolio-management/global-financial-markets-and-instruments/week-1/index.md)
-- [:fontawesome-solid-file-alt: Investment And Portfolio Management](other/courses/investment-and-portfolio-management/index.md)
-- [:fontawesome-solid-file-alt: Cdk/Resources](programming/aws/cdk/01-resources.md)
-- [:fontawesome-solid-file-alt: Iam](programming/aws/cdk/iam/index.md)
-- [:fontawesome-solid-file-alt: Cdk](programming/aws/cdk/index.md)
-- [:fontawesome-solid-file-alt: Lambda](programming/aws/cdk/lambda/index.md)
-- [:fontawesome-solid-file-alt: Ecs/Speeding Up Deployments](programming/aws/ecs/01-speeding-up-deployments.md)
-- [:fontawesome-solid-file-alt: Ecs](programming/aws/ecs/index.md)
-- [:fontawesome-solid-file-alt: Aws](programming/aws/index.md)
-- [:fontawesome-solid-file-alt: Docker](programming/docker/index.md)
-- [:fontawesome-solid-file-alt: Multi Architecture Builds](programming/docker/multi-architecture-builds/index.md)
-- [:fontawesome-solid-file-alt: Go](programming/go/index.md)
+- [:fontawesome-solid-file-alt: Wiki/Cidr](computer-science/computer-networking/wiki/01-cidr.md)
+- [:fontawesome-solid-file-alt: Wiki](computer-science/wiki/index.md)
+- [:fontawesome-solid-file-alt: Digital Gardens/Move To Foam](other/digital-gardens/01-move-to-foam.md)
+- [:fontawesome-solid-file-alt: Digital Gardens](other/digital-gardens/index.md)
+- [:fontawesome-solid-file-alt: Certifications](programming/aws/certifications/index.md)
+- [:fontawesome-solid-file-alt: Courses](programming/aws/certifications/solutions-architect/courses/index.md)
+- [:fontawesome-solid-file-alt: Stephane Maarek/Intro](programming/aws/certifications/solutions-architect/courses/stephane-maarek/01-intro.md)
+- [:fontawesome-solid-file-alt: Stephane Maarek](programming/aws/certifications/solutions-architect/courses/stephane-maarek/index.md)
+- [:fontawesome-solid-file-alt: Solutions Architect](programming/aws/certifications/solutions-architect/index.md)
+- [:fontawesome-solid-file-alt: Vpc/Add Private Subnets To Existing Vpc](programming/aws/vpc/01-add-private-subnets-to-existing-vpc.md)
+- [:fontawesome-solid-file-alt: Debugging/Debugging Celery](programming/docker/debugging/debugging-celery.md)
+- [:fontawesome-solid-file-alt: Mac/Iterm2](tools/mac/01-iterm2.md)
+- [:fontawesome-solid-file-alt: Karabiner](tools/mac/karabiner/index.md)
+- [:fontawesome-solid-file-alt: Keyboard Shortcuts/Screenshots](tools/mac/keyboard-shortcuts/02-screenshots.md)
+- [:fontawesome-solid-file-alt: Keyboard Shortcuts](tools/mac/keyboard-shortcuts/index.md)
 
 <!--
 RECENTLYMODIFIEDEND
