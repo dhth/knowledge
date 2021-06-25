@@ -1,8 +1,3 @@
----
-title: "April 2021 Mistakes I made writing IAC"
-summary:
----
-
 April 2021 Mistakes I made writing IAC
 ===
 

@@ -1,8 +1,3 @@
----
-title: Programming
-summary:
----
-
 Programming
 ===
 

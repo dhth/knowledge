@@ -1,8 +1,3 @@
----
-title: "Yaml"
-summary:
----
-
 Yaml
 ===
 

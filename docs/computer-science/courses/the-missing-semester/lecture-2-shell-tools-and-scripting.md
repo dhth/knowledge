@@ -1,8 +1,3 @@
-# Lecture 2: Shell tools and scripting
-
-## Resources
-- [:fontawesome-solid-link: Link](https://missing.csail.mit.edu/2020/shell-tools/)
-
 ## Notes
 
 ```bash

@@ -1,8 +1,3 @@
-# DS and Algorithms
-
-## Removing elements using `splice`
-
-`splice` → remove any number of consecutive elements from anywhere in an array
 
 `splice(start_index, num_of_elements_to_remove)`
 

@@ -1,8 +1,3 @@
----
-title: "Stories"
-summary: 
----
-
 Stories
 ===
 

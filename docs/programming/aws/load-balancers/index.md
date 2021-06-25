@@ -1,8 +1,3 @@
----
-title: "Load Balancers"
-summary:
----
-
 Load Balancers
 ===
 

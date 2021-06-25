@@ -1,8 +1,3 @@
----
-title: "Pyright"
-summary:
----
-
 Pyright
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Replace With Register"
-summary:
----
-
 Replace With Register
 ===
 

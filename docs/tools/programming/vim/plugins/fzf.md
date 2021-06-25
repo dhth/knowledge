@@ -1,8 +1,3 @@
----
-title: "fzf.vim"
-summary:
----
-
 fzf.vim
 ===
 

@@ -1,8 +1,3 @@
----
-title: "The Algorithm Design Manual"
-summary:
----
-
 The Algorithm Design Manual
 ===
 

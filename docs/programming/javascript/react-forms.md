@@ -1,8 +1,3 @@
-# React Forms
-
-[:fontawesome-solid-link: Forms - React](https://reactjs.org/docs/forms.html)
-
-## Intro
 
 HTML form elements work a little bit differently from other DOM elements in React, because form elements naturally keep some internal state. For example, this form in plain HTML accepts a single name:
 

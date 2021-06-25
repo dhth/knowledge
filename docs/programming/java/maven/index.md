@@ -1,8 +1,3 @@
----
-title: "Maven"
-summary:
----
-
 Maven
 ===
 

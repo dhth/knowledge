@@ -1,8 +1,3 @@
----
-title: "Split String and Get Nth"
-summary:
----
-
 Split String and Get Nth
 ===
 

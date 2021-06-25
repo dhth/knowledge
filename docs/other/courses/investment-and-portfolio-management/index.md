@@ -1,8 +1,3 @@
----
-title: "Investment and Portfolio Management"
-summary:
----
-
 Investment and Portfolio Management
 ===
 

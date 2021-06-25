@@ -1,8 +1,3 @@
----
-title: "Functions"
-summary:
----
-
 Functions
 ===
 

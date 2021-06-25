@@ -1,8 +1,3 @@
----
-title: "Docker"
-summary:
----
-
 Docker
 ===
 

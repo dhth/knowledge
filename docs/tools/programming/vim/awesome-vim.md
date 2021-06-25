@@ -1,8 +1,3 @@
----
-title: "Awesome Vim"
-summary:
----
-
 Awesome Vim
 ===
 

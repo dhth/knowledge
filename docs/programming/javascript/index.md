@@ -1,8 +1,3 @@
----
-title: "JavaScript"
-summary:
----
-
 JavaScript
 ===
 

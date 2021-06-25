@@ -1,8 +1,3 @@
----
-title: "Vim Wiki"
-summary:
----
-
 Vim Wiki
 ===
 

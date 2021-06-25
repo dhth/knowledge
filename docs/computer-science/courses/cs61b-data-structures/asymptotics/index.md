@@ -1,8 +1,3 @@
----
-title: "Asymptotics"
-summary:
----
-
 Asymptotics
 ===
 

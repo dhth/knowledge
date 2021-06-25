@@ -1,8 +1,3 @@
----
-title: "Plugin Development"
-summary:
----
-
 Plugin Development
 ===
 

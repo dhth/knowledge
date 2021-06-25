@@ -1,8 +1,3 @@
----
-title: "Vim Test"
-summary:
----
-
 Vim Test
 ===
 

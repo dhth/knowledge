@@ -1,8 +1,3 @@
----
-title: "Gruvbox"
-summary:
----
-
 Gruvbox
 ===
 

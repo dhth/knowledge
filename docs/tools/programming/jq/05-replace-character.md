@@ -1,8 +1,3 @@
----
-title: "Replace Character"
-summary:
----
-
 Replace Character
 ===
 

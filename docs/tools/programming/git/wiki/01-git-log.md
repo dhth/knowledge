@@ -1,8 +1,3 @@
----
-title: "Git Log"
-summary:
----
-
 Git Log
 ===
 

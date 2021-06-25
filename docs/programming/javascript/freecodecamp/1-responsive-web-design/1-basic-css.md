@@ -1,8 +1,3 @@
-# Basic CSS
-
-## Padding
-
-Three important properties control the space that surrounds each HTML element: `padding`, `margin`, and `border`.
 
 <img src="../assets/1-basic-css/Untitled.png" alt="information-vs-knowledge" class="responsive">
 

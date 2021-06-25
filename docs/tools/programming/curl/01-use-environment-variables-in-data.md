@@ -1,8 +1,3 @@
----
-title: "Use Environment Variables in Data"
-summary:
----
-
 Use Environment Variables in Data
 ===
 

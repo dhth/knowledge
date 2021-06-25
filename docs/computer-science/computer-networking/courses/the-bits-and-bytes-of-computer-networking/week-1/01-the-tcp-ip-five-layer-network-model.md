@@ -1,8 +1,3 @@
----
-title: "The TCP IP Five Layer Network Model"
-summary:
----
-
 The TCP IP Five Layer Network Model
 ===
 

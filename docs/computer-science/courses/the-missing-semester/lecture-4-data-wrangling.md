@@ -1,8 +1,3 @@
----
-title: "Lecture 3: Data Wrangling"
-summary:
----
-
 Lecture 3: Data Wrangling
 ===
 

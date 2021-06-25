@@ -1,8 +1,3 @@
-# Applied Visual Design
-
-## `box-shadow`
-
-The `box-shadow` property applies one or more shadows to an element.
 
 The `box-shadow` property takes values for
 

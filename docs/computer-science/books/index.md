@@ -1,8 +1,3 @@
----
-title: "Books"
-summary:
----
-
 Books
 ===
 

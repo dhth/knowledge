@@ -1,8 +1,3 @@
----
-title: "Github Repo Search"
-summary:
----
-
 Github Repo Search
 ===
 

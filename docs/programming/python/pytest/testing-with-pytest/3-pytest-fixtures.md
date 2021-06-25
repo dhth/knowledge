@@ -1,8 +1,3 @@
----
-title: "Ch 3: Pytest Fixtures"
-summary:
----
-
 Ch 3: Pytest Fixtures
 ===
 

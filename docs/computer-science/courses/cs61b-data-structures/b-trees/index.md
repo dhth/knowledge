@@ -1,8 +1,3 @@
----
-title: "B Trees"
-summary:
----
-
 B Trees
 ===
 

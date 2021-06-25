@@ -1,8 +1,3 @@
----
-title: "Accidently pushed local only files"
-summary:
----
-
 Accidently pushed local only files
 ===
 

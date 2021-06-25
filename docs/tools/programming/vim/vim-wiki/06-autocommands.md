@@ -1,8 +1,3 @@
----
-title: Autocommands
-summary:
----
-
 Autocommands
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Binary Search Trees"
-summary:
----
-
 Binary Search Trees
 ===
 

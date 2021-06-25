@@ -1,8 +1,3 @@
-# Bootstrap
-
-## Center a heading
-
-```html
 <h2 class="text-center">your text</h2>
 ```
 

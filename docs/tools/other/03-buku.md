@@ -1,8 +1,3 @@
----
-title: "Buku"
-summary:
----
-
 Buku
 ===
 

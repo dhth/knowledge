@@ -1,8 +1,3 @@
----
-title: "The Missing Semester"
-summary:
----
-
 The Missing Semester
 ===
 

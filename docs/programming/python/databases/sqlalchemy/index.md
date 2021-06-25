@@ -1,8 +1,3 @@
----
-title: "SQLAlchemy"
-summary:
----
-
 SQLAlchemy
 ===
 

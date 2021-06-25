@@ -1,8 +1,3 @@
----
-title: "CICD"
-summary:
----
-
 CICD
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Automate Work Startup"
-summary:
----
-
 Automate Work Startup
 ===
 

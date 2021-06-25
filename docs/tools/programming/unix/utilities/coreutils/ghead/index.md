@@ -1,8 +1,3 @@
----
-title: "ghead"
-summary:
----
-
 ghead
 ===
 

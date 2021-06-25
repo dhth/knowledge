@@ -1,8 +1,3 @@
----
-title: "Computer Networking"
-summary:
----
-
 Computer Networking
 ===
 

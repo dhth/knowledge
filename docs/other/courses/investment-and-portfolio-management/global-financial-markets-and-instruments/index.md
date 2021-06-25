@@ -1,8 +1,3 @@
----
-title: "Global Financial Markets and Instruments"
-summary:
----
-
 Global Financial Markets and Instruments
 ===
 

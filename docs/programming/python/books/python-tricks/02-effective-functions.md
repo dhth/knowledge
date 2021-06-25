@@ -1,8 +1,3 @@
----
-title: "Effective Functions"
-summary:
----
-
 Effective Functions
 ===
 

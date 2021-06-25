@@ -1,8 +1,3 @@
----
-title: "Heaps and Primary Queues"
-summary:
----
-
 Heaps and Primary Queues
 ===
 

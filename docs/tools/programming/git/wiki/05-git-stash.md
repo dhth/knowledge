@@ -1,8 +1,3 @@
----
-title: "Git Stash"
-summary:
----
-
 Git Stash
 ===
 

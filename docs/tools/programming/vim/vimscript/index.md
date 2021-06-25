@@ -1,8 +1,3 @@
----
-title: "VimScript"
-summary:
----
-
 VimScript
 ===
 

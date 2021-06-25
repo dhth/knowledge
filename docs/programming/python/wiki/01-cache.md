@@ -1,8 +1,3 @@
----
-title: "@cache"
-summary:
----
-
 @cache
 ===
 

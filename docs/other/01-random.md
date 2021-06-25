@@ -1,8 +1,3 @@
----
-title: "Random"
-summary:
----
-
 Random
 ===
 

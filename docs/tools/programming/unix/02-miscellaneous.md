@@ -1,8 +1,3 @@
----
-title: "Unix Wiki"
-summary:
----
-
 Unix Wiki
 ===
 

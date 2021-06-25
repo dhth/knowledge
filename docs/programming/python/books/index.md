@@ -1,8 +1,3 @@
----
-title: Python Books
-summary:
----
-
 Python Books
 ===
 

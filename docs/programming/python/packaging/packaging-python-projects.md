@@ -1,8 +1,3 @@
-# Packaging Python Projects
-
-Source: [:fontawesome-solid-link: Python Testing with pytest](https://learning.oreilly.com/library/view/python-testing-with/9781680502848/f_0090.xhtml)
-
-## Creating an Installable Module
 
 ```bash
 	some_module_proj/

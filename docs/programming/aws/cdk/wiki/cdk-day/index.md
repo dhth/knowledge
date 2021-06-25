@@ -1,8 +1,3 @@
----
-title: "CDK Day"
-summary:
----
-
 CDK Day
 ===
 

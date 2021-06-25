@@ -1,8 +1,3 @@
----
-title: "Databases with Python"
-summary:
----
-
 Databases with Python
 ===
 

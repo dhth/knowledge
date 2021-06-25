@@ -1,8 +1,3 @@
----
-title: "Debugging"
-summary:
----
-
 Debugging
 ===
 

@@ -1,8 +1,3 @@
----
-title: "IdeaVim"
-summary:
----
-
 IdeaVim
 ===
 

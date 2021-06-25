@@ -1,8 +1,3 @@
----
-title: "Multi Architecture Builds"
-summary:
----
-
 Multi Architecture Builds
 ===
 

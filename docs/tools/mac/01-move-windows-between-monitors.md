@@ -1,8 +1,3 @@
----
-title: "Move windows between monitors"
-summary:
----
-
 Move windows between monitors
 ===
 

@@ -1,8 +1,3 @@
-# memory_profiler
-
-## Setup
-
-[:fontawesome-solid-link: pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler)
 
 ```bash
 pip install memory_profiler

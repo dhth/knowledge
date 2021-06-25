@@ -1,8 +1,3 @@
----
-title: "Folds"
-summary:
----
-
 Folds
 ===
 

@@ -1,8 +1,3 @@
----
-title: Python Tricks
-summary:
----
-
 Python Tricks
 ===
 

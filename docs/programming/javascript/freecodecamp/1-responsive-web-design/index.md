@@ -1,8 +1,3 @@
-# Responsive Web Design
-
-## Modules
-
-- [:fontawesome-solid-file-alt: Basic CSS](1-basic-css.md)
 
 - [:fontawesome-solid-file-alt: Applied Visual Design](2-applied-visual-design.md)
 

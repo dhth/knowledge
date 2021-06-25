@@ -1,8 +1,3 @@
----
-title: "Forward Path Parameters to Integration"
-summary:
----
-
 Forward Path Parameters to Integration
 ===
 

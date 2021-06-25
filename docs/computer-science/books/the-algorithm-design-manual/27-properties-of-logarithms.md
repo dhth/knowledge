@@ -1,8 +1,3 @@
----
-title: "2.7: Properties of Logarithms"
-summary:
----
-
 2.7: Properties of Logarithms
 ===
 

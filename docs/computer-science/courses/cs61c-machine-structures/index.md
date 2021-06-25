@@ -1,8 +1,3 @@
----
-title: "CS61C Machine Structures"
-summary:
----
-
 CS61C Machine Structures
 ===
 

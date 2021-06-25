@@ -1,8 +1,3 @@
----
-title: "Setup"
-summary:
----
-
 Setup
 ===
 

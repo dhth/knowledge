@@ -1,8 +1,3 @@
----
-title: "Mastering Algorithms in C"
-summary:
----
-
 Mastering Algorithms in C
 ===
 

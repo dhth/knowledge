@@ -1,8 +1,3 @@
----
-title: "Native LSP"
-summary:
----
-
 Native LSP
 ===
 

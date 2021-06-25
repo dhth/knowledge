@@ -1,8 +1,3 @@
----
-title: "Keyboard Shortcuts"
-summary:
----
-
 Keyboard Shortcuts
 ===
 

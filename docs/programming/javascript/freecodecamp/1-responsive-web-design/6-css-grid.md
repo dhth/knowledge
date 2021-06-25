@@ -1,8 +1,3 @@
-# CSS Grid
-
-## Setup
-
-```css
 div{
 	display: grid;
 }

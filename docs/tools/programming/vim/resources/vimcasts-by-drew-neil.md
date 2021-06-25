@@ -1,8 +1,3 @@
----
-title: "VimCasts by Drew Neil"
-summary:
----
-
 VimCasts by Drew Neil
 ===
 

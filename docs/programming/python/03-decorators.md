@@ -1,8 +1,3 @@
----
-title: Decorators
-summary:
----
-
 Decorators
 ===
 

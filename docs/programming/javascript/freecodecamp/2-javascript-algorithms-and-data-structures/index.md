@@ -1,8 +1,3 @@
-# JavaScript Algorithms and Data Structures
-
-## Modules
-
-- [:fontawesome-solid-file-alt: 1-Basic JS](1-basic-js.md)
 
 - [:fontawesome-solid-file-alt: 2-ES6](2-es6.md)
 

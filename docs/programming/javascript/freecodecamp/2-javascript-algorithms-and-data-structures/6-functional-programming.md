@@ -1,8 +1,3 @@
-# Functional Programming
-
-## Basics
-
-Functional programming follows a few core principles:
 
 - Functions are independent from the state of the program or global variables. They only depend on the arguments passed into them to make a calculation
 - Functions try to limit any changes to the state of the program and avoid changes to the global objects holding data

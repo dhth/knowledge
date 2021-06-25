@@ -1,8 +1,3 @@
----
-title: "Use cache with docker"
-summary:
----
-
 Use cache with docker
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Use Environment Variables in Filter"
-summary:
----
-
 Use Environment Variables in Filter
 ===
 

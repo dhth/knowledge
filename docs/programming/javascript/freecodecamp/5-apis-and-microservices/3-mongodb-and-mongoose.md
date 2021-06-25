@@ -1,8 +1,3 @@
-# MongoDB and Mongoose
-
-## Intro
-
-MongoDB is a database that stores data records (documents) for use by an application. Mongo is a non-relational, "NoSQL" database. This means Mongo stores all associated data within one record, instead of storing it across many preset tables as in a SQL database. Some benefits of this storage model are:
 
 - Scalability: by default, non-relational databases are split (or "shared") across many systems instead of only one. This makes it easier to improve performance at a lower cost.
 - Flexibility: new datasets and properties can be added to a document without the need to make a new table for that data.

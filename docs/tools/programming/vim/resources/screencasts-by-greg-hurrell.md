@@ -1,8 +1,3 @@
----
-title: "Screencasts by Greg Hurrell"
-summary:
----
-
 Screencasts by Greg Hurrell
 ===
 

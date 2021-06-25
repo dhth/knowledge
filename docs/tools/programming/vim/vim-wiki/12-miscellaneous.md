@@ -1,8 +1,3 @@
----
-title: Miscellaneous
-summary:
----
-
 Miscellaneous
 ===
 

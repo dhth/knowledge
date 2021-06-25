@@ -1,8 +1,3 @@
----
-title: "Basics"
-summary:
----
-
 Basics
 ===
 

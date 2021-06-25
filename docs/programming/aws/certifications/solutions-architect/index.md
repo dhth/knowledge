@@ -1,8 +1,3 @@
----
-title: "Solutions Architect"
-summary:
----
-
 Solutions Architect
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Installing Python Using Pyenv"
-summary:
----
-
 Installing Python Using Pyenv
 ===
 

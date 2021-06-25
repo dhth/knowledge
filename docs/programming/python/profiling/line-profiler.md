@@ -1,8 +1,3 @@
-# line_profiler
-
-## Setup
-
-[:fontawesome-solid-link: rkern/line_profiler](https://github.com/rkern/line_profiler)
 
 ```bash
 pip install line_profiler

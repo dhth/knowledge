@@ -1,8 +1,3 @@
-dhruv's wiki
-===
-
-My long-term goal for this wiki is to consolidate all — or atleast most! — of what I know.
-
 Recently modified
 ---
 
@@ -10,21 +5,21 @@ Recently modified
 RECENTLYMODIFIEDBEGIN
 -->
 
-- [:fontawesome-solid-file-alt: Wiki/Cidr](computer-science/computer-networking/wiki/01-cidr.md)
-- [:fontawesome-solid-file-alt: Wiki](computer-science/wiki/index.md)
-- [:fontawesome-solid-file-alt: Digital Gardens/Move To Foam](other/digital-gardens/01-move-to-foam.md)
-- [:fontawesome-solid-file-alt: Digital Gardens](other/digital-gardens/index.md)
-- [:fontawesome-solid-file-alt: Certifications](programming/aws/certifications/index.md)
-- [:fontawesome-solid-file-alt: Courses](programming/aws/certifications/solutions-architect/courses/index.md)
-- [:fontawesome-solid-file-alt: Stephane Maarek/Intro](programming/aws/certifications/solutions-architect/courses/stephane-maarek/01-intro.md)
-- [:fontawesome-solid-file-alt: Stephane Maarek](programming/aws/certifications/solutions-architect/courses/stephane-maarek/index.md)
-- [:fontawesome-solid-file-alt: Solutions Architect](programming/aws/certifications/solutions-architect/index.md)
-- [:fontawesome-solid-file-alt: Vpc/Add Private Subnets To Existing Vpc](programming/aws/vpc/01-add-private-subnets-to-existing-vpc.md)
-- [:fontawesome-solid-file-alt: Debugging/Debugging Celery](programming/docker/debugging/debugging-celery.md)
-- [:fontawesome-solid-file-alt: Mac/Iterm2](tools/mac/01-iterm2.md)
-- [:fontawesome-solid-file-alt: Karabiner](tools/mac/karabiner/index.md)
-- [:fontawesome-solid-file-alt: Keyboard Shortcuts/Screenshots](tools/mac/keyboard-shortcuts/02-screenshots.md)
-- [:fontawesome-solid-file-alt: Keyboard Shortcuts](tools/mac/keyboard-shortcuts/index.md)
+- [:fontawesome-solid-file-alt: Books/Book Tracker](books/00-book-tracker.md)
+- [:fontawesome-solid-file-alt: Books/The Mediocre Programmer](books/01-the-mediocre-programmer.md)
+- [:fontawesome-solid-file-alt: Books](books/index.md)
+- [:fontawesome-solid-file-alt: Books](computer-science/books/index.md)
+- [:fontawesome-solid-file-alt: Mastering Algorithms In C](computer-science/books/mastering-algorithms-in-c/index.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Modeling The Problem](computer-science/books/the-algorithm-design-manual/14-modeling-the-problem.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/The Ram Model Of Computation](computer-science/books/the-algorithm-design-manual/21-the-ram-model-of-computation.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/The Big Oh Notation](computer-science/books/the-algorithm-design-manual/22-the-big-oh-notation.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Growth Rate And Dominance Relations](computer-science/books/the-algorithm-design-manual/23-growth-rate-and-dominance-relations.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Working With The Big Oh](computer-science/books/the-algorithm-design-manual/24-working-with-the-big-oh.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Properties Of Logarithms](computer-science/books/the-algorithm-design-manual/27-properties-of-logarithms.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual/Contiguous Vs Linked Data Structures](computer-science/books/the-algorithm-design-manual/31-contiguous-vs-linked-data-structures.md)
+- [:fontawesome-solid-file-alt: The Algorithm Design Manual](computer-science/books/the-algorithm-design-manual/index.md)
+- [:fontawesome-solid-file-alt: Courses](computer-science/computer-networking/courses/index.md)
+- [:fontawesome-solid-file-alt: The Bits And Bytes Of Computer Networking](computer-science/computer-networking/courses/the-bits-and-bytes-of-computer-networking/index.md)
 
 <!--
 RECENTLYMODIFIEDEND

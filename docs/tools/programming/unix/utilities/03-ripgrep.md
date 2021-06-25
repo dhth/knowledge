@@ -1,8 +1,3 @@
----
-title: ripgrep
-summary:
----
-
 ripgrep
 ===
 

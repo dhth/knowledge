@@ -1,8 +1,3 @@
----
-title: "141: Linked List Cycle"
-summary:
----
-
 141: Linked List Cycle
 ===
 

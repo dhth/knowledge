@@ -1,8 +1,3 @@
----
-title: "Lists"
-summary:
----
-
 Lists
 ===
 

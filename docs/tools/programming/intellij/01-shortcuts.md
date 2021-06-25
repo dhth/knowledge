@@ -1,8 +1,3 @@
----
-title: "Shortcuts"
-summary:
----
-
 Shortcuts
 ===
 

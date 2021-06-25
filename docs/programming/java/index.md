@@ -1,8 +1,3 @@
----
-title: "Java"
-summary:
----
-
 Java
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Vim Script"
-summary:
----
-
 Vim Script
 ===
 

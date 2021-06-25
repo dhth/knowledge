@@ -1,8 +1,3 @@
----
-title: "CloudBuild"
-summary:
----
-
 CloudBuild
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Fugitive"
-summary:
----
-
 Fugitive
 ===
 
