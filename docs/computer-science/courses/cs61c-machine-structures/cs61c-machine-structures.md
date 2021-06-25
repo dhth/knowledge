@@ -10,7 +10,7 @@ Resources
 
 Modules
 ---
-- [:fontawesome-solid-file-alt: Lec 1: Intro](lec-1-intro.md)
+- [[lec-1-intro]]
 
 Lecture Checklist
 ---

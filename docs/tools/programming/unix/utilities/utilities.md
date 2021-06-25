@@ -4,9 +4,9 @@ Utilities
 Search Utilities
 ---
 
-- [:fontawesome-solid-file-alt: FZF](01-fzf.md)
-- [:fontawesome-solid-file-alt: fd](02-fd.md)
-- [:fontawesome-solid-file-alt: ripgrep](03-ripgrep.md)
+- [[01-fzf]]
+- [[02-fd]]
+- [[03-ripgrep]]
 
 Tools
 ---
@@ -17,7 +17,7 @@ Tools
     types (for ignoring).
 - [:fontawesome-solid-link: tree](https://formulae.brew.sh/formula/tree): recursive directory listing
 - [:fontawesome-brands-github: lookatme](https://github.com/d0c-s4vage/lookatme): presentations
-- [:fontawesome-solid-terminal: CoreUtils](coreutils/index.md)
+- [[coreutils]]
 
 Yet to check out:
 ---

@@ -4,4 +4,4 @@ GraphQL
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Resources](01-resources.md)
+- [[01-resources]]

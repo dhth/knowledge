@@ -6,9 +6,9 @@ Testing with Pytest
 Chapters
 ---
 
-- [:fontawesome-solid-file-alt: 1: Getting started with Pytest](1-getting-started-with-pytest.md)
-- [:fontawesome-solid-file-alt: 2: Writing test functions](2-writing-test-functions.md)
-- [:fontawesome-solid-file-alt: 3: Pytest fixtures](3-pytest-fixtures.md)
+- [[1-getting-started-with-pytest]]
+- [[2-writing-test-functions]]
+- [[3-pytest-fixtures]]
 
 Chapters Checklist
 ---

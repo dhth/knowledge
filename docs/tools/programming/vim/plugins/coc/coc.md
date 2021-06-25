@@ -9,10 +9,10 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-folder: Language Servers](language-servers/index.md)
-- [:fontawesome-solid-file-alt: CocSearch](01-cocsearch.md)
+- [[language-servers]]
+- [[01-cocsearch]]
 - [:fontawesome-solid-file-alt: Toggle Suggestions or
-    Sources](02-toggle-suggestions-or-sources.md)
+- [[02-toggle-suggestions-or-sources]]
 
 
 Open jump definition in a new tab

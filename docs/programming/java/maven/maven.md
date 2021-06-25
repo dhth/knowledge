@@ -4,4 +4,4 @@ Maven
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Basics](01-basics.md)
+- [[01-basics]]

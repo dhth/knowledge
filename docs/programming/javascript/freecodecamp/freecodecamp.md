@@ -1,4 +1,4 @@
-- [:fontawesome-solid-folder: JavaScript Algorithms and Data Structures](./2-javascript-algorithms-and-data-structures/index.md)
-- [:fontawesome-solid-folder: Frontend Libraries](./3-frontend-libraries/index.md)
-- [:fontawesome-solid-folder: Data Visualization](./4-data-visualization/index.md)
-- [:fontawesome-solid-folder: APIs and Microservices](./5-apis-and-microservices/index.md)
+- [[./2-javascript-algorithms-and-data-structures]]
+- [[./3-frontend-libraries]]
+- [[./4-data-visualization]]
+- [[./5-apis-and-microservices]]

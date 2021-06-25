@@ -11,7 +11,7 @@ Resources
 !!! note "Deprecated"
     The content below is mainly for coc-python, which has now been deprecated.
     coc-pyright works better. Pyright page
-    [here](../../../../../../programming/python/setup/01-pyright.md).
+- [[../../../../../../programming/python/setup/01-pyright]]
 
 
 Setting up interpreter

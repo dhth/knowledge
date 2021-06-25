@@ -25,7 +25,7 @@ https://egghead.io/talks/egghead-save-your-hands-and-save-your-time-rethinking-h
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Templates](01-templates.md)
+- [[01-templates]]
 
 Examples
 ---

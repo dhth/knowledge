@@ -5,7 +5,7 @@ Resources
 ---
 
 - [:fontawesome-brands-github:
-    Guide](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)
+- [[https://github.com/BurntSushi/ripgrep/blob/master/GUIDE]]
 - [:fontawesome-solid-link: Cheat
     Sheet](https://jdhao.github.io/2020/02/16/ripgrep_cheat_sheet/)
 
@@ -32,7 +32,7 @@ With Vim
 :Rg --hidden --iglob='!.git/' -g 'conftest.py' attachment
 ``` 
 
-Ripgrep powers [CocSearch](../../vim/plugins/coc/01-cocsearch.md).
+- [[../../vim/plugins/coc/01-cocsearch]]
 
 Ignore case
 ---

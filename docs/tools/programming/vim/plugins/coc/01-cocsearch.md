@@ -13,7 +13,7 @@ Add lines to search
 Search specific files
 ---
 
-Since CocSearch uses [ripgrep](../../../unix/utilities/03-ripgrep.md) behind
+- [[../../../unix/utilities/03-ripgrep]]
 the scenes, ripgrep arguments can be used with it.
 
 ```

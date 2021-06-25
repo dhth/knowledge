@@ -12,12 +12,12 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Text to JSON](01-text-to-json.md)
-- [:fontawesome-solid-file-alt: Work with arrays](02-work-with-arrays.md)
-- [:fontawesome-solid-file-alt: Concat Fields](03-concat-fields.md)
+- [[01-text-to-json]]
+- [[02-work-with-arrays]]
+- [[03-concat-fields]]
 - [:fontawesome-solid-file-alt: Use Environment Variables in
-    Filter](04-use-environment-variables-in-filter.md)
-- [:fontawesome-solid-file-alt: Replace Character](05-replace-character.md)
-- [:fontawesome-solid-file-alt: Slurp](06-slurp.md)
+- [[04-use-environment-variables-in-filter]]
+- [[05-replace-character]]
+- [[06-slurp]]
 - [:fontawesome-solid-file-alt: Filter based on
-    condition](07-filter-based-on-condition.md)
+- [[07-filter-based-on-condition]]

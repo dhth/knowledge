@@ -7,7 +7,7 @@ Resources
 - [:fontawesome-brands-github: Color
     Schemes](https://github.com/junegunn/fzf/wiki/Color-schemes)
 
-Has a Vim [plugin](../../vim/plugins/fzf.md).
+- [[../../vim/plugins/fzf]]
 
 Options
 ---

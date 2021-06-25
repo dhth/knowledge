@@ -4,4 +4,4 @@ Wiki
 Modules
 ---
 
-- [:fontawesome-solid-folder: CDK Day](cdk-day/index.md)
+- [[cdk-day]]

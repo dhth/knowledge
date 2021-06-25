@@ -4,6 +4,6 @@ ECS
 Modules
 ---
 
-- [:fontawesome-solid-folder: ECS Patterns](ecs-patterns/index.md)
+- [[ecs-patterns]]
 - [:fontawesome-solid-file-alt: Use secrets from secrets
-    manager](01-use-secrets-from-secrets-manager.md)
+- [[01-use-secrets-from-secrets-manager]]

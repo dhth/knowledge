@@ -1,1 +1,1 @@
-- [:fontawesome-solid-file-alt: Memory Profiler](memory-profiler.md)
+- [[memory-profiler]]

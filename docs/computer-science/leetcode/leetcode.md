@@ -10,9 +10,9 @@ Resources
 Problems
 ---
 
-- [:fontawesome-solid-file-alt: 141: Linked List Cycle](141-linked-list-cycle.md)
+- [[141-linked-list-cycle]]
 - [:fontawesome-solid-file-alt: 19: Remove Nth Node From End of
-    List](19-remove-nth-node-from-end-of-list.md)
+- [[19-remove-nth-node-from-end-of-list]]
 - [:fontawesome-solid-file-alt: 142: Linked List Cycle
-    2](142-linked-list-cycle-2.md)
-- [:fontawesome-solid-file-alt: 143: Reorder List](143-reorder-list.md)
+- [[142-linked-list-cycle-2]]
+- [[143-reorder-list]]

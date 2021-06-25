@@ -9,11 +9,11 @@ Trying to document my short term goals here.
 - [x] Read [:fontawesome-solid-book: tmux 2](https://pragprog.com/titles/bhtmux2/tmux-2/)
 - [x] Read [:fontawesome-solid-book: Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 - [ ] Read [:fontawesome-solid-book: Testing with
-    Pytest](../programming/python/pytest/testing-with-pytest/index.md)
+- [[../programming/python/pytest/testing-with-pytest]]
 - [ ] Finish [:fontawesome-solid-university:
   NandToTetris Part
-  1](../computer-science/courses/from-nand-to-tetris-part-1/index.md)
-- [ ] Read [:fontawesome-solid-book: Essential SQLAlchemy](../programming/python/databases/sqlalchemy/essential-sqlalchemy/index.md)
+- [[../computer-science/courses/from-nand-to-tetris-part-1]]
+- [[../programming/python/databases/sqlalchemy/essential-sqlalchemy]]
 - [ ] Finish [:fontawesome-solid-university: CS61B](https://sp19.datastructur.es/)
 - [ ] Learn about the internals of [Neovim](https://github.com/neovim/neovim) by
   writing a few plugins (in Lua!)

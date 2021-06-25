@@ -10,8 +10,8 @@ Modules
 ---
 
 - [:fontawesome-solid-file-alt: Patterns for Cleaner
-    Python](01-patterns-for-cleaner-python.md)
-- [:fontawesome-solid-file-alt: Effective Functions](02-effective-functions.md)
+- [[01-patterns-for-cleaner-python]]
+- [[02-effective-functions]]
 
 Chapters Checklist
 ---

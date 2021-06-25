@@ -1,12 +1,12 @@
 
-- [:fontawesome-solid-file-alt: 2-ES6](2-es6.md)
+- [[2-es6]]
 
-- [:fontawesome-solid-file-alt: 3-Regex](3-regex.md)
+- [[3-regex]]
 
-- [:fontawesome-solid-file-alt: 4-DS and Algorithms](4-ds-and-algorithms.md)
+- [[4-ds-and-algorithms]]
 
-- [:fontawesome-solid-file-alt: 5-Object Oriented Programming](5-object-oriented-programming.md)
+- [[5-object-oriented-programming]]
 
-- [:fontawesome-solid-file-alt: 6-Functional Programming](6-functional-programming.md)
+- [[6-functional-programming]]
 
-- [:fontawesome-solid-file-alt: 7-Intermediate Algorithm Scripting](7-intermediate-algorithm-scripting.md)
+- [[7-intermediate-algorithm-scripting]]

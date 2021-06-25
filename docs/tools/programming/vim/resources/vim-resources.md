@@ -6,9 +6,9 @@ Awesome Vim resources.
 Screen Casts
 ---
 
-- [:fontawesome-solid-play-circle: VimCasts by Drew Neil](vimcasts-by-drew-neil.md)
+- [[vimcasts-by-drew-neil]]
 - [:fontawesome-solid-play-circle: Screencasts by Greg
-    Hurrell](screencasts-by-greg-hurrell.md)
+- [[screencasts-by-greg-hurrell]]
 
 Videos
 ---
@@ -20,7 +20,7 @@ Books
 ---
 
 - [:fontawesome-solid-book: Learn VimScript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
-- [:fontawesome-solid-book: Practical Vim](practical-vim.md)
+- [[practical-vim]]
 
 Articles
 ---

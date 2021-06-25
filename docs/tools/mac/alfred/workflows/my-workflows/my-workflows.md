@@ -4,7 +4,7 @@ My Workflows
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Pomodoro](01-pomodoro.md)
-- [:fontawesome-solid-file-alt: Github Repo Search](02-github-repo-search.md)
-- [:fontawesome-solid-file-alt: Vim Plugins](03-vim-plugins.md)
-- [:fontawesome-solid-folder: Spotify](spotify/index.md)
+- [[01-pomodoro]]
+- [[02-github-repo-search]]
+- [[03-vim-plugins]]
+- [[spotify]]
