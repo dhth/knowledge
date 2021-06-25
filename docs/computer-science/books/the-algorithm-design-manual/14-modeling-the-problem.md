@@ -1,8 +1,3 @@
----
-title: "1.4: Modeling the Problem"
-summary:
----
-
 1.4: Modeling the Problem
 ===
 

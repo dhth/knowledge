@@ -1,8 +1,3 @@
----
-title: "Toggle Suggestions or Sources"
-summary:
----
-
 Toggle Suggestions or Sources
 ===
 

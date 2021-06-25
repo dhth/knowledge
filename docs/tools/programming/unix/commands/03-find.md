@@ -1,8 +1,3 @@
----
-title: "find"
-summary:
----
-
 find
 ===
 

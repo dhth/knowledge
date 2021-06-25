@@ -1,8 +1,3 @@
----
-title: "Go"
-summary:
----
-
 Go
 ===
 

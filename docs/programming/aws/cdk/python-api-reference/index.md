@@ -1,8 +1,3 @@
----
-title: "Python API Reference"
-summary:
----
-
 Python API Reference
 ===
 

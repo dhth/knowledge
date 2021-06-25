@@ -1,8 +1,3 @@
----
-title: "CS61B Data Structures"
-summary:
----
-
 CS61B Data Structures
 ===
 

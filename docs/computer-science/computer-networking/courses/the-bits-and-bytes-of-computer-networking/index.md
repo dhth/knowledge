@@ -1,8 +1,3 @@
----
-title: "The Bits and Bytes of Computer Networking"
-summary:
----
-
 The Bits and Bytes of Computer Networking
 ===
 

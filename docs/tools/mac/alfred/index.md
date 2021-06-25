@@ -1,8 +1,3 @@
----
-title: "Alfred"
-summary:
----
-
 Alfred
 ===
 

@@ -1,8 +1,3 @@
-# Flexbox
-
-## Setup
-
-```css
 div {
 	display: flex;
 }

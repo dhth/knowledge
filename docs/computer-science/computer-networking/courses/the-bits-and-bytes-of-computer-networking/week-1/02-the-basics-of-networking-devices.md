@@ -1,8 +1,3 @@
----
-title: "The Basics of Networking Devices"
-summary:
----
-
 The Basics of Networking Devices
 ===
 

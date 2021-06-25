@@ -1,8 +1,3 @@
----
-title: "Programming In Lua"
-summary:
----
-
 Programming In Lua
 ===
 

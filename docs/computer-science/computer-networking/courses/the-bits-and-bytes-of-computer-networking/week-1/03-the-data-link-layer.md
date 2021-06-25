@@ -1,8 +1,3 @@
----
-title: "The Data Link Layer"
-summary:
----
-
 The Data Link Layer
 ===
 

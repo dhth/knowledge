@@ -1,8 +1,3 @@
----
-title: "Lecture 6: Version Control"
-summary:
----
-
 Lecture 6: Version Control
 ===
 

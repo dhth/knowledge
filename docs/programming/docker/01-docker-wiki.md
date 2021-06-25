@@ -1,8 +1,3 @@
----
-title: "Docker Wiki"
-summary:
----
-
 Docker Wiki
 ===
 

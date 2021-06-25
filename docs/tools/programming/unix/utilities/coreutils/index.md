@@ -1,8 +1,3 @@
----
-title: "CoreUtils"
-summary:
----
-
 CoreUtils
 ===
 

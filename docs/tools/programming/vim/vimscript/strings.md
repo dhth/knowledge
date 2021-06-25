@@ -1,8 +1,3 @@
----
-title: "Strings"
-summary:
----
-
 Strings
 ===
 

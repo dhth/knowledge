@@ -1,8 +1,3 @@
----
-title: "Git Push"
-summary:
----
-
 Git Push
 ===
 

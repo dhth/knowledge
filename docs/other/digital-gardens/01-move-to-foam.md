@@ -1,8 +1,3 @@
----
-title: "Move to Foam"
-summary:
----
-
 Move to Foam
 ===
 

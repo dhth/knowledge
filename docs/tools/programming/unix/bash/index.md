@@ -1,8 +1,3 @@
----
-title: "Bash"
-summary:
----
-
 Bash
 ===
 

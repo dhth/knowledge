@@ -1,8 +1,3 @@
----
-title: "Pyenv"
-summary:
----
-
 Pyenv
 ===
 

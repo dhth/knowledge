@@ -1,8 +1,3 @@
----
-title: "Python"
-summary:
----
-
 Python
 ===
 

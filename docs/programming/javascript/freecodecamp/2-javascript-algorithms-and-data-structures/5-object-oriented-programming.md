@@ -1,8 +1,3 @@
-# Object Oriented Programming
-
-## `instanceof`
-
-`instanceof` allows you to compare an object to a constructor, returning true or false based on whether or not that object was created with the constructor.
 
 ```javascript
 let Bird = function(name, color) {

@@ -1,8 +1,3 @@
----
-title: "Concat Fields"
-summary:
----
-
 Concat Fields
 ===
 

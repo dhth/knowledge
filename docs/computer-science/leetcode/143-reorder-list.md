@@ -1,8 +1,3 @@
----
-title: "143: Reorder List"
-summary:
----
-
 143: Reorder List
 ===
 

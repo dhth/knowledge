@@ -1,8 +1,3 @@
----
-title: "Network ACLs for NLB targets"
-summary:
----
-
 Network ACLs for NLB targets
 ===
 

@@ -1,8 +1,3 @@
----
-title: CocSearch
-summary:
----
-
 CocSearch
 ===
 

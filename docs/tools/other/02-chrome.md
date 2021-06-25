@@ -1,8 +1,3 @@
----
-title: "Chrome"
-summary:
----
-
 Chrome
 ===
 

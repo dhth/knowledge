@@ -1,8 +1,3 @@
----
-title: "Programming Tools"
-summary:
----
-
 Programming Tools
 ===
 

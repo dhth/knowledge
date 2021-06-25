@@ -1,8 +1,3 @@
----
-title: "Git Checkout"
-summary:
----
-
 Git Checkout
 ===
 

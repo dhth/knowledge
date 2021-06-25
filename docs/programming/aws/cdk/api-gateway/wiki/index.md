@@ -1,8 +1,3 @@
----
-title: "Wiki"
-summary:
----
-
 Wiki
 ===
 

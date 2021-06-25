@@ -1,8 +1,3 @@
----
-title: "xargs"
-summary: 
----
-
 xargs
 ===
 

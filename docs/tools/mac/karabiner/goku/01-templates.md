@@ -1,8 +1,3 @@
----
-title: "Templates"
-summary:
----
-
 Templates
 ===
 

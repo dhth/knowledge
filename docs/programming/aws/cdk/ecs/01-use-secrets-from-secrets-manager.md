@@ -1,8 +1,3 @@
----
-title: "Use secrets from secrets manager"
-summary:
----
-
 Use secrets from secrets manager
 ===
 

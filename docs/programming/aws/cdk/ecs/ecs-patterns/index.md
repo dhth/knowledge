@@ -1,8 +1,3 @@
----
-title: "ECS Patterns"
-summary:
----
-
 ECS Patterns
 ===
 

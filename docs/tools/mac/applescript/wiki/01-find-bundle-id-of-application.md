@@ -1,8 +1,3 @@
----
-title: "Find bundle ID of application"
-summary:
----
-
 Find bundle ID of application
 ===
 

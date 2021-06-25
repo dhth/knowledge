@@ -1,8 +1,3 @@
----
-title: "Learnings from AWS Day"
-summary:
----
-
 Learnings from AWS Day
 ===
 

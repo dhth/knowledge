@@ -1,8 +1,3 @@
-# jQuery
-
-## `target:nth-child(n)`
-
-You've seen why id attributes are so convenient for targeting with jQuery selectors. But you won't always have such neat ids to work with.
 
 Fortunately, jQuery has some other tricks for targeting the right elements.
 

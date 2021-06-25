@@ -1,8 +1,3 @@
----
-title: "Performance"
-summary:
----
-
 Performance
 ===
 

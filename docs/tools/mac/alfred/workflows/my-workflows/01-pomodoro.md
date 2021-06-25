@@ -1,8 +1,3 @@
----
-title: "Pomodoro"
-summary:
----
-
 Pomodoro
 ===
 

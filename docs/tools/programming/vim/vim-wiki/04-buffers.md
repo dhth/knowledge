@@ -1,8 +1,3 @@
----
-title: Buffers
-summary:
----
-
 Buffers
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Lecture 5: Command Line Environment"
-summary:
----
-
 Lecture 5: Command Line Environment
 ===
 

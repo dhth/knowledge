@@ -1,8 +1,3 @@
----
-title: "AppleScript"
-summary:
----
-
 AppleScript
 ===
 

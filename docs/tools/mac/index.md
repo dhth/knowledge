@@ -1,8 +1,3 @@
----
-title: "Mac"
-summary:
----
-
 Mac
 ===
 

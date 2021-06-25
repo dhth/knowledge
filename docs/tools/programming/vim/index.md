@@ -1,8 +1,3 @@
----
-title: "Vim"
-summary:
----
-
 Vim
 ===
 

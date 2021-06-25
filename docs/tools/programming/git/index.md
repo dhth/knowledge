@@ -1,8 +1,3 @@
----
-title: "Git"
-summary:
----
-
 Git
 ===
 

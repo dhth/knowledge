@@ -1,8 +1,3 @@
----
-title: "Filter based on condition"
-summary:
----
-
 Filter based on condition
 ===
 

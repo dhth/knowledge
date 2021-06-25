@@ -1,8 +1,3 @@
----
-title: "Exercism"
-summary:
----
-
 Exercism
 ===
 

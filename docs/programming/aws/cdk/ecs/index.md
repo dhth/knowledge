@@ -1,8 +1,3 @@
----
-title: "ECS"
-summary:
----
-
 ECS
 ===
 

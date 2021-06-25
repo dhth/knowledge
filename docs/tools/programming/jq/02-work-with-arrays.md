@@ -1,8 +1,3 @@
----
-title: "Work with arrays"
-summary:
----
-
 Work with arrays
 ===
 

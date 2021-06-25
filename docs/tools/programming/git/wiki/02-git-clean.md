@@ -1,8 +1,3 @@
----
-title: "Git Clean"
-summary:
----
-
 Git Clean
 ===
 

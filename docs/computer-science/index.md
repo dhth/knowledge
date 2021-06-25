@@ -1,8 +1,3 @@
----
-title: "Computer Science"
-summary:
----
-
 Computer Science
 ===
 

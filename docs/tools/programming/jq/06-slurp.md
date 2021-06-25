@@ -1,8 +1,3 @@
----
-title: "Slurp"
-summary:
----
-
 Slurp
 ===
 

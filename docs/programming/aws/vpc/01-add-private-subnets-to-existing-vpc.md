@@ -1,8 +1,3 @@
----
-title: "Add private subnets to existing VPC"
-summary:
----
-
 Add private subnets to existing VPC
 ===
 

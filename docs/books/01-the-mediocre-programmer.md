@@ -1,8 +1,3 @@
----
-title: "The Mediocre Programmer"
-summary:
----
-
 The Mediocre Programmer
 ===
 

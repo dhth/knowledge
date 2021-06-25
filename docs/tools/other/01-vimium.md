@@ -1,8 +1,3 @@
----
-title: "Vimium"
-summary:
----
-
 Vimium
 ===
 

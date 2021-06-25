@@ -1,8 +1,3 @@
----
-title: "Digital Gardens"
-summary:
----
-
 Digital Gardens
 ===
 

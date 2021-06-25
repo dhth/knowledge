@@ -1,8 +1,3 @@
----
-title: "Practical Vim"
-summary:
----
-
 Practical Vim
 ===
 

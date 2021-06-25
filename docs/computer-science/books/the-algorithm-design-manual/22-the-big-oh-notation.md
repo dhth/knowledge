@@ -1,8 +1,3 @@
----
-title: "2.2: The Big Oh Notation"
-summary:
----
-
 2.2: The Big Oh Notation
 ===
 

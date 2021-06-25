@@ -1,8 +1,3 @@
----
-title: "Speeding Up Deployments"
-summary:
----
-
 Speeding Up Deployments
 ===
 

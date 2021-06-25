@@ -1,8 +1,3 @@
----
-title: "Keyboard Maestro"
-summary:
----
-
 Keyboard Maestro
 ===
 

@@ -1,8 +1,3 @@
----
-title: "Operator Pending Mappings"
-summary:
----
-
 Operator Pending Mappings
 ===
 

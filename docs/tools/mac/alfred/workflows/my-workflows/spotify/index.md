@@ -1,8 +1,3 @@
----
-title: "Spotify"
-summary:
----
-
 Spotify
 ===
 

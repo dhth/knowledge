@@ -1,8 +1,3 @@
----
-title: "Command Line"
-summary:
----
-
 Command Line
 ===
 

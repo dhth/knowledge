@@ -1,8 +1,3 @@
-# Basics
-
-[:fontawesome-solid-link: Profiling and Timing Code](https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html)
-
-## IPython magic commands
 
 - `%time`: Time the execution of a single statement
 - `%timeit`: Time repeated execution of a single statement for more accuracy

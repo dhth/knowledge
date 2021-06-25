@@ -1,8 +1,3 @@
-# Alembic
-
-## Migrations
-
-[:fontawesome-solid-link: alembic - Python migrations quick start](https://michaelheap.com/alembic-python-migrations-quick-start/)
 
 ```bash
 # a new column, model, etc. has been added before

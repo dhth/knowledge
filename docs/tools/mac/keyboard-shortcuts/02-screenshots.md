@@ -1,8 +1,3 @@
----
-title: "Screenshots"
-summary:
----
-
 Screenshots
 ===
 

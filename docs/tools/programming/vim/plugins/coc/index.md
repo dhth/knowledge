@@ -1,8 +1,3 @@
----
-title: "coc.nvim"
-summary:
----
-
 coc.nvim
 ===
 

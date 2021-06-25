@@ -1,8 +1,3 @@
-# Asyncio
-
-## Resources
-
-- [:fontawesome-solid-link: Async IO in Python: A Complete Walkthrough - Real Python](https://realpython.com/async-io-python/)
 
 - [:fontawesome-solid-link: Speed Up Your Python Program With Concurrency - Real Python](https://realpython.com/python-concurrency/)
 

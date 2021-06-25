@@ -1,8 +1,3 @@
----
-title: "Lec 1: Intro"
-summary:
----
-
 Lec 1: Intro
 ===
 

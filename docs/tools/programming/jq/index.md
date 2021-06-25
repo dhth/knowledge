@@ -1,8 +1,3 @@
----
-title: "jq"
-summary:
----
-
 jq
 ===
 

@@ -1,8 +1,3 @@
-# Basic JS
-
-## Cheatsheet
-
-- Strings are immutable
 - `shift` → removes first
 - `unshift` → adds to first position
 - `if (condition)` → condition needs a bracket

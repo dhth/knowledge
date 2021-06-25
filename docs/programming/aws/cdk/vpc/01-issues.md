@@ -1,8 +1,3 @@
----
-title: "Issues"
-summary:
----
-
 Issues
 ===
 

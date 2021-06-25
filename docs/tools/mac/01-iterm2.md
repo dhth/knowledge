@@ -1,8 +1,3 @@
----
-title: "iTerm2"
-summary:
----
-
 iTerm2
 ===
 

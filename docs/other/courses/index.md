@@ -1,8 +1,3 @@
----
-title: "Courses"
-summary:
----
-
 Courses
 ===
 

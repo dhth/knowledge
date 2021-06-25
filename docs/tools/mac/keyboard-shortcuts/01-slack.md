@@ -1,8 +1,3 @@
----
-title: "Slack"
-summary:
----
-
 Slack
 ===
 

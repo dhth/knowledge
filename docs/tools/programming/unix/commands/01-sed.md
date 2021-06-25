@@ -1,8 +1,3 @@
----
-title: "sed"
-summary:
----
-
 sed
 ===
 Resources

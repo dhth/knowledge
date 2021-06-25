@@ -1,8 +1,3 @@
----
-title: "Patterns for Cleaner Python"
-summary:
----
-
 Patterns for Cleaner Python
 ===
 

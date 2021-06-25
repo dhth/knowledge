@@ -1,8 +1,3 @@
----
-title: "Set Workflow Variables Via Script"
-summary:
----
-
 Set Workflow Variables Via Script
 ===
 

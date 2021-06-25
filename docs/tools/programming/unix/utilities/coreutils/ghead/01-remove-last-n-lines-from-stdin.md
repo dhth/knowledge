@@ -1,8 +1,3 @@
----
-title: "Remove last n lines from stdin"
-summary:
----
-
 Remove last n lines from stdin
 ===
 

@@ -1,8 +1,3 @@
----
-title: QuickFix
-summary:
----
-
 QuickFix
 ===
 

@@ -1,8 +1,3 @@
----
-title: Tabs
-summary:
----
-
 Tabs
 ===
 

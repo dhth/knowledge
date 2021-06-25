@@ -1,8 +1,3 @@
----
-title: "3.1: Contiguous vs Linked Data Structures"
-summary:
----
-
 3.1: Contiguous vs Linked Data Structures
 ===
 

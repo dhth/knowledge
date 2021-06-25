@@ -1,8 +1,3 @@
----
-title: "Text to JSON"
-summary:
----
-
 Text to JSON
 ===
 

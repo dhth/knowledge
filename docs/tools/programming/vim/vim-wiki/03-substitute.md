@@ -1,8 +1,3 @@
----
-title: Substitute
-summary:
----
-
 Substitute
 ===
 

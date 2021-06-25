@@ -1,8 +1,3 @@
----
-title: "External Commands"
-summary:
----
-
 External Commands
 ===
 

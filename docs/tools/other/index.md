@@ -1,8 +1,3 @@
----
-title: "Other"
-summary:
----
-
 Other
 ===
 

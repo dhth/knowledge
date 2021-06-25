@@ -1,8 +1,3 @@
----
-title: "Use Existing Rest API"
-summary:
----
-
 Use Existing Rest API
 ===
 

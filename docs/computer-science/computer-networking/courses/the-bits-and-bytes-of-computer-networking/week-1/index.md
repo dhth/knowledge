@@ -1,8 +1,3 @@
----
-title: "Week 1"
-summary:
----
-
 Week 1
 ===
 

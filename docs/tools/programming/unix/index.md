@@ -1,8 +1,3 @@
----
-title: "Shell"
-summary:
----
-
 Shell
 ===
 

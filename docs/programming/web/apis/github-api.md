@@ -1,8 +1,3 @@
----
-title: "Github API"
-summary:
----
-
 Github API
 ===
 

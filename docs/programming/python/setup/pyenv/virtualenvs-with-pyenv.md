@@ -1,8 +1,3 @@
----
-title: "Virtualenvs with Pyenv"
-summary:
----
-
 Virtualenvs with Pyenv
 ===
 

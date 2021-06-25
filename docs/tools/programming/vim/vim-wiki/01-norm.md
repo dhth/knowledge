@@ -1,8 +1,3 @@
----
-title: Norm
-summary:
----
-
 Norm
 ===
 
