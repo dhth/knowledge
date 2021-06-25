@@ -17,4 +17,4 @@ Modules
 ---
 
 - [:fontawesome-solid-file-alt: Speeding Up
-    Deployments](01-speeding-up-deployments.md)
+- [[01-speeding-up-deployments]]

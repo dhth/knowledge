@@ -4,8 +4,8 @@ Mac Tools
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: iTerm2](01-iterm2.md)
-- [:fontawesome-solid-folder: Alfred](alfred/index.md)
+- [[01-iterm2]]
+- [[alfred]]
 
 Resources
 ---

@@ -3,6 +3,6 @@ Books
 
 
 - [:fontawesome-solid-book: The Algorithm Design
-    Manual](the-algorithm-design-manual/index.md)
+- [[the-algorithm-design-manual]]
 - [:fontawesome-solid-folder: Mastering Algorithms in
-    C](mastering-algorithms-in-c/index.md)
+- [[mastering-algorithms-in-c]]

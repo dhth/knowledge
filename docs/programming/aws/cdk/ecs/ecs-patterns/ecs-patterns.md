@@ -5,4 +5,4 @@ Modules
 ---
 
 - [:fontawesome-solid-file-alt:
-    NetworkLoadBalancedFargateService](01-networkloadbalancedfargateservice.md)
+- [[01-networkloadbalancedfargateservice]]

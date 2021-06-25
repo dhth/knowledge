@@ -13,6 +13,6 @@ Modules
 ---
 
 - [:fontawesome-solid-file-alt: Learning from AWS
-    Day](01-learnings-from-aws-day.md)
+- [[01-learnings-from-aws-day]]
 - [:fontawesome-solid-file-alt: April 2021 Mistakes I made writing
-    IAC](02-april-2021-mistakes-i-made-writing-iac.md)
+- [[02-april-2021-mistakes-i-made-writing-iac]]

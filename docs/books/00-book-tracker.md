@@ -12,13 +12,13 @@ Legend:
 
 | Book                                                                                             | Topic         | Status |
 |--------------------------------------------------------------------------------------------------|---------------|--------|
-| [Python Tricks](../programming/python/books/python-tricks/index.md)                              | `python`      | `R`    |
-| [Testing with Pytest](../programming/python/pytest/testing-with-pytest/index.md)                 | `pytest`      | `I`    |
-| [Essential SQLAlchemy](../programming/python/databases/sqlalchemy/essential-sqlalchemy/index.md) | `sqlalchemy`  | `I`    |
+- [[../programming/python/books/python-tricks]]
+- [[../programming/python/pytest/testing-with-pytest]]
+- [[../programming/python/databases/sqlalchemy/essential-sqlalchemy]]
 | [Practical Vim](https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629/)      | `vim`         | `I`    |
 | [Learn VimScript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)                  | `Vim`         | `R`    |
 | [tmux 2](https://learning.oreilly.com/library/view/tmux-2/9781680502374/)                        | `tmux`        | `R`    |
-| [The Mediocre Programmer](01-the-mediocre-programmer.md)                                         | `programming` | `R`    |
+- [[01-the-mediocre-programmer]]
 
 To Read
 ---

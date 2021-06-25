@@ -4,4 +4,4 @@ Courses
 Modules
 ---
 
-- [:fontawesome-solid-folder: Stephane Maarek](stephane-maarek/index.md)
+- [[stephane-maarek]]

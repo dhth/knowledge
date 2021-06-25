@@ -5,4 +5,4 @@
 
 ## Modules
 
-- [:fontawesome-solid-file-alt: Packaging Python Projects](packaging-python-projects.md)
+- [[packaging-python-projects]]

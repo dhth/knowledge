@@ -11,9 +11,9 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Intro ](intro.md)
+- [[intro]]
 - [:fontawesome-solid-file-alt: 2: Working with data via SQLAlchemy
-    Core](working-with-data-via-sqlalchemy-core.md)
+- [[working-with-data-via-sqlalchemy-core]]
 
 Book Chapters Checklist
 ---

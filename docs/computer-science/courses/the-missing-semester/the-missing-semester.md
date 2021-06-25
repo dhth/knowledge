@@ -11,13 +11,13 @@ Resources
 Lectures
 ---
 
-- [:fontawesome-solid-file-alt: Lecture 2: Shell Tools and Scripting](lecture-2-shell-tools-and-scripting.md)
+- [[lecture-2-shell-tools-and-scripting]]
 - [:fontawesome-solid-file-alt: Lecture 4: Data
-    Wrangling](lecture-4-data-wrangling.md)
+- [[lecture-4-data-wrangling]]
 - [:fontawesome-solid-file-alt: Lecture 5: Command Line
-    Environment](lecture-5-command-line-environment.md)
+- [[lecture-5-command-line-environment]]
 - [:fontawesome-solid-file-alt: Lecture 6: Version
-    Control](lecture-6-version-control.md)
+- [[lecture-6-version-control]]
 
 Lecture Checklist
 ---

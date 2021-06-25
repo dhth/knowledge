@@ -15,5 +15,5 @@ On top of these shortcuts, I use [:fontawesome-solid-link:
 Vimium](https://vimium.github.io/) to navigate webpages using the keyboard.
 
 Personally, I almost never begin a search from the website itself. I've built
-workflows in [Alfred](./tools/mac/alfred/index.md) and the terminal to open up a
+- [[./tools/mac/alfred]]
 page as quickly as possible. 

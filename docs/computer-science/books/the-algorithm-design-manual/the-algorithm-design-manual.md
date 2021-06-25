@@ -9,19 +9,19 @@ Modules
 ---
 
 - [:fontawesome-solid-file-alt: 1.4: Modeling the
-    Problem](14-modeling-the-problem.md)
+- [[14-modeling-the-problem]]
 - [:fontawesome-solid-file-alt: 2.1: The RAM Model of
-    Computation](21-the-ram-model-of-computation.md)
+- [[21-the-ram-model-of-computation]]
 - [:fontawesome-solid-file-alt: 2.2: The Big Oh
-    Notation](22-the-big-oh-notation.md)
+- [[22-the-big-oh-notation]]
 - [:fontawesome-solid-file-alt: 2.3: Growth Rate and Dominance
-    Relations](23-growth-rate-and-dominance-relations.md)
+- [[23-growth-rate-and-dominance-relations]]
 - [:fontawesome-solid-file-alt: 2.4: Working with the Big
-    Oh](24-working-with-the-big-oh.md)
+- [[24-working-with-the-big-oh]]
 - [:fontawesome-solid-file-alt: 2.7: Properties of
-    Logarithms](27-properties-of-logarithms.md)
+- [[27-properties-of-logarithms]]
 - [:fontawesome-solid-file-alt: 3.1: Contiguous vs Linked Data
-    Structures](31-contiguous-vs-linked-data-structures.md)
+- [[31-contiguous-vs-linked-data-structures]]
 
 Chapters Checklist
 ---

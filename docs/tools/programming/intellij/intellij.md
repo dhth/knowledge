@@ -4,6 +4,6 @@ Intellij
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Shortcuts](01-shortcuts.md)
-- [:fontawesome-solid-file-alt: Resources](02-resources.md)
-- [:fontawesome-solid-file-alt: IdeaVim](03-ideavim.md)
+- [[01-shortcuts]]
+- [[02-resources]]
+- [[03-ideavim]]

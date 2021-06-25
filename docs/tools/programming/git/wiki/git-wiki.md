@@ -4,11 +4,11 @@ Wiki
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Git Log](01-git-log.md)
-- [:fontawesome-solid-file-alt: Git Clean](02-git-clean.md)
-- [:fontawesome-solid-file-alt: Git Checkout](03-git-checkout.md)
-- [:fontawesome-solid-file-alt: Git Push](04-git-push.md)
-- [:fontawesome-solid-file-alt: Git Stash](05-git-stash.md)
-- [:fontawesome-solid-file-alt: Hooks](06-hooks.md)
+- [[01-git-log]]
+- [[02-git-clean]]
+- [[03-git-checkout]]
+- [[04-git-push]]
+- [[05-git-stash]]
+- [[06-hooks]]
 - [:fontawesome-solid-file-alt: Accidently pushed local only
-    files](07-accidently-pushed-local-only-files.md)
+- [[07-accidently-pushed-local-only-files]]

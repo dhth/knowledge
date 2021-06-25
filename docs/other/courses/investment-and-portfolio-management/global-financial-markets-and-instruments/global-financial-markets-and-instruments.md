@@ -15,4 +15,4 @@ https://www.coursera.org/learn/global-financial-markets-instruments?specializati
 Modules
 ---
 
-- [:fontawesome-solid-folder: Week 1](week-1/index.md)
+- [[week-1]]

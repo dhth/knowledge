@@ -4,8 +4,8 @@ Docker
 Modules
 ---
 
-- [:fontawesome-solid-folder: Debugging](debugging/index.md)
-- [:fontawesome-solid-file-alt: Docker Wiki](01-docker-wiki.md)
-- [:fontawesome-solid-file-alt: Resources](02-resources.md)
+- [[debugging]]
+- [[01-docker-wiki]]
+- [[02-resources]]
 - [:fontawesome-solid-folder: Multi Architecture
-    Builds](multi-architecture-builds/index.md)
+- [[multi-architecture-builds]]

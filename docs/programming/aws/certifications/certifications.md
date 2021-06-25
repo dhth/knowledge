@@ -15,4 +15,4 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-folder: Solutions Architect](solutions-architect/index.md)
+- [[solutions-architect]]

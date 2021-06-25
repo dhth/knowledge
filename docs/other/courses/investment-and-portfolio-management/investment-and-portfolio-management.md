@@ -5,4 +5,4 @@ Modules
 ---
 
 - [:fontawesome-solid-folder: Global Financial Markets and
-    Instruments](global-financial-markets-and-instruments/index.md)
+- [[global-financial-markets-and-instruments]]

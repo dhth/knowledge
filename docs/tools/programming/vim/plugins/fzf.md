@@ -1,7 +1,7 @@
 fzf.vim
 ===
 
-Is powered by [FZF](../../unix/utilities/01-fzf.md).
+- [[../../unix/utilities/01-fzf]]
 
 Resources
 ---
@@ -10,7 +10,7 @@ Resources
 - [:fontawesome-solid-link: junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 - [:fontawesome-solid-link: Improving shell workflows with fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
 - [:fontawesome-solid-link:
-    Readme](https://github.com/junegunn/fzf/blob/master/README-VIM.md)
+- [[https://github.com/junegunn/fzf/blob/master/README-VIM]]
 
 `:GFiles`
 ---
@@ -52,7 +52,7 @@ command! -nargs=* -bang RG call RipgrepFzf(<q-args>, <bang>0)
 Create file helper using fzf
 ---
 
-More on `fd` [here](../../unix/utilities/02-fd.md).
+- [[../../unix/utilities/02-fd]]
 
 ```vim
 call fzf#run(fzf#wrap({'source': 'fd -H -t d', 'sink': function('s:CreateFileHelper')}))

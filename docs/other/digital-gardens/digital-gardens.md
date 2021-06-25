@@ -12,7 +12,7 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Move to Foam](01-move-to-foam.md)
+- [[01-move-to-foam]]
 
 
 TILS

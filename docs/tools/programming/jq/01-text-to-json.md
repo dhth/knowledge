@@ -40,4 +40,4 @@ jq -R -n -c \
 ```
 
 Useful to convert a text file to script filter input for
-[Alfred](../../mac/alfred/index.md) workflows.
+- [[../../mac/alfred]]

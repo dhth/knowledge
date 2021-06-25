@@ -16,5 +16,5 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-layer-group: Wiki](wiki/index.md)
-- [:fontawesome-solid-folder: My Workflows](my-workflows/index.md)
+- [[wiki]]
+- [[my-workflows]]

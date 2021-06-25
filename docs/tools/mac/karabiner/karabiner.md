@@ -15,4 +15,4 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-folder: Goku](goku/index.md)
+- [[goku]]

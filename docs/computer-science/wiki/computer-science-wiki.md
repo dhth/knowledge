@@ -16,4 +16,4 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-file-alt: Binary Search Trees](01-binary-search-trees.md)
+- [[01-binary-search-trees]]

@@ -12,4 +12,4 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-folder: Week 1](week-1/index.md)
+- [[week-1]]

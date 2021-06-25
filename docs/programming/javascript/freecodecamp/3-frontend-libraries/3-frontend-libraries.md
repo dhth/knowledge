@@ -1,8 +1,8 @@
 
-- [:fontawesome-solid-file-alt: Sass](3-sass.md)
+- [[3-sass]]
 
-- [:fontawesome-solid-file-alt: React](4-react.md)
+- [[4-react]]
 
-- [:fontawesome-solid-file-alt: Redux](5-redux.md)
+- [[5-redux]]
 
-- [:fontawesome-solid-file-alt: React and Redux](6-react-and-redux.md)
+- [[6-react-and-redux]]

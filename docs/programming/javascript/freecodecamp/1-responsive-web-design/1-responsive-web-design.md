@@ -1,10 +1,10 @@
 
-- [:fontawesome-solid-file-alt: Applied Visual Design](2-applied-visual-design.md)
+- [[2-applied-visual-design]]
 
-- [:fontawesome-solid-file-alt: Applied Accessibility](3-applied-accessibility.md)
+- [[3-applied-accessibility]]
 
-- [:fontawesome-solid-file-alt: Responsive Web Design Principles](4-responsive-web-design-principles.md)
+- [[4-responsive-web-design-principles]]
 
-- [:fontawesome-solid-file-alt: Flexbox](5-flexbox.md)
+- [[5-flexbox]]
 
-- [:fontawesome-solid-file-alt: CSS Grid](6-css-grid.md)
+- [[6-css-grid]]

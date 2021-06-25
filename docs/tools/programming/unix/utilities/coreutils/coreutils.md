@@ -13,4 +13,4 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-terminal: ghead](ghead/index.md)
+- [[ghead]]

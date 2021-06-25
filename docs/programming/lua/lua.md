@@ -17,4 +17,4 @@ Resources
 Modules
 ---
 
-- [:fontawesome-solid-book: Programming In Lua](01-programming-in-lua.md)
+- [[01-programming-in-lua]]
