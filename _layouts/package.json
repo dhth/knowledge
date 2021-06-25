@@ -1,0 +1,25 @@
+{
+  "name": "foam-template-gatsby-kb",
+  "version": "1.0.0",
+  "description": "A foam template using gatsby-theme-kb for publishing you knowledge base",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build --prefix-paths",
+    "serve": "gatsby serve"
+  },
+  "keywords": [
+    "foam"
+  ],
+  "author": "chenmin",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^3.0.3",
+    "gatsby-plugin-copy-files-enhanced": "^1.1.1",
+    "gatsby-remark-copy-linked-files": "^2.10.0",
+    "gatsby-remark-prismjs": "^3.13.0",
+    "gatsby-theme-kb": "^0.7.5",
+    "prism-themes": "^1.5.0",
+    "prismjs": "^1.23.0"
+  }
+}
