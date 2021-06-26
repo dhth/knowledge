@@ -1,7 +1,0 @@
-Solutions Architect
-===
-
-Modules
----
-
-- [[courses]]

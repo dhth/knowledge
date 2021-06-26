@@ -5,7 +5,7 @@ import pathlib
 import os
 import sys
 
-walk_dir = "docs"
+walk_dir = "javascript"
 
 
 def update_link_for_file(file_path: pathlib.Path) -> None:

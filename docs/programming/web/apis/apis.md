@@ -1,7 +1,0 @@
-APIs
-===
-
-Modules
----
-
-- [[github-api]]

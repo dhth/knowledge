@@ -1,7 +1,0 @@
-Courses
-===
-
-Modules
----
-
-- [[stephane-maarek]]
