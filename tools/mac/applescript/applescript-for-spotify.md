@@ -1,4 +1,4 @@
-Spotify
+AppleScript for Spotify
 ===
 
 Commands

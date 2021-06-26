@@ -45,3 +45,10 @@ echo '1\n2\n3\n4' | sed 2d
 3
 4
 ```
+
+Add closing tag to html tags
+---
+
+```bash
+find docs -name '*.md' | xargs sed -i "" '/<img/ s/>$/\/>/'
+```

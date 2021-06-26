@@ -11,7 +11,7 @@ The following infographic sums up my reasoning behind creating a wiki like this.
 
 *[Source](https://www.gapingvoid.com/blog/2014/01/22/information-vs-knowledge/)*
 
-> This wiki is still in *"construction mode"*, as there's a lot of stuff I need to port over from Notion.
+> This wiki is still in *"construction mode"*, as there's a lot of stuff I need to port over from my previous wiki (which didn't have backlinking).
 
 Modules
 ---

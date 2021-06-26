@@ -9,10 +9,8 @@ Resources
     an ECS Fargate task in AWS CDK][2]
 
 <!-- Links -->
-[1]:
-https://docs.aws.amazon.com/cdk/api/latest/python/aws_cdk.aws_ecs/Ec2TaskDefinition.html#aws_cdk.aws_ecs.Ec2TaskDefinition.add_container
-[2]:
-https://dev.to/michaelfecher/i-tell-you-a-secret-provide-database-credentials-to-an-ecs-fargate-task-in-aws-cdk-5f4
+[1]: https://docs.aws.amazon.com/cdk/api/latest/python/aws_cdk.aws_ecs/Ec2TaskDefinition.html#aws_cdk.aws_ecs.Ec2TaskDefinition.add_container
+[2]: https://dev.to/michaelfecher/i-tell-you-a-secret-provide-database-credentials-to-an-ecs-fargate-task-in-aws-cdk-5f4
 
 Code
 ---
