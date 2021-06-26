@@ -1,5 +1,8 @@
-Notes
+Lecture 2: Shell Tools and Scripting
 ===
+
+Notes
+---
 
 ```bash
 # double quotes expand string, single quotes do not

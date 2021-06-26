@@ -5,11 +5,13 @@ UCB's course from Spring 2015.
 
 Resources
 ---
+
 - [Course Page](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
 - [Playlist](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
 
 Modules
 ---
+
 - [[lec-1-intro]]
 
 Lecture Checklist

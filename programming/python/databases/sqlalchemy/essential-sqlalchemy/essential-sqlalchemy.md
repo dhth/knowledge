@@ -3,16 +3,14 @@ Essential SQLAlchemy
 
 Resources
 ---
-- [Book ](https://learning.oreilly.com/library/view/essential-sqlalchemy-2nd/9781491916544/)
-- [
-    Repo](https://github.com/jasonamyers/essential-sqlalchemy-2ed-examples)
+- [Book](https://learning.oreilly.com/library/view/essential-sqlalchemy-2nd/9781491916544/)
+- [Repo](https://github.com/jasonamyers/essential-sqlalchemy-2ed-examples)
 
 
 Modules
 ---
 
 - [[intro]]
-- [2: Working with data via SQLAlchemy
 - [[working-with-data-via-sqlalchemy-core]]
 
 Book Chapters Checklist
