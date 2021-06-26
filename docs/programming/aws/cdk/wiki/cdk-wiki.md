@@ -1,7 +1,0 @@
-Wiki
-===
-
-Modules
----
-
-- [[cdk-day]]

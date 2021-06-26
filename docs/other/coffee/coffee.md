@@ -1,7 +1,0 @@
-Coffee
-===
-
-Modules
----
-
-- [[hand-grinders]]

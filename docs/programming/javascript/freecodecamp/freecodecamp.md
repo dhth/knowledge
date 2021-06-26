@@ -1,4 +1,0 @@
-- [[./2-javascript-algorithms-and-data-structures]]
-- [[./3-frontend-libraries]]
-- [[./4-data-visualization]]
-- [[./5-apis-and-microservices]]

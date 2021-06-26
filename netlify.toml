@@ -1,8 +1,6 @@
 [build]
-publish = "site"
-command = """
-pip install \
-  mkdocs-minify-plugin>=0.3 \
-  mkdocs-redirects>=1.0
-python -m mkdocs build
-"""
+  base = "_layouts/"
+  publish = "public/"
+  command = "npm run build"
+[build.environment]
+  YARN_VERSION = "1.22.10"

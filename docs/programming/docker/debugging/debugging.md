@@ -1,7 +1,0 @@
-Debugging
-===
-
-Modules
----
-
-- [[debugging-celery]]
