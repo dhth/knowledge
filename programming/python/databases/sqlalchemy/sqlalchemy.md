@@ -4,7 +4,6 @@ SQLAlchemy
 Modules
 ---
 
-- [Essential
 - [[essential-sqlalchemy]]
 - [[sqlalchemy-wiki]]
 

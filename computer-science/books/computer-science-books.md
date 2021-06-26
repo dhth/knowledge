@@ -1,7 +1,6 @@
 Computer Science Books
 ===
 
-
 - [[the-algorithm-design-manual]]
 - [[mastering-algorithms-in-c]]
 

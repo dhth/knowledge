@@ -3,15 +3,14 @@ CS61B Data Structures
 
 Resources
 ---
+
 - [Course Page](https://sp19.datastructur.es/)
 
 Modules
 ---
 - [[asymptotics]]
 - [[b-trees]]
-- [20: Heaps and Primary
 - [[heaps-and-primary-queues]]
-- [22: Range Searching and Multi Dimensional
 - [[range-searching-and-multi-dimensional-data]]
 
 Lecture Checklist

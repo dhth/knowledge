@@ -1,4 +1,4 @@
-Week 1
+Global Financial Markets Week 1
 ===
 
 Modules

@@ -4,9 +4,7 @@ Courses
 Notes on CS courses I take in my free time.
 
 - [[the-missing-semester]]
-- [CS61B: Data
 - [[cs61b-data-structures]]
-- [CS61C: Machine
 - [[cs61c-machine-structures]]
 - [[from-nand-to-tetris-part-1]]
 

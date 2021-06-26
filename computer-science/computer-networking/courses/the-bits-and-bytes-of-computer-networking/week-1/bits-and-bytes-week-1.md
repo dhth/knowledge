@@ -1,12 +1,10 @@
-Week 1
+Bits and Bytes Week 1
 ===
 
 Modules
 ---
 
-- [The TCP IP Five Layer Network
 - [[01-the-tcp-ip-five-layer-network-model]]
-- [The Basics of Networking
 - [[02-the-basics-of-networking-devices]]
 - [[03-the-data-link-layer]]
 
