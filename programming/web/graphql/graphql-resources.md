@@ -1,6 +1,6 @@
 GraphQL Resources
 ===
 
-- [:fontawesome-solid-link: How To GraphQL](https://www.howtographql.com/)
-- [:fontawesome-solid-link: Hasura
+- [How To GraphQL](https://www.howtographql.com/)
+- [Hasura
     Tutorials](https://hasura.io/learn/#intro-graphql)

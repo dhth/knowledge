@@ -4,14 +4,14 @@ Yaml
 Resources
 ---
 
-- [:fontawesome-brands-github: neoclide/coc-yaml: Yaml language server extension
+- [neoclide/coc-yaml: Yaml language server extension
     for coc.nvim](https://github.com/neoclide/coc-yaml)
 
 
 Schemas
 ---
 
-- [:fontawesome-solid-link: Schema Store](https://www.schemastore.org/json/)
+- [Schema Store](https://www.schemastore.org/json/)
 
 
 coc-settings.json

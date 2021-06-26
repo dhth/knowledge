@@ -214,7 +214,7 @@ tasks_to_try = (Task('sleep', done=True),
                 Task('breathe', 'BRIAN', True),
                 Task('exercise', 'BrIaN', False))
 
-task_ids = [:fontawesome-solid-link: 'Task({},{},{})'.format(t.summary, t.owner, t.done)
+task_ids = ['Task({},{},{})'.format(t.summary, t.owner, t.done)
             for t in tasks_to_try]
 
 @pytest.fixture(params=tasks_to_try, ids=task_ids)
@@ -233,24 +233,24 @@ test_add_variety2.py
 SETUP    S tmpdir_factory
 SETUP    S tasks_db_session (fixtures used: tmpdir_factory)
         SETUP    F tasks_db (fixtures used: tasks_db_session)
-        SETUP    F b_task[:fontawesome-solid-link: Task(sleep,None,True)]
-        func/test_add_variety2.py::test_add_b[:fontawesome-solid-link: Task(sleep,None,True)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
-        TEARDOWN F b_task[:fontawesome-solid-link: Task(sleep,None,True)]
+        SETUP    F b_task[Task(sleep,None,True)]
+        func/test_add_variety2.py::test_add_b[Task(sleep,None,True)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
+        TEARDOWN F b_task[Task(sleep,None,True)]
         TEARDOWN F tasks_db
         SETUP    F tasks_db (fixtures used: tasks_db_session)
-        SETUP    F b_task[:fontawesome-solid-link: Task(wake,brian,False)]
-        func/test_add_variety2.py::test_add_b[:fontawesome-solid-link: Task(wake,brian,False)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
-        TEARDOWN F b_task[:fontawesome-solid-link: Task(wake,brian,False)]
+        SETUP    F b_task[Task(wake,brian,False)]
+        func/test_add_variety2.py::test_add_b[Task(wake,brian,False)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
+        TEARDOWN F b_task[Task(wake,brian,False)]
         TEARDOWN F tasks_db
         SETUP    F tasks_db (fixtures used: tasks_db_session)
-        SETUP    F b_task[:fontawesome-solid-link: Task(breathe,BRIAN,True)]
-        func/test_add_variety2.py::test_add_b[:fontawesome-solid-link: Task(breathe,BRIAN,True)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
-        TEARDOWN F b_task[:fontawesome-solid-link: Task(breathe,BRIAN,True)]
+        SETUP    F b_task[Task(breathe,BRIAN,True)]
+        func/test_add_variety2.py::test_add_b[Task(breathe,BRIAN,True)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
+        TEARDOWN F b_task[Task(breathe,BRIAN,True)]
         TEARDOWN F tasks_db
         SETUP    F tasks_db (fixtures used: tasks_db_session)
-        SETUP    F b_task[:fontawesome-solid-link: Task(exercise,BrIaN,False)]
-        func/test_add_variety2.py::test_add_b[:fontawesome-solid-link: Task(exercise,BrIaN,False)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
-        TEARDOWN F b_task[:fontawesome-solid-link: Task(exercise,BrIaN,False)]
+        SETUP    F b_task[Task(exercise,BrIaN,False)]
+        func/test_add_variety2.py::test_add_b[Task(exercise,BrIaN,False)] (fixtures used: b_task, request, tasks_db, tasks_db_session, tmpdir_factory).
+        TEARDOWN F b_task[Task(exercise,BrIaN,False)]
         TEARDOWN F tasks_db
 TEARDOWN S tasks_db_session
 TEARDOWN S tmpdir_factory

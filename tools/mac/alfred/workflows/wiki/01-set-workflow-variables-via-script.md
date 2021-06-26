@@ -4,7 +4,7 @@ Set Workflow Variables Via Script
 Resources
 ---
 
-- [:fontawesome-solid-link: Workflow/environment variables in
+- [Workflow/environment variables in
     Alfred](https://www.deanishe.net/post/2018/10/workflow/environment-variables-in-alfred/#from-run-script-actions)
 
 

@@ -4,7 +4,7 @@ Tmuxinator
 Conditional logic
 ---
 
-[:fontawesome-brands-github: Inspiration](https://github.com/tmuxinator/tmuxinator/issues/658).
+[Inspiration](https://github.com/tmuxinator/tmuxinator/issues/658).
 
 ```
 - mkdocs:

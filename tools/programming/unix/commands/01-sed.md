@@ -3,7 +3,7 @@ sed
 Resources
 ---
 
-- [:fontawesome-brands-stack-overflow: linux - sed command with -i option
+- [linux - sed command with -i option
     (in-place editing) works fine on Ubuntu but not
     Mac](https://stackoverflow.com/questions/16745988/sed-command-with-i-option-in-place-editing-works-fine-on-ubuntu-but-not-mac)
 

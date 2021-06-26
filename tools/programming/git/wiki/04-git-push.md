@@ -12,5 +12,5 @@ git config --global push.default current
 
 Pushes the current branch to a remote branch of the same name.
 
-[:fontawesome-solid-link:
+[
 More](https://stackoverflow.com/questions/948354/default-behavior-of-git-push-without-a-branch-specified).

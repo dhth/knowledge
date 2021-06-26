@@ -4,9 +4,9 @@ Computer Science Wiki
 Resources
 ---
 
-- [:fontawesome-brands-github: TheAlgorithms/Python: All Algorithms implemented in Python][1]
-- [:fontawesome-solid-link: The Algorithms][2]
-- [:fontawesome-solid-link: Teach Yourself Computer Science][3]
+- [TheAlgorithms/Python: All Algorithms implemented in Python][1]
+- [The Algorithms][2]
+- [Teach Yourself Computer Science][3]
 
 <!-- Links -->
 [1]: https://github.com/TheAlgorithms/Python

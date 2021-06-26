@@ -58,5 +58,5 @@ If the cursor is on the word `don't`:
 " will output 'don'\''t'
 ```
 
-More [:fontawesome-solid-link:
+More [
 here](https://learnvimscriptthehardway.stevelosh.com/chapters/32.html).

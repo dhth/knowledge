@@ -13,7 +13,7 @@ pip install line_profiler
 def sum_of_lists(N):
     total = 0
     for i in range(5):
-        L = [:fontawesome-solid-link: j ^ (j >> i) for j in range(N)]
+        L = [j ^ (j >> i) for j in range(N)]
         total += sum(L)
     return total
 ```
@@ -35,7 +35,7 @@ Line #      Hits         Time  Per Hit   % Time  Line Contents
      1                                           def sum_of_lists(N):
      2         1          3.0      3.0      0.0      total = 0
      3         6          6.0      1.0      0.1      for i in range(5):
-     4         5       7110.0   1422.0     97.7          L = [:fontawesome-solid-link: j ^ (j >> i) for j in range(N)]
+     4         5       7110.0   1422.0     97.7          L = [j ^ (j >> i) for j in range(N)]
      5         5        158.0     31.6      2.2          total += sum(L)
      6         1          1.0      1.0      0.0      return total
 """

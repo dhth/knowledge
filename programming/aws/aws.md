@@ -4,7 +4,7 @@ AWS
 Resources
 ---
 
-- [:fontawesome-solid-link: AWS Twitch Streams
+- [AWS Twitch Streams
     ](https://aws.amazon.com/developer/community/live-video)
 
 Modules

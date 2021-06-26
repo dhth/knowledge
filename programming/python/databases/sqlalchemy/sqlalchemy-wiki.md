@@ -4,7 +4,7 @@ SQLAlchemy Wiki
 Cascades
 ---
 
-[:fontawesome-solid-link: Official docs](https://docs.sqlalchemy.org/en/13/orm/cascades.html)
+[Official docs](https://docs.sqlalchemy.org/en/13/orm/cascades.html)
 
 ```python
 class User(Base):
@@ -31,5 +31,5 @@ Single table inheritance alongside mixins
 A mixin that sets table name for a table can be used for a single table
 inheritance scenario by just setting `__tablename__` to `None` in subclasses.
 
-More [:fontawesome-solid-link:
+More [
 here](https://docs.sqlalchemy.org/en/13/orm/extensions/declarative/mixins.html#controlling-table-inheritance-with-mixins).

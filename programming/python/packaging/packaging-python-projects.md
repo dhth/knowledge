@@ -3,7 +3,7 @@ Packaging Python Projects
 
 ```bash
 	some_module_proj/
-	├── [:fontawesome-solid-link: setup.py](http://setup.py/)
+	├── [setup.py](http://setup.py/)
 	└── some_module.py
 ```
 
@@ -15,14 +15,14 @@ def some_func():
    return 42
 ```
 
-One directory with one module and a [:fontawesome-solid-link: setup.py](http://setup.py/) file is enough to make it installable via pip:
+One directory with one module and a [setup.py](http://setup.py/) file is enough to make it installable via pip:
 
 ```python
 # appendices/packaging/some_module_proj/setup.py
 from setuptools import setup
 setup(
 	name='some_module',
-	py_modules=[:fontawesome-solid-link: 'some_module']
+	py_modules=['some_module']
 )
 ```
 
@@ -31,13 +31,13 @@ $ cd /path/to/code/appendices/packaging
 $ pip install ./some_module_proj
 Processing ./some_module_proj
 Installing collected packages: some-module
-Running [:fontawesome-solid-link: setup.py](http://setup.py/) install for some-module ... done
+Running [setup.py](http://setup.py/) install for some-module ... done
 Successfully installed some-module-0.0.0
 And we can now use some_module from Python (or from a test):
 
 $ python
 Python 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)
-[:fontawesome-solid-link: GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from some_module import some_func
 >>> some_func()
@@ -54,7 +54,7 @@ Let’s make this code a package by adding an **init**.py and putting the **init
 ```bash
 $ tree some_package_proj/
 some_package_proj/
-├── [:fontawesome-solid-link: setup.py](http://setup.py/)
+├── [setup.py](http://setup.py/)
 └── src
 	 └── some_package
 		 ├── **init**.py
@@ -113,13 +113,13 @@ $ cd /path/to/code/appendices/packaging
 $ pip install ./some_package_proj/
 Processing ./some_package_proj
 Installing collected packages: some-package
-Running [:fontawesome-solid-link: setup.py](http://setup.py/) install for some-package ... done
+Running [setup.py](http://setup.py/) install for some-package ... done
 Successfully installed some-package-0.0.0
 and usable:
 
 $ python
 Python 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04)
-[:fontawesome-solid-link: GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from some_package import some_func
 >>> some_func()
@@ -176,7 +176,7 @@ description='Demonstrate packaging and distribution',
 version='1.0',
 author='Brian Okken',
 author_email='brian@pythontesting.net',
-url='[:fontawesome-solid-link: https://pragprog.com/book/bopytest/python-testing-with-pytest'](https://pragprog.com/book/bopytest/python-testing-with-pytest'%E2%80%8B),
+url='[https://pragprog.com/book/bopytest/python-testing-with-pytest'](https://pragprog.com/book/bopytest/python-testing-with-pytest'%E2%80%8B),
 
 packages=find_packages(where='src'),
 package_dir={'': 'src'},
@@ -236,7 +236,7 @@ Changes:
 - Initial version.
 ```
 
-See [:fontawesome-solid-link: http://keepachangelog.com](http://keepachangelog.com/) for some great advice on what to put in your change log. All of the changes to tasks_proj over the course of this book have been logged into a CHANGELOG.rst file.
+See [http://keepachangelog.com](http://keepachangelog.com/) for some great advice on what to put in your change log. All of the changes to tasks_proj over the course of this book have been logged into a CHANGELOG.rst file.
 
 Let’s see if this was enough to remove the warnings:
 

@@ -4,7 +4,7 @@ Spotify
 Resources
 ---
 
-- [:fontawesome-solid-link: Authorization Guide | Spotify for Developers][1]
+- [Authorization Guide | Spotify for Developers][1]
 
 <!-- Links -->
 [1]:

@@ -4,7 +4,7 @@ Vim Wiki Old
 Mapping
 ---
 
-It's almost always better to use `nnoremap` instead of `nmap` as it ignores recursive mappings. More at [:fontawesome-solid-link: chapter 5](https://learnvimscriptthehardway.stevelosh.com/chapters/05.html) of Learn VimScript the Hard Way.
+It's almost always better to use `nnoremap` instead of `nmap` as it ignores recursive mappings. More at [chapter 5](https://learnvimscriptthehardway.stevelosh.com/chapters/05.html) of Learn VimScript the Hard Way.
 
 ### Check if mapping exists
 
@@ -89,7 +89,7 @@ Copy/Pasting
 
 Vim keeps a history of previous yanks/deletes. `:reg` lists them. `"0p` pastes register at `0`.T
 
-[:fontawesome-solid-link: Remembering previous deletes/yanks](https://vim.fandom.com/wiki/Remembering_previous_deletes/yanks)
+[Remembering previous deletes/yanks](https://vim.fandom.com/wiki/Remembering_previous_deletes/yanks)
 
 ### `:copy`, `:move`
 
@@ -103,7 +103,7 @@ Shorthands are `:t`, and `:m` respectively.
 " Same, but paste it 5 lines below.
 ```
 
-More [:fontawesome-solid-link:
+More [
 here](http://vimcasts.org/episodes/long-range-line-duplication/).
 
 Windows
@@ -216,7 +216,7 @@ background=light
 Custom Commands
 ---
 
-[:fontawesome-solid-link: Here's how to create custom workspaces to switch between programming and writing prose in Vim](https://www.reddit.com/r/vim/comments/ckyspu/heres_how_to_create_custom_workspaces_to_switch/)
+[Here's how to create custom workspaces to switch between programming and writing prose in Vim](https://www.reddit.com/r/vim/comments/ckyspu/heres_how_to_create_custom_workspaces_to_switch/)
 
 Keywords
 ---
@@ -232,7 +232,7 @@ set is used to change value of a internal vim variable
 let is usually used to change configuration variables for plugins
 ```
 
-[:fontawesome-solid-link: 3 of the Most Common Beginner Problems in Vim and How To Fix Them](https://medium.com/@evidanary/3-of-the-most-common-beginner-problems-in-vim-and-how-to-fix-them-16e1b95c94a3)
+[3 of the Most Common Beginner Problems in Vim and How To Fix Them](https://medium.com/@evidanary/3-of-the-most-common-beginner-problems-in-vim-and-how-to-fix-them-16e1b95c94a3)
 
 `g`
 ---

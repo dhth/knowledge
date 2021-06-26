@@ -3,8 +3,8 @@ Boolean Functions and Gate Logic
 
 Resources
 ---
-- [:fontawesome-solid-link: Slides](https://drive.google.com/file/d/1MY1buFHo_Wx5DPrKhCNSA2cm5ltwFJzM/view)
-- [:fontawesome-solid-link: HDL Survival Guide](https://drive.google.com/file/d/1dPj4XNby9iuAs-47U9k3xtYy9hJ-ET0T/view)
+- [Slides](https://drive.google.com/file/d/1MY1buFHo_Wx5DPrKhCNSA2cm5ltwFJzM/view)
+- [HDL Survival Guide](https://drive.google.com/file/d/1dPj4XNby9iuAs-47U9k3xtYy9hJ-ET0T/view)
 
 Boolean Algebra
 ---

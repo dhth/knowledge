@@ -3,8 +3,8 @@ Python
 
 Resources
 ----
-- [:fontawesome-brands-github: neoclide/coc-python](https://github.com/neoclide/coc-python) : Deprecated
-- [:fontawesome-brands-github: fannheyward/coc-pyright: Pyright extension for
+- [neoclide/coc-python](https://github.com/neoclide/coc-python) : Deprecated
+- [fannheyward/coc-pyright: Pyright extension for
     coc.nvim](https://github.com/fannheyward/coc-pyright)
 
 
@@ -30,7 +30,7 @@ Each project might need a specific python interpreter.
 When Coc doesn't pick up the right workspace path
 ---
 
-[:fontawesome-brands-github: Unresolved import · Issue #26 · neoclide/coc-python](https://github.com/neoclide/coc-python/issues/26)
+[Unresolved import · Issue #26 · neoclide/coc-python](https://github.com/neoclide/coc-python/issues/26)
 
 ```
 Run :CocList folders.

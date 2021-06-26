@@ -3,7 +3,7 @@ Bash
 
 Resources
 ---
-- [:fontawesome-solid-link: Link](https://exercism.io/my/tracks/bash)
+- [Link](https://exercism.io/my/tracks/bash)
 
 Exercises
 ---

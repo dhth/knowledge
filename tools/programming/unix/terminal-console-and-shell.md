@@ -3,9 +3,9 @@ Terminal, Console, and Shell
 
 Resources
 ---
-- [:fontawesome-brands-stack-overflow: What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?](What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?)
-- [:fontawesome-solid-link: What's the difference between a console, a terminal, and a shell?](https://www.hanselman.com/blog/WhatsTheDifferenceBetweenAConsoleATerminalAndAShell.aspx)
-- [:fontawesome-brands-wikipedia-w:
+- [What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?](What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?)
+- [What's the difference between a console, a terminal, and a shell?](https://www.hanselman.com/blog/WhatsTheDifferenceBetweenAConsoleATerminalAndAShell.aspx)
+- [
     Teleprinter](https://en.wikipedia.org/wiki/Teleprinter)
 
 Terminal

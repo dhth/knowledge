@@ -1,11 +1,11 @@
 Asyncio
 ===
 
-- [:fontawesome-solid-link: Speed Up Your Python Program With Concurrency - Real Python](https://realpython.com/python-concurrency/)
+- [Speed Up Your Python Program With Concurrency - Real Python](https://realpython.com/python-concurrency/)
 
-- [:fontawesome-solid-link: Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA&feature=youtu.be&t=4m29s)
+- [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA&feature=youtu.be&t=4m29s)
 
-- [:fontawesome-solid-link: Concurrency and async / await](https://fastapi.tiangolo.com/async/#in-a-hurry)
+- [Concurrency and async / await](https://fastapi.tiangolo.com/async/#in-a-hurry)
 
 ## Intro
 
@@ -13,7 +13,7 @@ Asyncio
 
 **Concurrency** is a slightly broader term than parallelism. It suggests that multiple tasks have the ability to run in an overlapping manner. (There’s a saying that concurrency does not imply parallelism.)
 
-**Threading** is a concurrent execution model whereby multiple [:fontawesome-solid-link: threads](https://en.wikipedia.org/wiki/Thread_(computing)) take turns executing tasks. One process can contain multiple threads. Python has a complicated relationship with threading thanks to its [:fontawesome-solid-link: GIL](https://realpython.com/python-gil/), but that’s beyond the scope of this article.
+**Threading** is a concurrent execution model whereby multiple [threads](https://en.wikipedia.org/wiki/Thread_(computing)) take turns executing tasks. One process can contain multiple threads. Python has a complicated relationship with threading thanks to its [GIL](https://realpython.com/python-gil/), but that’s beyond the scope of this article.
 
 What’s important to know about threading is that it’s better for IO-bound tasks. While a CPU-bound task is characterized by the computer’s cores continually working hard from start to finish, an IO-bound job is dominated by a lot of waiting on input/output to complete.
 

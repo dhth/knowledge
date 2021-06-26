@@ -4,7 +4,7 @@ April 2021 Mistakes I made writing IAC
 Resources
 ---
 
-- [:fontawesome-solid-play-circle: April 2021 - Mistakes I made writing
+- [April 2021 - Mistakes I made writing
     Infrastructure as Code, Ben Bridts][1]
 
 <!-- Links -->

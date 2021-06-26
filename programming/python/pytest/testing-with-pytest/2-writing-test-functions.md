@@ -45,7 +45,7 @@ def test_start_tasks_db_raises():
         tasks.start_tasks_db('some/great/path', 'mysql')
 				# code only wants "tinydb" or "mongo"
 				# will raise ValueError
-    exception_msg = excinfo.value.args[:fontawesome-solid-link: 0]
+    exception_msg = excinfo.value.args[0]
     assert exception_msg == "db_type must be a 'tiny' or 'mongo'"
 ```
 
@@ -61,7 +61,7 @@ def some_func():
 
 # Register the marks in pytest.ini
 # Otherwise pytest will show warnings
-[:fontawesome-solid-link: pytest]
+[pytest]
 markers =
     smoke
     get
@@ -94,7 +94,7 @@ Parametrize
 
 ```python
 @pytest.mark.parametrize('summary, owner, done',
- 	                         [:fontawesome-solid-link: ('sleep', None, False),
+ 	                         [('sleep', None, False),
  	                          ('wake', 'brian', False),
  	                          ('breathe', 'BRIAN', True),
  	                          ('eat eggs', 'BrIaN', False),
@@ -117,7 +117,7 @@ tasks_to_try = (Task('sleep', done=True),
                 Task('breathe', 'BRIAN', True),
                 Task('exercise', 'BrIaN', False))
  	
-task_ids = [:fontawesome-solid-link: 'Task({},{},{})'.format(t.summary, t.owner, t.done)
+task_ids = ['Task({},{},{})'.format(t.summary, t.owner, t.done)
 	            for t in tasks_to_try]
 	
 @pytest.mark.parametrize('task', tasks_to_try, ids=task_ids)
@@ -131,7 +131,7 @@ def test_add_5(task):
 ### Using `pytest.param`
 
 ```python
-@pytest.mark.parametrize('task', [:fontawesome-solid-link: 
+@pytest.mark.parametrize('task', [
  	    pytest.param(Task('create'), id='just summary'),
  	    pytest.param(Task('inspire', 'Michelle'), id='summary/owner'),
  	    pytest.param(Task('encourage', 'Michelle', True), id='summary/owner/done')])

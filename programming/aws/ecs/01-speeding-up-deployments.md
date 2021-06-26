@@ -4,7 +4,7 @@ Speeding Up Deployments
 Resources
 ---
 
-- [:fontawesome-solid-link: Speeding up Amazon ECS container deployments Nathan Peck][1]
+- [Speeding up Amazon ECS container deployments Nathan Peck][1]
 
 <!-- Links -->
 [1]: https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/

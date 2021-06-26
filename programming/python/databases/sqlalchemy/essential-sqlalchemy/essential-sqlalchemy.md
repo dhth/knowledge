@@ -3,8 +3,8 @@ Essential SQLAlchemy
 
 Resources
 ---
-- [:fontawesome-solid-book: Book ](https://learning.oreilly.com/library/view/essential-sqlalchemy-2nd/9781491916544/)
-- [:fontawesome-brands-github:
+- [Book ](https://learning.oreilly.com/library/view/essential-sqlalchemy-2nd/9781491916544/)
+- [
     Repo](https://github.com/jasonamyers/essential-sqlalchemy-2ed-examples)
 
 
@@ -12,7 +12,7 @@ Modules
 ---
 
 - [[intro]]
-- [:fontawesome-solid-file-alt: 2: Working with data via SQLAlchemy
+- [2: Working with data via SQLAlchemy
 - [[working-with-data-via-sqlalchemy-core]]
 
 Book Chapters Checklist

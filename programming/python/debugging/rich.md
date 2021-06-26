@@ -1,12 +1,12 @@
 rich
 ===
 
-[:fontawesome-solid-link: https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)
+[https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)
 
 Resources
 ---
 
-- [:fontawesome-solid-link: Video series on rich](https://calmcode.io/rich/introduction.html)
+- [Video series on rich](https://calmcode.io/rich/introduction.html)
 
 Custom theme
 ---

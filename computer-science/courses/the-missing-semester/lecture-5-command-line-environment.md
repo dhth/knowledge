@@ -3,7 +3,7 @@ Lecture 5: Command Line Environment
 
 Resources
 ---
-- [:fontawesome-solid-link: Lecture](https://www.youtube.com/watch?v=e8BO_dYxk5c)
+- [Lecture](https://www.youtube.com/watch?v=e8BO_dYxk5c)
 
 Notes
 ---

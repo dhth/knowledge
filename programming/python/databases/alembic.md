@@ -17,9 +17,9 @@ alembic upgrade head
 
 Alembic doesn't detect field length changes by default, it's configuration has to be modified to detect it.
 
-[:fontawesome-solid-link: Setting up alembic to detect the column length change](http://blog.code4hire.com/2017/06/setting-up-alembic-to-detect-the-column-length-change/)
+[Setting up alembic to detect the column length change](http://blog.code4hire.com/2017/06/setting-up-alembic-to-detect-the-column-length-change/)
 
-[:fontawesome-solid-link: Alembic - migration for String length change](https://eshlox.net/2017/08/06/alembic-migration-for-string-length-change)
+[Alembic - migration for String length change](https://eshlox.net/2017/08/06/alembic-migration-for-string-length-change)
 
 
 ## Warning

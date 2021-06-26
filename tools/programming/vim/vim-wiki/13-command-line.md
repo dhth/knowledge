@@ -34,5 +34,5 @@ will replace the line with
 2)
 ```
 
-More [:fontawesome-solid-link:
+More [
 here](https://rwx.gg/tools/editors/vi/how/magic/).

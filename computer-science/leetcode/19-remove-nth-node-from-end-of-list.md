@@ -2,7 +2,7 @@
 ===
 
 The requirement for one-pass algorithm is misleading. True one-pass for this
-kind of problem is impossible ([:fontawesome-brands-wikipedia-w: One-pass
+kind of problem is impossible ([One-pass
 Algorithm](https://en.wikipedia.org/wiki/One-pass_algorithm)).
 
 One way is to iterate through the list, find it's length, then iterate again,

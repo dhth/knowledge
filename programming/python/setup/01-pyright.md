@@ -5,8 +5,8 @@ Resources
 ---
 
 
-- [:fontawesome-solid-link: https://github.com/microsoft/pyright/blob/master/docs/configuration]
-- [:fontawesome-solid-link: Sample pyrightconfig.json
+- [https://github.com/microsoft/pyright/blob/master/docs/configuration]
+- [Sample pyrightconfig.json
     file](https://github.com/microsoft/pyright/blob/1601a177cdedc35d4d61ed98c622bd0d3754e9a7/docs/configuration.md#sample-config-file)
 
 Project root

@@ -4,7 +4,7 @@ Multi Architecture Builds
 Resources
 ---
 
-- [:fontawesome-solid-link: How to build x86 (and others!) Docker images on an
+- [How to build x86 (and others!) Docker images on an
     M1 Mac - Jaimyn's Blog][1]
 
 <!-- Links -->

@@ -6,7 +6,7 @@ Traversal
 
 ### Inorder Traversal
 
-[:fontawesome-solid-play-circle: Video](https://www.youtube.com/watch?v=5dySuyZf9Qg)
+[Video](https://www.youtube.com/watch?v=5dySuyZf9Qg)
 
 **Procedure:**
 
@@ -27,7 +27,7 @@ public static void inOrder(Node root) {
 
 ### Preorder Traversal
 
-[:fontawesome-solid-play-circle: Video](https://www.youtube.com/watch?v=1WxLM2hwL-U)
+[Video](https://www.youtube.com/watch?v=1WxLM2hwL-U)
 
 **Procedure:**
 
@@ -37,7 +37,7 @@ public static void inOrder(Node root) {
 
 ### Postorder Traversal
 
-[:fontawesome-solid-play-circle: Video](https://www.youtube.com/watch?v=4zVdfkpcT6U)
+[Video](https://www.youtube.com/watch?v=4zVdfkpcT6U)
 
 **Procedure:**
 

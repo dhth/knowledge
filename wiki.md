@@ -9,7 +9,7 @@ I've been writing reasonably well maintained notes on Notion for a while now. Ev
 The following infographic sums up my reasoning behind creating a wiki like this.
 <img src="assets/images/information-vs-knowledge.png" alt="information-vs-knowledge" class="responsive"/>
 
-*[:fontawesome-solid-link: Source](https://www.gapingvoid.com/blog/2014/01/22/information-vs-knowledge/)*
+*[Source](https://www.gapingvoid.com/blog/2014/01/22/information-vs-knowledge/)*
 
 > This wiki is still in *"construction mode"*, as there's a lot of stuff I need to port over from Notion.
 
