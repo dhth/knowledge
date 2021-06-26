@@ -6,17 +6,17 @@ The Missing Semester teaches tools that are normally not taught in most traditio
 Resources
 ---
 
-- [:fontawesome-solid-link: Website](https://missing.csail.mit.edu/)
+- [Website](https://missing.csail.mit.edu/)
 
 Lectures
 ---
 
 - [[lecture-2-shell-tools-and-scripting]]
-- [:fontawesome-solid-file-alt: Lecture 4: Data
+- [Lecture 4: Data
 - [[lecture-4-data-wrangling]]
-- [:fontawesome-solid-file-alt: Lecture 5: Command Line
+- [Lecture 5: Command Line
 - [[lecture-5-command-line-environment]]
-- [:fontawesome-solid-file-alt: Lecture 6: Version
+- [Lecture 6: Version
 - [[lecture-6-version-control]]
 
 Lecture Checklist

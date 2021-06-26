@@ -3,7 +3,7 @@ VimScript
 
 Resources
 ---
-- [:fontawesome-solid-link: Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 
 Modules
 ---

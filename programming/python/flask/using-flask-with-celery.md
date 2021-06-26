@@ -21,6 +21,6 @@ is `http`. This can be set to `https` either on a case by case basis by passing
 `PREFERRED_URL_SCHEME` to `https`. More
 [here](https://flask.palletsprojects.com/en/1.1.x/config/).
 
-More on the application context [:fontawesome-solid-link: here](https://flask-doc.readthedocs.io/en/latest/appcontext.html#app-context).
+More on the application context [here](https://flask-doc.readthedocs.io/en/latest/appcontext.html#app-context).
 
-More on the request context [:fontawesome-solid-link: here](https://flask-doc.readthedocs.io/en/latest/reqcontext.html).
+More on the request context [here](https://flask-doc.readthedocs.io/en/latest/reqcontext.html).

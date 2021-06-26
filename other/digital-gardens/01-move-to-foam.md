@@ -18,3 +18,10 @@ find docs -name 'index.md' | pbcopy
 # vim macro: 0$F/DF/ly$A/^[pa.md^[j0
 ```
 
+Remove fontawesome links
+---
+
+```bash
+sed 's/:fontawesome-[a-z-]*: //g'
+sed 's/:fontawesome-[a-z-]*://g'
+```

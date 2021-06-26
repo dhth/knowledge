@@ -4,9 +4,9 @@ Move windows between monitors
 Resources
 ---
 
-- [:fontawesome-solid-link: Magnet][1]
-- [:fontawesome-brands-github: Rectangle][2]
-- [:fontawesome-solid-link: Keyboard Maestro: Move window to next screen, and
+- [Magnet][1]
+- [Rectangle][2]
+- [Keyboard Maestro: Move window to next screen, and
     maintain its position][3]
 
 <!-- Links -->

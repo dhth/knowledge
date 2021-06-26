@@ -11,7 +11,7 @@ W:    Detach tab into new window
 Custom CSS
 ---
 
-[:fontawesome-brands-github: Source](https://github.com/Foldex/vimium-dark-themes/blob/master/vimium-dark.css)
+[Source](https://github.com/Foldex/vimium-dark-themes/blob/master/vimium-dark.css)
 
 ```css
 :root {

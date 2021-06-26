@@ -3,9 +3,9 @@ Lecture 3: Data Wrangling
 
 Resources
 ---
-- [:fontawesome-solid-play-circle: Lecture](https://www.youtube.com/watch?v=sz_dsktIjt4)
-- [:fontawesome-solid-link: sed](https://en.wikipedia.org/wiki/Sed)
-- [:fontawesome-solid-link: Lecture page](https://missing.csail.mit.edu/2020/data-wrangling/)
+- [Lecture](https://www.youtube.com/watch?v=sz_dsktIjt4)
+- [sed](https://en.wikipedia.org/wiki/Sed)
+- [Lecture page](https://missing.csail.mit.edu/2020/data-wrangling/)
 
 Commands
 ---

@@ -5,7 +5,7 @@ Screencasts by [Greg Hurrell](https://wincent.com/).
 
 Resources
 ---
-- [:fontawesome-solid-play-circle:
+- [
     Playlist](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
 
 Screencasts

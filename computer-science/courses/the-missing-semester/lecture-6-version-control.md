@@ -4,9 +4,9 @@ Lecture 6: Version Control
 Resources
 ---
 
-- [:fontawesome-solid-play-circle: Lecture 6: Version
+- [Lecture 6: Version
     Control][1]
-- [:fontawesome-solid-link: Lecture
+- [Lecture
     Page][2]
 
 [1]: https://www.youtube.com/watch?v=2sjqTHE0zok

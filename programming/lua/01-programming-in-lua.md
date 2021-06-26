@@ -4,7 +4,7 @@ Programming In Lua
 Links
 ---
 
-- [:fontawesome-solid-book: Book](https://www.lua.org/pil/contents.html)
+- [Book](https://www.lua.org/pil/contents.html)
 
 
 Chapters Checklist

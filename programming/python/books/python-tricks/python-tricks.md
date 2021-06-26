@@ -4,7 +4,7 @@ Python Tricks
 Resources
 ---
 
-- [:fontawesome-solid-link: Link](https://realpython.com/products/python-tricks-book/)
+- [Link](https://realpython.com/products/python-tricks-book/)
 
 Modules
 ---

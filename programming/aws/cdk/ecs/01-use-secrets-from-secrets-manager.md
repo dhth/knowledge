@@ -4,8 +4,8 @@ Use secrets from secrets manager
 Resources
 ---
 
-- [:fontawesome-brands-aws: Ec2TaskDefinition][1]
-- [:fontawesome-solid-link: I tell you a secret: Provide Database credentials to
+- [Ec2TaskDefinition][1]
+- [I tell you a secret: Provide Database credentials to
     an ECS Fargate task in AWS CDK][2]
 
 <!-- Links -->

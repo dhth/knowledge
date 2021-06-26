@@ -3,7 +3,7 @@ Splits
 
 Resources
 ---
-- [:fontawesome-solid-link: Managing Your Splits In Vim](https://www.youtube.com/watch?v=Zir28KFCSQw)
+- [Managing Your Splits In Vim](https://www.youtube.com/watch?v=Zir28KFCSQw)
 
 Commands
 ---

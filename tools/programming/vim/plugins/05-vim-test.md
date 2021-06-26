@@ -4,7 +4,7 @@ Vim Test
 Links
 ---
 
-- [:fontawesome-brands-github: vim-test](https://github.com/vim-test/vim-test)
+- [vim-test](https://github.com/vim-test/vim-test)
 
 Config
 ---
@@ -24,7 +24,7 @@ let test#python#runner = 'pytest'
 Customisations for docker
 ---
 
-[:fontawesome-brands-github: Inspiration](https://github.com/vim-test/vim-test/issues/254).
+[Inspiration](https://github.com/vim-test/vim-test/issues/254).
 
 ```vim
 " the idea is to take any command and transform it so it can be used with

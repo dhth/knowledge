@@ -41,7 +41,7 @@ watchmedo auto-restart --directory=./ --pattern=*.py --recursive -- celery \
 worker --app=...
 ```
 
-More [:fontawesome-solid-link:
+More [
 here](https://www.distributedpython.com/2019/04/23/celery-reload/).
 
 Add breakpoints in code
@@ -56,7 +56,7 @@ rdb.set_trace()
 # SOME MORE PYTHON CODE
 ```
 
-More [:fontawesome-solid-link:
+More [
 here](https://docs.celeryproject.org/en/stable/reference/celery.contrib.rdb.html).
 
 Running containers
@@ -64,7 +64,7 @@ Running containers
 
 Unfortunately, celery's `rdb` doesn't work with `docker-compose up`. There seems
 to be an issue with the way service ports are exposed via `up`. More on that
-[:fontawesome-solid-link: here](https://github.com/docker/compose/issues/4677).
+[here](https://github.com/docker/compose/issues/4677).
 
 Run the service using `docker-compose run`.
 

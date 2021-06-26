@@ -4,8 +4,8 @@ ripgrep
 Resources
 ---
 
-- [:fontawesome-brands-github: Guide](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE]
-- [:fontawesome-solid-link: Cheat
+- [Guide](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE]
+- [Cheat
     Sheet](https://jdhao.github.io/2020/02/16/ripgrep_cheat_sheet/)
 
 Manual filtering

@@ -4,7 +4,7 @@ FZF
 Resources
 ---
 
-- [:fontawesome-brands-github: Color
+- [Color
     Schemes](https://github.com/junegunn/fzf/wiki/Color-schemes)
 
 - [[fzf]]

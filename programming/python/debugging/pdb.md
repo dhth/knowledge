@@ -4,12 +4,12 @@ pdb
 Resources
 ---
 
-- [:fontawesome-solid-play-circle: Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
-- [:fontawesome-solid-play-circle: PDB like a
+- [Clayton Parker - So you think you can PDB? - PyCon 2015](https://www.youtube.com/watch?v=P0pIW5tJrRM)
+- [PDB like a
     Pro](https://www.youtube.com/watch?v=yOG36Ae_TJ0)
-- [:fontawesome-solid-play-circle: How to become a better programmer through
+- [How to become a better programmer through
     pdb-driven development](https://www.youtube.com/watch?v=9dyX19r7hJs)
-- [:fontawesome-solid-link: Become a pdb power
+- [Become a pdb power
     user](https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2)
 
 My .pdbrc
@@ -70,10 +70,10 @@ Finally, in my pdb session, I can import my pdb util functions with `ppi`. And, 
 Use ipython inside pdb
 ---
 
-[:fontawesome-solid-link: https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors](https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors)
+[https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors](https://stackoverflow.com/questions/53933400/ipython-embed-does-not-use-terminal-colors)
 
 Losing terminal echo
 ---
 
-[:fontawesome-brands-github:
+[
 This](https://github.com/saimn/dotfiles/blob/master/pdbrc) might help.

@@ -4,7 +4,7 @@ Buku
 Resources
 ---
 
-- [:fontawesome-brands-github: jarun/buku][1]
+- [jarun/buku][1]
 
 <!-- Links -->
 [1]: https://github.com/jarun/buku

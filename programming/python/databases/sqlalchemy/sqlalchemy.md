@@ -4,7 +4,7 @@ SQLAlchemy
 Modules
 ---
 
-- [:fontawesome-solid-folder: Essential
+- [Essential
 - [[essential-sqlalchemy]]
 - [[sqlalchemy-wiki]]
 

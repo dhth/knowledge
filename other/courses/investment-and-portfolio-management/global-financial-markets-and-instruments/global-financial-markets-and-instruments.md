@@ -5,7 +5,7 @@ Resources
 ---
 
 
-- [:fontawesome-solid-link: Course Page][1]
+- [Course Page][1]
 
 <!-- Links -->
 [1]:

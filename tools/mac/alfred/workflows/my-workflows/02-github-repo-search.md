@@ -4,7 +4,7 @@ Github Repo Search
 Resources
 ---
 
-- [:fontawesome-brands-github: Repositories - GitHub Docs][1]
+- [Repositories - GitHub Docs][1]
 
 <!-- Links -->
 [1]:

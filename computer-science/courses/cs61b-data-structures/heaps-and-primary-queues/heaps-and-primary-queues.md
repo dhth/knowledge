@@ -4,10 +4,10 @@ Heaps and Primary Queues
 Resources
 ---
 
-- [:fontawesome-solid-play-circle: Lectures](https://www.youtube.com/playlist?list=PL8FaHk7qbOD50LnOXTSpYgnVJQTIVFsmI)
-- [:fontawesome-solid-link: Slides](https://docs.google.com/presentation/d/1XgdL3QTKYRAVa14qQznoVORqrPug5tNdmiDmbqM5FlE/edit?usp=sharing)
-- [:fontawesome-solid-link: Guide](https://sp19.datastructur.es/materials/lectures/lec20/lec20)
-- [:fontawesome-solid-link: GeeksforGeeks](https://www.geeksforgeeks.org/heap-data-structure/)
+- [Lectures](https://www.youtube.com/playlist?list=PL8FaHk7qbOD50LnOXTSpYgnVJQTIVFsmI)
+- [Slides](https://docs.google.com/presentation/d/1XgdL3QTKYRAVa14qQznoVORqrPug5tNdmiDmbqM5FlE/edit?usp=sharing)
+- [Guide](https://sp19.datastructur.es/materials/lectures/lec20/lec20)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/heap-data-structure/)
 
 
 Motivation

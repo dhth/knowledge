@@ -3,7 +3,7 @@ Substitute
 
 Resources
 ---
-- [:fontawesome-solid-link: Vim
+- [Vim
     wiki page on substitute](https://vim.fandom.com/wiki/Search_and_replace)
 
 Substitution Flags
@@ -18,7 +18,7 @@ Substitution Flags
 :s/old/new/gc  " ask for confirmation
 ```
 
-More on repeat last substitution [:fontawesome-solid-link:
+More on repeat last substitution [
 here](https://vimtricks.com/p/vimtrick-repeat-the-last-substitution).
 
 Substitute only in visual block

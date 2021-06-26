@@ -22,7 +22,7 @@ git stash show stash@{1}
 git stash show -p stash@{1}
 ```
 
-[:fontawesome-solid-link: More](https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/).
+[More](https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/).
 
 Squash last n commits
 ---
@@ -31,4 +31,4 @@ git reset --soft HEAD~n
 git commit -m "new message"
 ```
 
-More [:fontawesome-brands-stack-overflow: here](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git/5201642#5201642).
+More [here](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git/5201642#5201642).

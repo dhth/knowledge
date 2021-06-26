@@ -1,7 +1,7 @@
 Replace With Register
 ===
 
-[:fontawesome-solid-link: Repo](https://github.com/vim-scripts/ReplaceWithRegister)
+[Repo](https://github.com/vim-scripts/ReplaceWithRegister)
 
 Replace with register
 ```vim

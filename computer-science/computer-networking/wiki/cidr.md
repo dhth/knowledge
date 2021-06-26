@@ -4,10 +4,10 @@ CIDR
 Resources
 ---
 
-- [:fontawesome-brands-aws: Understanding CIDR Notation][1]
-- [:fontawesome-solid-play-circle: IPv4, CIDR, and VPC Subnets Made Simple!][2]
-- [:fontawesome-solid-link: Visualize CIDRs][3]
-- [:fontawesome-solid-link: Visual Subnet Calculator][4]
+- [Understanding CIDR Notation][1]
+- [IPv4, CIDR, and VPC Subnets Made Simple!][2]
+- [Visualize CIDRs][3]
+- [Visual Subnet Calculator][4]
 
 <!-- Links -->
 [1]: https://www.aws.training/Details/Video?id=16480
@@ -47,7 +47,7 @@ If we want to represent the entire set of possible IPv4 addresses:
 Example
 ---
 
-Use [:fontawesome-solid-link: this][3] and [:fontawesome-solid-link: this][4] to
+Use [this][3] and [this][4] to
 visualize.
 
 Let's say VPC CIDR is: `10.0.0.0/26`, which means 64 total IPs (62 usable).

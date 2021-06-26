@@ -3,7 +3,7 @@ Vimdiff
 
 Resources
 ---
-- [:fontawesome-brands-stack-overflow: How do i customize vimdiff colors](https://vi.stackexchange.com/questions/10897/how-do-i-customize-vimdiff-colors)
+- [How do i customize vimdiff colors](https://vi.stackexchange.com/questions/10897/how-do-i-customize-vimdiff-colors)
 
 Custom Diff Colors
 ---

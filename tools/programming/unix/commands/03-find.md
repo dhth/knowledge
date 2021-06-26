@@ -14,5 +14,5 @@ Find and replace recursively in a directory
 ---
 
 ```bash
-find docs -name '*.md' | xargs sed -i "" 's/\[/\[:fontawesome-solid-link: /g'
+find docs -name '*.md' | xargs sed -i "" 's/\[/\[/g'
 ```

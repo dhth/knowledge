@@ -3,7 +3,7 @@ Operator Pending Mappings
 
 Resources
 ---
-- [:fontawesome-solid-link: Book](https://learnvimscriptthehardway.stevelosh.com/chapters/15.html)
+- [Book](https://learnvimscriptthehardway.stevelosh.com/chapters/15.html)
 
 Simple operator mapping
 ---

@@ -1,7 +1,7 @@
 Testing with Pytest
 ===
 
-[:fontawesome-solid-book: Testing with Pytest Book](https://learning.oreilly.com/library/view/python-testing-with/9781680502848/)
+[Testing with Pytest Book](https://learning.oreilly.com/library/view/python-testing-with/9781680502848/)
 
 Chapters
 ---
