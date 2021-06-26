@@ -26,7 +26,7 @@ Modules
 [04-traceback]: 04-traceback.md "Traceback"
 [asyncio]: asyncio/asyncio.md "Asyncio"
 [databases]: databases/databases.md "Databases with Python"
-[debugging-python]: debugging/debugging-python.md "Debugging"
+[debugging-python]: debugging/debugging-python.md "Debugging Python"
 [flask]: flask/flask.md "Flask"
 [packaging]: packaging/packaging.md "Packaging"
 [python-profiling]: profiling/python-profiling.md "Python Profiling"

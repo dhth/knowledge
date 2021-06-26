@@ -5,7 +5,7 @@ Bindings worth remembering
 ---
 
 ```
-W:    Detach tab into new window
+W: Detach tab into new window
 ```
 
 Custom CSS
