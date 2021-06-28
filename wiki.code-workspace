@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"foam.edit.linkReferenceDefinitions": "withExtensions",
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+	}
+}

@@ -3,9 +3,10 @@ const path = require('path')
 const PATH_PREFIX = process.env.PATH_PREFIX
 
 module.exports = {
-  // flags: {
-  //   FAST_REFRESH: true
-  // },
+  flags: {
+    FAST_REFRESH: true,
+    FAST_DEV: true,
+  },
   // pathPrefix: PATH_PREFIX || `/foam-template-gatsby-kb`, // a. If you are using github pages, this should be the name of your repo
   pathPrefix: PATH_PREFIX || `/`, // b. If you are using Netlify/Vercel, your can keep it this way
   siteMetadata: {
