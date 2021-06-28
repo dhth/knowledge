@@ -1,8 +1,5 @@
-Unix Wiki
+Unix Diff two directories
 ===
-
-Diff two directories
----
 
 ```bash
 diff --brief --recursive -x '.git' -x 'autoload' \
