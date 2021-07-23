@@ -6,6 +6,8 @@ Resources
 
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 
+<!-- Links -->
+
 Modules
 ---
 
