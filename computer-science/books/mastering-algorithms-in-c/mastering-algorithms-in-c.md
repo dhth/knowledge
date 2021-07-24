@@ -4,7 +4,7 @@ Mastering Algorithms in C
 Resources
 ---
 
-- [ Book][1]
+- [Book][1]
 - [Supplemental Resources](https://resources.oreilly.com/examples/9781565924536/)
 
 Chapters Checklist

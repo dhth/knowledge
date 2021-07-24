@@ -32,6 +32,16 @@ fd -t d -I assets dir
 # assets: the search term
 ```
 
+```bash
+fd -e md
+# -e: search by extension
+```
+
+```bash
+fd -t f
+# -e: search files only
+```
+
 Ignore Files
 ---
 
