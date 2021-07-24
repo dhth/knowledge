@@ -67,10 +67,14 @@ COPY ./project/* ${LAMBDA_TASK_ROOT}/
 
 ```
 
-Might need to be authorized to be able to pull the base image. (the region has to be `us-east-1`)
+Might need to be authorized to be able to pull the base image. (the region has
+to be `us-east-1`)
 
 ```bash
-aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws
+aws ecr-public get-login-password \
+    --region us-east-1 | \
+    docker login --username AWS \
+    --password-stdin public.ecr.aws
 ```
 
 Docker build:
