@@ -12,5 +12,9 @@ Resources
 - [aws-samples/cdk-pipelines-demo][4]
 
 <!-- Links -->
+[1]: https://www.youtube.com/watch?v=1ps0Wh19MHQ
+[2]: https://www.youtube.com/watch?v=b16Gpvjxxnc
+[3]: https://github.com/aws/aws-cdk/pull/3437
+[4]: https://github.com/aws-samples/cdk-pipelines-demo
 
 

@@ -9,6 +9,9 @@ Resources
 - [Scheduled Lambda cdk-patterns/serverless][3]
 
 <!-- Links -->
+[1]: https://github.com/aws-samples/aws-cdk-lambda-container
+[2]: https://www.youtube.com/watch?v=X-1xf-DbCBk
+[3]: https://github.com/cdk-patterns/serverless/blob/main/the-scheduled-lambda/python/the_scheduled_lambda/the_scheduled_lambda_stack.py
 
 Modules
 ---

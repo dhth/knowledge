@@ -7,6 +7,11 @@ Resources
 - [Book][1]
 - [Supplemental Resources](https://resources.oreilly.com/examples/9781565924536/)
 
+<!-- Links -->
+[1]:
+https://learning.oreilly.com/library/view/mastering-algorithms-with/1565924533/
+
+
 Chapters Checklist
 ---
 
@@ -528,5 +533,3 @@ Chapters Checklist
         - [ ] 17.11. Questions and Answers
 
         - [ ] 17.12. Related Topics
-
-
