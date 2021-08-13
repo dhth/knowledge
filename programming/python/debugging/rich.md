@@ -7,6 +7,12 @@ Resources
 ---
 
 - [Video series on rich](https://calmcode.io/rich/introduction.html)
+- [FastAPI and Rich Tracebacks in Development][1]
+- [Episode #246 Love your crashes, use Rich to beautify tracebacks  [Python Bytes Podcast]][2]
+
+<!-- Links -->
+[1]: https://blog.hay-kot.dev/fastapi-and-rich-tracebacks-in-development/
+[2]: https://pythonbytes.fm/episodes/show/246/love-your-crashes-use-rich-to-beautify-tracebacks
 
 Custom theme
 ---

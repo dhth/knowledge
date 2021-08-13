@@ -10,11 +10,13 @@ Resources
     Container CI/CD Pipeline][2]
 - [RFC: 0049 Continuous Delivery for CDK Apps][3]
 - [aws-samples/cdk-pipelines-demo][4]
+- [aws cdk rfcs / 0049 continuous delivery.md at master · aws / aws cdk rfcs][5]
 
 <!-- Links -->
 [1]: https://www.youtube.com/watch?v=1ps0Wh19MHQ
 [2]: https://www.youtube.com/watch?v=b16Gpvjxxnc
 [3]: https://github.com/aws/aws-cdk/pull/3437
 [4]: https://github.com/aws-samples/cdk-pipelines-demo
+[5]: https://github.com/aws/aws-cdk-rfcs/blob/master/text/0049-continuous-delivery.md#publishing
 
 
