@@ -65,3 +65,10 @@ Getting gq to behave nicely with lists
 ---
 
 `:set fo-=q` seems to work. Needs more investigation.
+
+Delete empty lines
+---
+
+```
+:g/^$/d
+```

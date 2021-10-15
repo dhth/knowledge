@@ -5,6 +5,14 @@ Resources
 ---
 
 - [Course Page](https://sp19.datastructur.es/)
+- [Github repo][1]
+- [Berkeley CS61B / library sp19: Libraries and data for the sp19 version of CS 61B][2]
+
+<!-- Links -->
+[1]: https://github.com/Berkeley-CS61B/skeleton-sp19
+[2]: https://github.com/Berkeley-CS61B/library-sp19
+
+<!-- Links end -->
 
 Modules
 ---

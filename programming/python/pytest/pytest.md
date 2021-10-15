@@ -1,6 +1,14 @@
 Pytest
 ===
 
+Resources
+---
+
+- [Register Custom pytest Markers][1]
+
+<!-- Links -->
+[1]: https://www.youtube.com/watch?v=J6cIe40i-dw
+
 Modules
 ---
 

@@ -11,6 +11,8 @@ Resources
 - [RFC: 0049 Continuous Delivery for CDK Apps][3]
 - [aws-samples/cdk-pipelines-demo][4]
 - [aws cdk rfcs / 0049 continuous delivery.md at master · aws / aws cdk rfcs][5]
+- [Continuous Integration and Continuous Delivery Best Practices for Building Modern Applications][6]
+- [Feature Branches and Toggles in a Post GitHub World • Sam Newman][7]
 
 <!-- Links -->
 [1]: https://www.youtube.com/watch?v=1ps0Wh19MHQ
@@ -18,5 +20,7 @@ Resources
 [3]: https://github.com/aws/aws-cdk/pull/3437
 [4]: https://github.com/aws-samples/cdk-pipelines-demo
 [5]: https://github.com/aws/aws-cdk-rfcs/blob/master/text/0049-continuous-delivery.md#publishing
+[6]: https://www.youtube.com/watch?v=7p4Z36yNURg
+[7]: https://www.youtube.com/watch?v=lqRQYEHAtpk&list=WL&index=4
 
 

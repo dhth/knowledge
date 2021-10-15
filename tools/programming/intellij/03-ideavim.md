@@ -5,6 +5,10 @@ Resources
 ---
 
 - [ideavim](https://github.com/JetBrains/ideavim)
+- [My favorite IdeaVim features][1]
+
+<!-- Links -->
+[1]: https://www.youtube.com/watch?v=SDiKLLrUZMI&t=1s
 
 - [Configuring IdeaVim](https://medium.com/@danidiaz/configuring-ideavimrc-de16a4da0715)
 
