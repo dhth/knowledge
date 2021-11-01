@@ -1,6 +1,17 @@
 Tmux Wiki
 ===
 
+Resources
+---
+
+- [Tmux display popup][1]: Use tmux display popups
+
+<!-- Links -->
+[1]: https://qmacro.org/autodidactics/2021/08/06/tmux-output-formatting/
+
+<!-- Links end -->
+
+
 Session
 ---
 
@@ -80,6 +91,14 @@ bind c new-window -c "#{pane_current_path}"
 //swaps window indexed at 3 with that indexed at 1
 ```
 
+### List windows
+
+```bash
+tmux list-windows -a -F '#S:#W'
+# will return windows in all sessions for a server.
+# the format will be session_name:window_name
+```
+
 
 Panes
 ---
@@ -157,4 +176,15 @@ Copying
 # press Space to start selecting, end with Enter
 
 # paste with Prefix ]
+```
+
+Make pane border invisible
+---
+
+Just set `pane-border-style`, and `pane-active-border-style` to be the same
+color as the background.
+
+```
+set-option -g pane-active-border-style fg=colour0 #fg2
+set-option -g pane-border-style fg=colour0 #bg1
 ```

@@ -1,4 +1,4 @@
-Native LSP
+Neovim Native LSP
 ===
 
 Resources

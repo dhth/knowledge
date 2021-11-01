@@ -2,17 +2,20 @@ Lua
 ===
 
 Resources
-===
+---
 
 - [Official Website](https://www.lua.org/start.html)
-- [
-    Installation](https://exercism.io/tracks/lua/installation)
-- [Exercism.io Lua
-    Track](https://exercism.io/my/tracks/lua)
-- [
-    nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)
-- [Learn X in Y
-    minutes](https://learnxinyminutes.com/docs/lua/)
+- [Installation](https://exercism.io/tracks/lua/installation)
+- [Exercism.io Lua Track](https://exercism.io/my/tracks/lua)
+- [nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/lua/)
+- [Lua Tutorial with Neovim - Uthman Yuki][1]
+
+<!-- Links -->
+[1]: https://www.youtube.com/playlist?list=PLOe6AggsTaVvsguiM_LAbdkm7dFCxYxe3
+
+<!-- Links end -->
+
 
 Modules
 ---

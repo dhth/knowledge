@@ -1,4 +1,4 @@
-Stories
+CS Stories
 ===
 
 Stories from inspiring computer scientists and programmers.

@@ -33,3 +33,11 @@ Diff file with previous version
 ```
 
 [How to open a split-diff for selected file out of the commit](https://vi.stackexchange.com/questions/16422/how-to-open-a-split-diff-for-selected-file-out-of-the-commit)
+
+
+Restore a single file from a commit
+---
+
+```
+:Git checkout HASH %
+```

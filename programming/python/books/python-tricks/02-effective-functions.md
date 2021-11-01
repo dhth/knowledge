@@ -1,7 +1,7 @@
-Effective Functions
+Chapter 3: Effective Functions
 ===
 
-Python's functions are first class
+3.1 Python's functions are first class
 ---
 
 ### Functions Can Capture Local State
@@ -23,7 +23,7 @@ def get_speak_func(text, volume):
 """
 ```
 
-Inner functions whisper and yell can access the text parameter defined in the
+Inner functions `whisper` and `yell` can access the text parameter defined in the
 parent function. Functions that do this are called lexical closures (or just
 closures, for short). A closure remembers the values from its enclosing lexical
 scope even when the program flow is no longer in that scope.
