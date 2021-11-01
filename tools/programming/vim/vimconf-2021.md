@@ -4,9 +4,9 @@ VimConf 2021
 Resources
 ---
 
-- [VimConf 2021 - Day 1][1]
+- [Vimconf 2021 website][3]
+- [VimConf 2021 - Day 1 Stream][1]
 - [Camilo Payan][2]
-- [Vimconf 2021][3]
 
 <!-- Links -->
 [1]: https://www.twitch.tv/videos/1190279834
