@@ -21,5 +21,5 @@ Camilo Payan: Mastering the macro machine
 
 - `^` takes you to the first non whitespace character in a line
 - `+` takes you to the begining of the next line
-- ':set nowrapscan' can prevent a recursive macro from looping over to the
+- `:set nowrapscan` can prevent a recursive macro from looping over to the
     begining of the file.
