@@ -1,9 +1,22 @@
-Vimdiff
+Vim Highlight Colors
 ===
 
 Resources
 ---
-- [How do i customize vimdiff colors](https://vi.stackexchange.com/questions/10897/how-do-i-customize-vimdiff-colors)
+
+- [How do I customize vimdiff colors?][1]
+
+<!-- Links -->
+[1]: https://vi.stackexchange.com/questions/10897/how-do-i-customize-vimdiff-colors
+
+<!-- Links end -->
+
+Highlight colors
+---
+
+```vim
+hi Search       gui=none    guifg=#282a36          guibg=#ff5555
+```
 
 Custom Diff Colors
 ---

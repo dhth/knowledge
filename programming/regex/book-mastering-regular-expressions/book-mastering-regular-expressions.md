@@ -1,0 +1,312 @@
+Book: Mastering Regular Expressions
+===
+
+Resources
+---
+
+- [Mastering Regular Expressions][1]
+
+<!-- Links -->
+[1]: https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/
+
+<!-- Links end -->
+
+
+Modules
+---
+
+Checklist
+---
+
+- [ ] 1: Introduction to Regular Expressions
+    - [x] Solving Real Problems
+    - [ ] Regular Expressions as a Language
+        - [ ] The Filename Analogy
+        - [ ] The Language Analogy
+    - [ ] The Regular-Expression Frame of Mind
+        - [ ] If You Have Some Regular-Expression Experience
+        - [ ] Searching Text Files: Egrep
+    - [ ] Egrep Metacharacters
+        - [ ] Start and End of the Line
+        - [ ] Character Classes
+        - [ ] Matching Any Character with Dot
+        - [ ] Alternation
+        - [ ] Ignoring Differences in Capitalization
+        - [ ] Word Boundaries
+        - [ ] In a Nutshell
+        - [ ] Optional Items
+        - [ ] Other Quantifiers: Repetition
+        - [ ] Parentheses and Backreferences
+        - [ ] The Great Escape
+    - [ ] Expanding the Foundation
+        - [ ] Linguistic Diversification
+        - [ ] The Goal of a Regular Expression
+        - [ ] A Few More Examples
+        - [ ] Regular Expression Nomenclature
+        - [ ] Improving on the Status Quo
+        - [ ] Summary
+    - [ ] Personal Glimpses
+- [ ] 2: Extended Introductory Examples
+    - [ ] About the Examples
+        - [ ] A Short Introduction to Perl
+    - [ ] Matching Text with Regular Expressions
+        - [ ] Toward a More Real-World Example
+        - [ ] Side Effects of a Successful Match
+        - [ ] Intertwined Regular Expressions
+        - [ ] Intermission
+    - [ ] Modifying Text with Regular Expressions
+        - [ ] Example: Form Letter
+        - [ ] Example: Prettifying a Stock Price
+        - [ ] Automated Editing
+        - [ ] A Small Mail Utility
+        - [ ] Adding Commas to a Number with Lookaround
+        - [ ] Text-to-HTML Conversion
+        - [ ] That Doubled-Word Thing
+- [ ] 3: Overview of Regular Expression Features and Flavors
+    - [ ] A Casual Stroll Across the Regex Landscape
+        - [ ] The Origins of Regular Expressions
+        - [ ] At a Glance
+    - [ ] Care and Handling of Regular Expressions
+        - [ ] Integrated Handling
+        - [ ] Procedural and Object-Oriented Handling
+        - [ ] A Search-and-Replace Example
+        - [ ] Search and Replace in Other Languages
+        - [ ] Care and Handling: Summary
+    - [ ] Strings, Character Encodings, and Modes
+        - [ ] Strings as Regular Expressions
+        - [ ] Character-Encoding Issues
+        - [ ] Unicode
+        - [ ] Regex Modes and Match Modes
+    - [ ] Common Metacharacters and Features
+        - [ ] Character Representations
+        - [ ] Character Classes and Class-Like Constructs
+        - [ ] Anchors and Other "Zero-Width Assertions"
+        - [ ] Comments and Mode Modifiers
+        - [ ] Grouping, Capturing, Conditionals, and Control
+    - [ ] Guide to the Advanced Chapters
+- [ ] 4: The Mechanics of Expression Processing
+    - [ ] Start Your Engines!
+        - [ ] Two Kinds of Engines
+        - [ ] New Standards
+        - [ ] Regex Engine Types
+        - [ ] From the Department of Redundancy Department
+        - [ ] Testing the Engine Type
+    - [ ] Match Basics
+        - [ ] About the Examples
+        - [ ] Rule 1: The Match That Begins Earliest Wins
+        - [ ] Engine Pieces and Parts
+        - [ ] Rule 2: The Standard Quantifiers Are Greedy
+    - [ ] Regex-Directed Versus Text-Directed
+        - [ ] NFA Engine: Regex-Directed
+        - [ ] DFA Engine: Text-Directed
+        - [ ] First Thoughts: NFA and DFA in Comparison
+    - [ ] Backtracking
+        - [ ] A Really Crummy Analogy
+        - [ ] Two Important Points on Backtracking
+        - [ ] Saved States
+        - [ ] Backtracking and Greediness
+    - [ ] More About Greediness and Backtracking
+        - [ ] Problems of Greediness
+        - [ ] Multi-Character Quotes
+        - [ ] Using Lazy Quantifiers
+        - [ ] Greediness and Laziness Always Favor a Match
+        - [ ] The Essence of Greediness, Laziness, and Backtracking
+        - [ ] Possessive Quantifiers and Atomic Grouping
+        - [ ] Possessive Quantifiers, ?+, *+, ++, and {m,n}+
+        - [ ] The Backtracking of Lookaround
+        - [ ] Is Alternation Greedy?
+        - [ ] Taking Advantage of Ordered Alternation
+    - [ ] NFA, DFA, and POSIX
+        - [ ] The Longest-Leftmost
+        - [ ] POSIX and the Longest-Leftmost Rule
+        - [ ] Speed and Efficiency
+        - [ ] Summary: NFA and DFA in Comparison
+    - [ ] Summary
+- [ ] 5: Practical Regex Techniques
+    - [ ] Regex Balancing Act
+    - [ ] A Few Short Examples
+        - [ ] Continuing with Continuation Lines
+        - [ ] Matching an IP Address
+        - [ ] Working with Filenames
+        - [ ] Matching Balanced Sets of Parentheses
+        - [ ] Watching Out for Unwanted Matches
+        - [ ] Matching Delimited Text
+        - [ ] Knowing Your Data and Making Assumptions
+        - [ ] Stripping Leading and Trailing Whitespace
+    - [ ] HTML-Related Examples
+        - [ ] Matching an HTML Tag
+        - [ ] Matching an HTML Link
+        - [ ] Examining an HTTP URL
+        - [ ] Validating a Hostname
+        - [ ] Plucking Out a URL in the Real World
+    - [ ] Extended Examples
+        - [ ] Keeping in Sync with Your Data
+        - [ ] Parsing CSV Files
+- [ ] 6: Crafting an Efficient Expression
+    - [ ] A Sobering Example
+        - [ ] A Simple Change Placing Your Best Foot Forward
+        - [ ] Efficiency Versus Correctness
+        - [ ] Advancing Further Localizing the Greediness
+        - [ ] Reality Check
+    - [ ] A Global View of Backtracking
+        - [ ] More Work for a POSIX NFA
+        - [ ] Work Required During a Non-Match
+        - [ ] Being More Specific
+        - [ ] Alternation Can Be Expensive
+    - [ ] Benchmarking
+        - [ ] Know What You're Measuring
+        - [ ] Benchmarking with PHP
+        - [ ] Benchmarking with Java
+        - [ ] Benchmarking with VB.NET
+        - [ ] Benchmarking with Ruby
+        - [ ] Benchmarking with Python
+        - [ ] Benchmarking with Tcl
+    - [ ] Common Optimizations
+        - [ ] No Free Lunch
+        - [ ] Everyone's Lunch is Different
+        - [ ] The Mechanics of Regex Application
+        - [ ] Pre-Application Optimizations
+        - [ ] Optimizations with the Transmission
+        - [ ] Optimizations of the Regex Itself
+    - [ ] Techniques for Faster Expressions
+        - [ ] Common Sense Techniques
+        - [ ] Expose Literal Text
+        - [ ] Expose Anchors
+        - [ ] Lazy Versus Greedy: Be Specific
+        - [ ] Split Into Multiple Regular Expressions
+        - [ ] Mimic Initial-Character Discrimination
+        - [ ] Use Atomic Grouping and Possessive Quantifiers
+        - [ ] Lead the Engine to a Match
+    - [ ] Unrolling the Loop
+        - [ ] Method 1: Building a Regex From Past Experiences
+        - [ ] The Real Unrolling-the-Loop Pattern
+        - [ ] Method 2: A Top-Down View
+        - [ ] Method 3: An Internet Hostname
+        - [ ] Observations
+        - [ ] Using Atomic Grouping and Possessive Quantifiers
+        - [ ] Short Unrolling Examples
+        - [ ] Unrolling C Comments
+        - [ ] The Freeflowing Regex
+    - [ ] A Helping Hand to Guide the Match
+        - [ ] A Well-Guided Regex is a Fast Regex
+        - [ ] Wrapup
+    - [ ] In Summary: Think!
+- [ ] 7: Perl
+    - [ ] Regular Expressions as a Language Component
+        - [ ] Perl's Greatest Strength
+        - [ ] Perl's Greatest Weakness
+    - [ ] Perl's Regex Flavor
+        - [ ] Regex Operands and Regex Literals
+        - [ ] How Regex Literals Are Parsed
+        - [ ] Regex Modifiers
+    - [ ] Regex-Related Perlisms
+        - [ ] Expression Context
+        - [ ] Dynamic Scope and Regex Match Effects
+        - [ ] Special Variables Modified by a Match
+    - [ ] The qr/.../ Operator and Regex Objects
+        - [ ] Building and Using Regex Objects
+        - [ ] Viewing Regex Objects
+        - [ ] Using Regex Objects for Efficiency
+    - [ ] The Match Operator
+        - [ ] Match's Regex Operand
+        - [ ] Specifying the Match Target Operand
+        - [ ] Different Uses of the Match Operator
+        - [ ] Iterative Matching: Scalar Context, with /g
+        - [ ] The Match Operator's Environmental Relations
+    - [ ] The Substitution Operator
+        - [ ] The Replacement Operand
+        - [ ] The /e Modifier
+        - [ ] Context and Return Value
+    - [ ] The Split Operator
+        - [ ] Basic Split
+        - [ ] Returning Empty Elements
+        - [ ] Split's Special Regex Operands
+        - [ ] Split's Match Operand with Capturing Parentheses
+    - [ ] Fun with Perl Enhancements
+        - [ ] Using a Dynamic Regex to Match Nested Pairs
+        - [ ] Using the Embedded-Code Construct
+        - [ ] Using local in an Embedded-Code Construct
+        - [ ] A Warning About Embedded Code and my Variables
+        - [ ] Matching Nested Constructs with Embedded Code
+        - [ ] Overloading Regex Literals
+        - [ ] Problems with Regex-Literal Overloading
+        - [ ] Mimicking Named Capture
+    - [ ] Perl Efficiency Issues
+        - [ ] There's More Than One Way to Do It
+        - [ ] Regex Compilation, the /o Modifier, qr and Efficiency
+        - [ ] Understanding the Pre-Match Copy
+        - [ ] The Study Function
+        - [ ] Benchmarking
+        - [ ] Regex Debugging Information
+    - [ ] Final Comments
+- [ ] 8: Java
+    - [ ] Java's Regex Flavor
+        - [ ] Java Support for \p{} and \P{}
+        - [ ] Unicode Line Terminators
+    - [ ] Using java.util.regex
+    - [ ] The Pattern.compile() Factory
+        - [ ] Pattern's matcher method
+    - [ ] The Matcher Object
+        - [ ] Applying the Regex
+        - [ ] Querying Match Results
+        - [ ] Simple Search and Replace
+        - [ ] Advanced Search and Replace
+        - [ ] In-Place Search and Replace
+        - [ ] The Matcher's Region
+        - [ ] Method Chaining
+        - [ ] Methods for Building a Scanner
+        - [ ] Other Matcher Methods
+    - [ ] Other Pattern Methods
+        - [ ] Pattern's split Method, with One Argument
+        - [ ] Pattern's split Method, with Two Arguments
+    - [ ] Additional Examples
+        - [ ] Adding Width and Height Attributes to Image Tags
+        - [ ] Validating HTML with Multiple Patterns Per Matcher
+        - [ ] Parsing Comma-Separated Values (CSV) Text
+    - [ ] Java Version Differences
+        - [ ] Differences Between 1.4.2 and 1.5.0
+        - [ ] Differences Between 1.5.0 and 1.6
+- [ ] 9: .NET
+    - [ ] .NET's Regex Flavor
+        - [ ] Additional Comments on the Flavor
+    - [ ] Using .NET Regular Expressions
+        - [ ] Regex Quickstart
+        - [ ] Package Overview
+        - [ ] Core Object Overview
+    - [ ] Core Object Details
+        - [ ] Creating Regex Objects
+        - [ ] Using Regex Objects
+        - [ ] Using Match Objects
+        - [ ] Using Group Objects
+    - [ ] Static Convenience Functions
+        - [ ] Regex Caching
+    - [ ] Support Functions
+    - [ ] Advanced .NET
+        - [ ] Regex Assemblies
+        - [ ] Matching Nested Constructs
+        - [ ] Capture Objects
+- [ ] 10: PHP
+    - [ ] PHP's Regex Flavor
+    - [ ] The Preg Function Interface
+        - [ ] Pattern Arguments
+    - [ ] The Preg Functions
+        - [ ] preg_match
+        - [ ] preg_match_all
+        - [ ] preg_replace
+        - [ ] preg_replace_callback
+        - [ ] preg_split
+        - [ ] preg_grep
+        - [ ] preg_quote
+    - [ ] Missing Preg Functions
+        - [ ] preg_regex_to_pattern
+        - [ ] Syntax-Checking an Unknown Pattern Argument
+        - [ ] Syntax-Checking an Unknown Regex
+    - [ ] Recursive Expressions
+        - [ ] Matching Text with Nested Parentheses
+        - [ ] No Backtracking Into Recursion
+        - [ ] Matching a Set of Nested Parentheses
+    - [ ] PHP Efficiency Issues
+        - [ ] The S Pattern Modifier: Study
+    - [ ] Extended Examples
+        - [ ] CSV Parsing with PHP
+        - [ ] Checking Tagged Data for Proper Nesting

@@ -45,3 +45,39 @@ class Adder:
 7
 """
 ```
+
+Instance, Class, and Static Methods Demystified
+---
+
+Instance methods can modify instance state, as well as class state (via
+`self.__class__` attribute).
+
+Class methods can only modify class state.
+
+Static methods can modify neither.
+
+
+### Class methods as factory methods
+
+Class methods can be used as factory methods as:
+
+```python
+class Pizza:
+    def __init__(self, ingredients):
+        self.ingredients = ingredients
+    def __repr__(self):
+        return f'Pizza({self.ingredients!r})'
+    @classmethod
+    def margherita(cls):
+        return cls(['mozzarella', 'tomatoes'])
+    @classmethod
+        def prosciutto(cls):
+    return cls(['mozzarella', 'tomatoes', 'ham'])
+```
+
+```
+>>> Pizza.margherita()
+Pizza(['mozzarella', 'tomatoes'])
+>>> Pizza.prosciutto()
+Pizza(['mozzarella', 'tomatoes', 'ham'])
+```
