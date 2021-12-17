@@ -1,6 +1,17 @@
 Computer Networking
 ===
 
+Resources
+---
+
+- [Ben Eater: Networking tutorial][1]
+
+<!-- Links -->
+[1]: https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
+
+<!-- Links end -->
+
+
 Modules
 ---
 

@@ -57,13 +57,13 @@ Checklist
     - [x] 3.5. Performance of Python Data Structures
     - [x] 3.6. Lists
     - [x] 3.7. Dictionaries
-    - [ ] 3.8. Summary
-    - [ ] 3.9. Key Terms
+    - [x] 3.8. Summary
+    - [x] 3.9. Key Terms
     - [ ] 3.10. Discussion Questions
     - [ ] 3.11. Programming Exercises
 - [ ] 4. Basic Data Structures
-    - [ ] 4.1. Objectives
-    - [ ] 4.2. What Are Linear Structures?
+    - [x] 4.1. Objectives
+    - [x] 4.2. What Are Linear Structures?
     - [ ] 4.3. What is a Stack?
     - [ ] 4.4. The Stack Abstract Data Type
     - [ ] 4.5. Implementing a Stack in Python

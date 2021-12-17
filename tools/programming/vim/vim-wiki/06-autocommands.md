@@ -39,3 +39,22 @@ It is possible to create duplicate autocommands which might slow down Vim. When 
 ```
 
 `autocmd!` clears out the group, and then Vim defines the autocommands present in the group, preventing duplicates.
+
+
+Create Toggleable Autocommands
+---
+
+```vim
+function! ToggleMarkdownRender()
+    if !exists('#MarkdownGlow#BufWritePost')
+        augroup MarkdownGlow
+            autocmd!
+            autocmd BufWritePost,BufWinEnter *.md call ft#markdown#GlowViaVimux()
+        augroup END
+    else
+        augroup MarkdownGlow
+            autocmd!
+        augroup END
+    endif
+endfunction
+```

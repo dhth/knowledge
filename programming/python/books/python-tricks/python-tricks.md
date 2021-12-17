@@ -40,7 +40,7 @@ Chapters Checklist
     - [x] Instance, Class, and Static Methods Demystified
 - [ ] Common Data Structures in Python
     - [ ] Dictionaries, Maps, and Hashtables 
-    - [ ] Array Data Structures
+    - [x] Array Data Structures
     - [ ] Records, Structs, and Data Transfer Objects 
     - [ ] Sets and Multisets
     - [ ] Stacks (LIFOs) 
