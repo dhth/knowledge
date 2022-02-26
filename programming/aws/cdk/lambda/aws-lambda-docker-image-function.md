@@ -16,7 +16,7 @@ Directory structure:
 ├── cdk_code
 │   ├── __init__.py
 │   └── lambda_service.py
-├── project
+├── projects
 │   ├── Dockerfile.dev
 │   ├── Dockerfile.prod
 │   ├── docker-compose.yml
@@ -125,7 +125,7 @@ services:
     volumes:
       - ~/.pdbrc.py:/root/.pdbrc.py
       - ~/.pdbrc:/root/.pdbrc
-      - ./project/app/:/var/task/app/
+      - ./project/app/:/var/task/
       - ./tmp/:/tmp/
     ports:
       - 9080:8080

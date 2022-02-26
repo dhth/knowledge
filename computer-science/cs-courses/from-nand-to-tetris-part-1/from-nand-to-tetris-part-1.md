@@ -4,16 +4,14 @@ From Nand To Tetris: Part 1
 Resources
 ---
 
-- [ Course](https://www.coursera.org/learn/build-a-computer/home/welcome)
+- [Course](https://www.coursera.org/learn/build-a-computer/home/welcome)
 - [Hardware Simulator Tutorial](https://b1391bd6-da3d-477d-8c01-38cdf774495a.filesusr.com/ugd/44046b_bfd91435260748439493a60a8044ade6.pdf)
 
 Modules
 ---
 
 - [[1-introduction]]
-- [Boolean Functions and Gate
 - [[2-boolean-functions-and-gate-logic]]
-- [Boolean Arithmetic and the
 - [[3-boolean-arithmetic-and-the-alu]]
 - [[4-memory]]
 

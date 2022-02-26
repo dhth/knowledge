@@ -1,6 +1,17 @@
 SQLAlchemy
 ===
 
+Resources
+---
+
+- [SQLAlchemy: Creating vs. Reusing a Session][1]
+
+<!-- Links -->
+[1]: https://stackoverflow.com/questions/12223335/sqlalchemy-creating-vs-reusing-a-session
+
+<!-- Links end -->
+
+
 Modules
 ---
 
