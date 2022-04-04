@@ -82,10 +82,10 @@ Chapters Checklist
     - [x] On the Job
 - [ ] Interview Questions
     - [ ] Data Structures
-    - [ ] Chapter 1 Arrays and Strings
+    - [x] Chapter 1 Arrays and Strings
         - [x] Hash Tables
-        - [ ] ArrayList and Resizable Arrays
-        - [ ] StringBuilder
+        - [x] ArrayList and Resizable Arrays
+        - [x] StringBuilder
     - [ ] Chapter 2 Linked Lists
         - [ ] Creating a Linked List
         - [ ] Deleting a Node from a Singly Linked List
@@ -122,12 +122,12 @@ Chapters Checklist
         - [ ] Recursive vs Iterative Solutions
         - [ ] Dynamic Programming and Memoization
     - [ ] Chapter 9 System Design and Scalability
-        - [ ] Handling the Questions
-        - [ ] Design: Step-By Step
-        - [ ] Algorithms that Scale: Step-By-Step
-        - [ ] Key Concepts
-        - [ ] Considerations
-        - [ ] There is no "perfect" system
+        - [x] Handling the Questions
+        - [x] Design: Step-By Step
+        - [x] Algorithms that Scale: Step-By-Step
+        - [x] Key Concepts
+        - [x] Considerations
+        - [x] There is no "perfect" system
         - [ ] Example Problem
     - [ ] Chapter 10 Sorting and Searching
         - [ ] Common Sorting Algorithms

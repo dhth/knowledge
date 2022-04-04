@@ -39,3 +39,9 @@ Always open window on a specific monitor
 Create 3 desktops in Mission Control (doesn't work with 2 for some reason).
 
 ![display-selection](assets/display-selection.png)
+
+
+Function keys on external keyboards
+---
+
+![mac-function-keys](assets/mac-function-keys.png)
