@@ -96,7 +96,7 @@ Chapter Checklist
     - [ ] 8.9 Tail recursion
     - [ ] 8.10 Conclusion
 - [ ] 9 Control Abstraction 
-    - [ ] 9.1 Reducing code duplication
+    - [x] 9.1 Reducing code duplication
     - [ ] 9.2 Simplifying client code
     - [ ] 9.3 Currying
     - [ ] 9.4 Writing new control structures

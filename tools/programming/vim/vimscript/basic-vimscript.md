@@ -25,3 +25,8 @@ Vim displays first because ==? is the "case-insensitive no matter what the user 
 ```
 
 Vim displays two because ==# is the "case-sensitive no matter what the user has set" comparison operator.
+
+Enter insert mode via vimscript
+---
+
+:h `startinsert`

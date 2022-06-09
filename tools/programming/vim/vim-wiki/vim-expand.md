@@ -12,6 +12,7 @@ Say the full path of the current file is:
 
 - `expand('%:t')`   = `vim-expand.md`
 - `expand('%:r')`   = `/Users/dht93/Projects/vim-expand`
+- `expand('%:p')`   = `/Users/dht93/Projects/vim-expand.md`
 - `expand('%:t:r')` = `vim-expand`
 - `expand('%:e')`   = `md`
 
