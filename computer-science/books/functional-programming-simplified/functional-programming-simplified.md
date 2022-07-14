@@ -39,23 +39,23 @@ Chapter Checklist
 - [x] 9 What is “Functional Programming”? 
 - [ ] 10 What is This Lambda You Speak Of? 
 - [x] 11 The Benefits of Functional Programming 
-- [ ] 12 Disadvantages of Functional Programming 
-- [ ] 13 The “Great FP Terminology Barrier” 
-- [ ] 14 Pure Functions
-- [ ] 15 Grandma’s Cookies (and Pure Functions) 
-- [ ] 16 Benefits of Pure Functions 
-- [ ] 17 Pure Functions and I/O 
-- [ ] 18 Pure Function Signatures Tell All 
-- [ ] 19 Functional Programming as Algebra 
-- [ ] 20 A Note About Expression-Oriented Programming 
-- [ ] 21 Functional Programming is Like Unix Pipelines 
-- [ ] 22 Functions Are Variables, Too 
-- [ ] 23 Using Methods As If They Were Functions 
-- [ ] 24 How to Write Functions That Take Functions as Input Parameters 
-- [ ] 25 How to Write a ‘map’ Function 
-- [ ] 26 How to Use By-Name Parameters 
-- [ ] 27 Functions Can Have Multiple Parameter Groups 
-- [ ] 28 Partially-Applied Functions (and Currying) 
+- [x] 12 Disadvantages of Functional Programming 
+- [x] 13 The “Great FP Terminology Barrier” 
+- [x] 14 Pure Functions
+- [x] 15 Grandma’s Cookies (and Pure Functions) 
+- [x] 16 Benefits of Pure Functions 
+- [x] 17 Pure Functions and I/O 
+- [x] 18 Pure Function Signatures Tell All 
+- [x] 19 Functional Programming as Algebra 
+- [x] 20 A Note About Expression-Oriented Programming 
+- [x] 21 Functional Programming is Like Unix Pipelines 
+- [x] 22 Functions Are Variables, Too // (Talks about Eta Expansion)
+- [x] 23 Using Methods As If They Were Functions 
+- [x] 24 How to Write Functions That Take Functions as Input Parameters 
+- [x] 25 How to Write a ‘map’ Function 
+- [x] 26 How to Use By-Name Parameters 
+- [x] 27 Functions Can Have Multiple Parameter Groups 
+- [x] 28 Partially-Applied Functions (and Currying) 
 - [ ] 29 Recursion: Introduction 
 - [ ] 30 Recursion: Motivation 
 - [ ] 31 Recursion: Let’s Look at Lists 
@@ -69,7 +69,7 @@ Chapter Checklist
 - [ ] 39 Tail-Recursive Algorithms 
 - [ ] 40 A First Look at “State” 
 - [ ] 41 A Functional Game (With a Little Bit of State) 
-- [ ] 42 A Quick Review of Case Classes 
+- [x] 42 A Quick Review of Case Classes 
 - [ ] 43 Update as You Copy, Don’t Mutate 
 - [ ] 44 A Quick Review of for Expressions 
 - [ ] 45 How to Write a Class That Can Be Used in a for Expression 
@@ -79,14 +79,14 @@ Chapter Checklist
 - [ ] 49 Enabling Filtering in a for Expression 
 - [ ] 50 How to Enable the Use of Multiple Generators in a for Expression 
 - [ ] 51 A Summary of the for Expression Lessons 
-- [ ] 52 Pure Functions Tell No Lies 
-- [ ] 53 Functional Error Handling (Option, Try, or Either) 
-- [ ] 54 Embrace The Idioms! 
+- [x] 52 Pure Functions Tell No Lies 
+- [x] 53 Functional Error Handling (Option, Try, or Either) 
+- [x] 54 Embrace The Idioms! 
 - [ ] 55 What to Think When You See That Opening Curly Brace 
-- [ ] 56 A Quick Review of How flatMap Works 
-- [ ] 57 Option Naturally Leads to flatMap 
-- [ ] 58 flatMap Naturally Leads to for 
-- [ ] 59 for Expressions are Better Than getOrElse 
+- [x] 56 A Quick Review of How flatMap Works 
+- [x] 57 Option Naturally Leads to flatMap 
+- [x] 58 flatMap Naturally Leads to for 
+- [x] 59 for Expressions are Better Than getOrElse 
 - [ ] 60 Recap: Option -> flatMap -> for 
 - [ ] 61 A Note About Things That Can Be Mapped-Over 
 - [ ] 62 A Quick Review of Companion Objects and apply 

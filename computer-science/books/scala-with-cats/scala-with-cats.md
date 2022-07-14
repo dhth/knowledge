@@ -1,0 +1,182 @@
+Scala with Cats
+===
+
+Modules
+---
+
+Chapter Checklist
+---
+
+ - [ ] 1 Introduction
+     - [x] 1.1 Anatomy of a Type Class
+     - [x] 1.1.1 The Type Class
+     - [x] 1.1.2 Type Class Instances
+     - [ ] 1.1.3 Type Class Use
+     - [ ] 1.2 Working with Implicits
+     - [ ] 1.2.1 Packaging Implicits
+     - [ ] 1.2.2 Implicit Scope
+     - [ ] 1.2.3 Recursive Implicit Resolution
+     - [ ] 1.3 Exercise: Printable Library
+     - [ ] 1.4 Meet Cats
+     - [ ] 1.4.1 Importing Type Classes
+     - [ ] 1.4.2 Importing Default Instances
+     - [ ] 1.4.3 Importing Interface Syntax
+     - [ ] 1.4.4 Importing All The Things!
+     - [ ] 1.4.5 Defining Custom Instances
+     - [ ] 1.4.6 Exercise: Cat Show
+     - [ ] 1.5 Example: Eq
+     - [ ] 1.5.1 Equality, Liberty, and Fraternity
+     - [ ] 1.5.2 Comparing Ints
+     - [ ] 1.5.3 Comparing Options
+     - [ ] 1.5.4 Comparing Custom Types
+     - [ ] 1.5.5 Exercise: Equality, Liberty, and Felinity
+     - [ ] 1.6 Controlling Instance Selection
+     - [ ] 1.6.1 Variance
+     - [ ] 1.7 Summary
+ - [ ] 2 Monoids and Semigroups
+     - [ ] 2.1 Definition of a Monoid
+     - [ ] 2.2 Definition of a Semigroup
+     - [ ] 2.3 Exercise: The Truth About Monoids
+     - [ ] 2.4 Exercise: All Set for Monoids
+     - [ ] 2.5 Monoids in Cats
+     - [ ] 2.5.1 The Monoid Type Class
+     - [ ] 2.5.2 Monoid Instances
+     - [ ] 2.5.3 Monoid Syntax
+     - [ ] 2.5.4 Exercise: Adding All The Things
+     - [ ] 2.6 Applications of Monoids
+     - [ ] 2.6.1 Big Data
+     - [ ] 2.6.2 Distributed Systems
+     - [ ] 2.6.3 Monoids in the Small
+     - [ ] 2.7 Summary
+ - [ ] 3 Functors
+     - [ ] 3.1 Examples of Functors
+     - [ ] 3.2 More Examples of Functors
+     - [ ] 3.3 Definition of a Functor
+     - [ ] 3.4 Aside: Higher Kinds and Type Constructors
+     - [ ] 3.5 Functors in Cats
+     - [ ] 3.5.1 The Functor Type Class and Instances
+     - [ ] 3.5.2 Functor Syntax
+     - [ ] 3.5.3 Instances for Custom Types
+     - [ ] 3.5.4 Exercise: Branching out with Functors
+     - [ ] 3.5.5 Contravariant Functors and the contramap Method
+     - [ ] 3.5.6 Invariant functors and the imap method
+     - [ ] 3.6 Contravariant and Invariant in Cats
+     - [ ] 3.6.1 Contravariant in Cats
+     - [ ] 3.6.2 Invariant in Cats
+     - [ ] 3.7 Aside: Partial Unification
+     - [ ] 3.7.1 Limitations of Partial Unification
+     - [ ] 3.8 Summary
+ - [ ] 4 Monads
+     - [ ] 4.1 What is a Monad?
+     - [ ] 4.1.1 Definition of a Monad
+     - [ ] 4.1.2 Exercise: Getting Func-y
+     - [ ] 4.2 Monads in Cats
+     - [ ] 4.2.1 The Monad Type Class
+     - [ ] 4.2.2 Default Instances
+     - [ ] 4.2.3 Monad Syntax
+     - [ ] 4.3 The Identity Monad
+     - [ ] 4.3.1 Exercise: Monadic Secret Identities
+     - [ ] 4.4 Either
+     - [ ] 4.4.1 Left and Right Bias
+     - [ ] 4.4.2 Creating Instances
+     - [ ] 4.4.3 Transforming Eithers
+     - [ ] 4.4.4 Error Handling
+     - [ ] 4.4.5 Exercise: What is Best?
+     - [ ] 4.5 Aside: Error Handling and MonadError
+     - [ ] 4.5.1 The MonadError Type Class
+     - [ ] 4.5.2 Raising and Handling Errors
+     - [ ] 4.5.3 Instances of MonadError
+     - [ ] 4.5.4 Exercise: Abstracting
+     - [ ] 4.6 The Eval Monad
+     - [ ] 4.6.1 Eager, Lazy, Memoized, Oh My!
+     - [ ] 4.6.2 Eval’s Models of Evaluation
+     - [ ] 4.6.3 Eval as a Monad
+     - [ ] 4.6.4 Trampolining and Eval.defer
+     - [ ] 4.6.5 Exercise: Safer Folding using Eval
+     - [ ] 4.7 The Writer Monad
+     - [ ] 4.7.1 Creating and Unpacking Writers
+     - [ ] 4.7.2 Composing and Transforming Writers
+     - [ ] 4.7.3 Exercise: Show Your Working
+     - [ ] 4.8 The Reader Monad
+     - [ ] 4.8.1 Creating and Unpacking Readers
+     - [ ] 4.8.2 Composing Readers
+     - [ ] 4.8.3 Exercise: Hacking on Readers
+     - [ ] 4.8.4 When to Use Readers?
+     - [ ] 4.9 The State Monad
+     - [ ] 4.9.1 Creating and Unpacking State
+     - [ ] 4.9.2 Composing and Transforming State
+     - [ ] 4.9.3 Exercise: Post-Order Calculator
+     - [ ] 4.10 Defining Custom Monads
+     - [ ] 4.10.1 Exercise: Branching out Further with Monads
+     - [ ] 4.11 Summary
+ - [ ] 5 Monad Transformers
+     - [ ] 5.1 Exercise: Composing Monads
+     - [ ] 5.2 A Transformative Example
+     - [ ] 5.3 Monad Transformers in Cats
+     - [ ] 5.3.1 The Monad Transformer Classes
+     - [ ] 5.3.2 Building Monad Stacks
+     - [ ] 5.3.3 Constructing and Unpacking Instances
+     - [ ] 5.3.4 Default Instances
+     - [ ] 5.3.5 Usage Patterns
+     - [ ] 5.4 Exercise: Monads: Transform and Roll Out
+     - [ ] 5.5 Summary
+ - [ ] 6 Semigroupal and Applicative
+     - [ ] 6.1 Semigroupal
+     - [ ] 6.1.1 Joining Two Contexts
+     - [ ] 6.1.2 Joining Three or More Contexts
+     - [ ] 6.1.3 Semigroupal Laws
+     - [ ] 6.2 Apply Syntax
+     - [ ] 6.2.1 Fancy Functors and Apply Syntax
+     - [ ] 6.3 Semigroupal Applied to Different Types
+     - [ ] 6.3.1 Semigroupal Applied to Monads
+     - [ ] 6.4 Parallel
+     - [ ] 6.5 Apply and Applicative
+     - [ ] 6.5.1 The Hierarchy of Sequencing Type Classes
+     - [ ] 6.6 Summary
+ - [ ] 7 Foldable and Traverse
+     - [ ] 7.1 Foldable
+     - [ ] 7.1.1 Folds and Folding
+     - [ ] 7.1.2 Exercise: Reflecting on Folds
+     - [ ] 7.1.3 Exercise: Scaf-fold-ing Other Methods
+     - [ ] 7.1.4 Foldable in Cats
+     - [ ] 7.2 Traverse
+     - [ ] 7.2.1 Traversing with Futures
+     - [ ] 7.2.2 Traversing with Applicatives
+     - [ ] 7.2.3 Traverse in Cats
+     - [ ] 7.3 Summary
+ - [ ] 8 Case Study: Testing Asynchronous Code
+     - [ ] 8.1 Abstracting over Type Constructors
+     - [ ] 8.2 Abstracting over Monads
+     - [ ] 8.3 Summary
+ - [ ] 9 Case Study: Map-Reduce
+     - [ ] 9.1 Parallelizing map and fold
+     - [ ] 9.2 Implementing foldMap
+     - [ ] 9.3 Parallelising foldMap
+     - [ ] 9.3.1 Futures, Thread Pools, and ExecutionContexts
+     - [ ] 9.3.2 Dividing Work
+     - [ ] 9.3.3 Implementing parallelFoldMap
+     - [ ] 9.3.4 parallelFoldMap with more Cats
+     - [ ] 9.4 Summary
+ - [ ] 10 Case Study: Data Validation
+     - [ ] 10.1 Sketching the Library Structure
+     - [ ] 10.2 The Check Datatype
+     - [ ] 10.3 Basic Combinators
+     - [ ] 10.4 Transforming Data
+     - [ ] 10.4.1 Predicates
+     - [ ] 10.4.2 Checks
+     - [ ] 10.4.3 Recap
+     - [ ] 10.5 Kleislis
+     - [ ] 10.6 Summary
+ - [ ] 11 Case Study: CRDTs
+     - [ ] 11.1 Eventual Consistency
+     - [ ] 11.2 The GCounter
+     - [ ] 11.2.1 Simple Counters
+     - [ ] 11.2.2 GCounters
+     - [ ] 11.2.3 Exercise: GCounter Implementation
+     - [ ] 11.3 Generalisation
+     - [ ] 11.3.1 Implementation
+     - [ ] 11.3.2 Exercise: BoundedSemiLattice Instances
+     - [ ] 11.3.3 Exercise: Generic GCounter
+     - [ ] 11.4 Abstracting GCounter to a Type Class
+     - [ ] 11.5 Abstracting a Key Value Store
+     - [ ] 11.6 Summary
