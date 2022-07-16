@@ -7,3 +7,6 @@ alfred_list.json
 node_modules
 _layouts/public
 _layouts/.cache
+
+# Local Netlify folder
+.netlify

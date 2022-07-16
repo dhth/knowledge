@@ -14,7 +14,7 @@ Resources
 Basics
 ---
 
-From [here][1]
+From [this][1] rockthejvm course lecture:
 
 ```scala
 val aFlatMappedList = List(1, 2, 3).flatMap(x => List(x, 2 * x))

@@ -46,7 +46,6 @@ Modules
 [13-command-line]: 13-command-line.md "Command Line"
 [14-performance]: 14-performance.md "Performance"
 [15-external-commands]: 15-external-commands.md "External Commands"
-[16-folds]: 16-folds.md "Folds"
 [vim-wiki-help]: vim-wiki-help.md "Vim Wiki Help"
 [vim-expand]: vim-expand.md "Vim expand"
 [vim-map-alt-key]: vim-map-alt-key.md "Vim Map Alt Key"

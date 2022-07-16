@@ -87,8 +87,8 @@ Chapter Checklist
 - [x] 57 Option Naturally Leads to flatMap 
 - [x] 58 flatMap Naturally Leads to for 
 - [x] 59 for Expressions are Better Than getOrElse 
-- [ ] 60 Recap: Option -> flatMap -> for 
-- [ ] 61 A Note About Things That Can Be Mapped-Over 
+- [x] 60 Recap: Option -> flatMap -> for 
+- [x] 61 A Note About Things That Can Be Mapped-Over 
 - [ ] 62 A Quick Review of Companion Objects and apply 
 - [ ] 63 Starting to Glue Functions Together 
 - [ ] 64 The “Bind” Concept 
