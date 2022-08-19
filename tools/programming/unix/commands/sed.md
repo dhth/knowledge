@@ -8,6 +8,11 @@ Resources
     (in-place editing) works fine on Ubuntu but not
     Mac](https://stackoverflow.com/questions/16745988/sed-command-with-i-option-in-place-editing-works-fine-on-ubuntu-but-not-mac)
 
+Inplace editing
+---
+
+Use `-i`.
+
 Print a range of lines
 ---
 
@@ -28,8 +33,14 @@ Delete lines in a file
 ---
 
 ```bash
-sed -i -e '1,3d' file.txt
+sed -i '' '1,3d' file.txt
 # deletes lines 1-3 in place
+```
+
+Delete lines that match a pattern
+---
+```bash
+sed -i '' '/somepattern/d' file.txt
 ```
 
 Remove nth line of stdin
@@ -53,3 +64,4 @@ Add closing tag to html tags
 ```bash
 find docs -name '*.md' | xargs sed -i "" '/<img/ s/>$/\/>/'
 ```
+  

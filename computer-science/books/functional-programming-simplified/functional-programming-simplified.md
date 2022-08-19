@@ -90,19 +90,19 @@ Chapter Checklist
 - [x] 60 Recap: Option -> flatMap -> for 
 - [x] 61 A Note About Things That Can Be Mapped-Over 
 - [ ] 62 A Quick Review of Companion Objects and apply 
-- [ ] 63 Starting to Glue Functions Together 
-- [ ] 64 The “Bind” Concept 
-- [ ] 65 GettingClosetoUsingbind in for Expressions 
-- [ ] 66 Using a “Wrapper” Class in a for Expression 
+- [x] 63 Starting to Glue Functions Together 
+- [x] 64 The “Bind” Concept 
+- [x] 65 Getting Close to Using bind in for Expressions 
+- [x] 66 Using a “Wrapper” Class in a for Expression 
 - [ ] 67 Making Wrapper More Generic 
 - [ ] 68 Changing “new Wrapper” to “Wrapper” 
 - [ ] 69 Using bind in a for Expression 
 - [ ] 70 How Debuggable, f, g, and h Work 
 - [ ] 71 A Generic Version of Debuggable 
-- [ ] 72 OneLastDebuggable:UsingList Instead of String 
-- [ ] 73 Key Points About Monads 
-- [ ] 74 Signpost: Where We’re Going Next 
-- [ ] 75 Introduction: The IO Monad 
+- [ ] 72 One Last Debuggable: Using List Instead of String 
+- [x] 73 Key Points About Monads 
+- [x] 74 Signpost: Where We’re Going Next 
+- [x] 75 Introduction: The IO Monad 
 - [ ] 76 How to Use an IO Monad 
 - [ ] 77 Assigning a for Expression to a Function 
 - [ ] 78 The IO Monad and a for Expression That Uses Recursion 

@@ -11,7 +11,7 @@ Chapter Checklist
      - [x] 1.1 Anatomy of a Type Class
      - [x] 1.1.1 The Type Class
      - [x] 1.1.2 Type Class Instances
-     - [ ] 1.1.3 Type Class Use
+     - [x] 1.1.3 Type Class Use
      - [ ] 1.2 Working with Implicits
      - [ ] 1.2.1 Packaging Implicits
      - [ ] 1.2.2 Implicit Scope

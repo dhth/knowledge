@@ -31,3 +31,4 @@ tell application "Google Chrome"
     get title of active tab of first window as text
 end tell
 ```
+ 
