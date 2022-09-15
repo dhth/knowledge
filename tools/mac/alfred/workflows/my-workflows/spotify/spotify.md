@@ -7,8 +7,9 @@ Resources
 - [Authorization Guide | Spotify for Developers][1]
 
 <!-- Links -->
-[1]:
-https://developer.spotify.com/documentation/general/guides/authorization-guide/
+[1]: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+
+<!-- Links end -->
 
 Setup
 ---

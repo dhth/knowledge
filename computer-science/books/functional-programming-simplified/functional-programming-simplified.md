@@ -103,14 +103,14 @@ Chapter Checklist
 - [x] 73 Key Points About Monads 
 - [x] 74 Signpost: Where We’re Going Next 
 - [x] 75 Introduction: The IO Monad 
-- [ ] 76 How to Use an IO Monad 
-- [ ] 77 Assigning a for Expression to a Function 
-- [ ] 78 The IO Monad and a for Expression That Uses Recursion 
-- [ ] 79 Diving Deeper Into the IO Monad 
-- [ ] 80 I’ll Come Back to the IO Monad 
-- [ ] 81 Functional Composition 
-- [ ] 82 An Introduction to Handling State 
-- [ ] 83 Handling State Manually 
+- [x] 76 How to Use an IO Monad 
+- [x] 77 Assigning a for Expression to a Function 
+- [x] 78 The IO Monad and a for Expression That Uses Recursion 
+- [x] 79 Diving Deeper Into the IO Monad 
+- [x] 80 I’ll Come Back to the IO Monad 
+- [x] 81 Functional Composition 
+- [x] 82 An Introduction to Handling State 
+- [x] 83 Handling State Manually 
 - [ ] 84 Getting State Working in a for Expression 
 - [ ] 85 Handling My Golfing State with a State Monad 
 - [ ] 86 The State Monad Source Code 

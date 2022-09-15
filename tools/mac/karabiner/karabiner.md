@@ -7,10 +7,12 @@ Resources
 - [Official Docs](https://karabiner-elements.pqrs.org/docs/)
 - [Karabiner Elements Tutorial Part 1][1]
 - [Karabiner Elements Tutorial  Part 2: Creating Custom Modifications][2]
+- [Karabiner CLI][3]
 
 <!-- Links -->
 [1]: https://www.youtube.com/watch?v=uaJSjgVEhMQ
 [2]: https://www.youtube.com/watch?v=PBPS2D9AKtI
+[3]: https://karabiner-elements.pqrs.org/docs/manual/misc/command-line-interface/
 
 Modules
 ---
