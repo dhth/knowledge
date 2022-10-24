@@ -18,11 +18,13 @@ Steps
 Based on [this][1] post.
 
 ```bash
+# say you want to pin tmux
 cd "$(brew --repo homebrew/core)"
 # find the commit you want to revert to either from git log or
 # on github
 
 git checkout <COMMIT_ID>
+brew unlink tmux
 HOMEBREW_NO_AUTO_UPDATE=1 brew install tmux
 
 # revert homebrew's local installation

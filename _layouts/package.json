@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "gatsby develop",
     "build": "gatsby build --prefix-paths",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "foam": "foam janitor $WIKI_DIR"
   },
   "keywords": [
     "foam"

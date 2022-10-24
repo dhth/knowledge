@@ -5,9 +5,11 @@ Resources
 ---
 
 - [jq play][1]
+- [noahgorstein/jqp: A TUI playground to experiment with jq][2]
 
 <!-- Links -->
 [1]: https://jqplay.org/
+[2]: https://github.com/noahgorstein/jqp
 
 Modules
 ---

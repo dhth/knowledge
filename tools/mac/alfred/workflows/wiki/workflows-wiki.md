@@ -1,6 +1,17 @@
 Workflows Wiki
 ===
 
+Resources
+---
+
+- [Saving environment variables via applescript][1]
+
+<!-- Links -->
+[1]: https://www.deanishe.net/post/2018/10/workflow/environment-variables-in-alfred/#saving-variables
+
+<!-- Links end -->
+
+
 Modules
 ---
 

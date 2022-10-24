@@ -1,6 +1,17 @@
 Cloudfront
 ===
 
+Resources
+---
+
+- [Controlling Cloudfront cache key][1]
+
+<!-- Links -->
+[1]: https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8d058aba088c/en-US/cache-control/cache-key-control
+
+<!-- Links end -->
+
+
 Modules
 ---
 

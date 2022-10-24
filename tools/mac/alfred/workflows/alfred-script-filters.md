@@ -82,3 +82,10 @@ Main transformation to note: `match: (.[0] | split("-") | join(" "))`
 }
 
 ```
+
+Ordering
+---
+
+By default, Alfred orders the results based on past behaviour if a UID is
+included. Don't set a UID if the script filter should show results in the order
+they are in the JSON array.

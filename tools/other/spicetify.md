@@ -19,3 +19,11 @@ spicetify config extensions keyboardShortcut.js
 spicetify config extensions fullAppDisplay.js
 ```
 
+When spotify updates
+---
+
+```bash
+spicetify upgrade
+spicetify backup apply
+```
+

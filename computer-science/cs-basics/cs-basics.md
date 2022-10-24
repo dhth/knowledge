@@ -1,6 +1,17 @@
 CS Basics
 ===
 
+Resources
+---
+
+- [The Algorithms][1]
+
+<!-- Links -->
+[1]: https://the-algorithms.com/
+
+<!-- Links end -->
+
+
 Modules
 ---
 

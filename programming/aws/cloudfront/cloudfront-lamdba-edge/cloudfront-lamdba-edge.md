@@ -10,6 +10,7 @@ Resources
 - [Programming your CDN: CloudFront and Lambda@Edge][4]
 - [Guide to AWS Lambda@Edge A/B Testing][5]
 - [Controlling the cache key][6]
+- [Lambda@Edge event structure][7]
 
 <!-- Links -->
 [1]: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-examples.html
@@ -18,6 +19,7 @@ Resources
 [4]: https://blog.cloudcraft.co/programming-your-cdn/
 [5]: https://www.toptal.com/aws/ab-testing-with-aws-lambda-at-edge
 [6]: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/controlling-the-cache-key.html
+[7]: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-event-structure.html
 
 <!-- Links end -->
 

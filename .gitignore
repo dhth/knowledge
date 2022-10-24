@@ -7,6 +7,7 @@ alfred_list.json
 node_modules
 _layouts/public
 _layouts/.cache
+_layouts/yarn-error.log
 
 # Local Netlify folder
 .netlify
