@@ -6,10 +6,12 @@ Resources
 
 - [Controlling Cloudfront cache key][1]
 - [Cloudfront HTTP 502 status code (Bad Gateway)][2]
+- [CDK docs for Cloudfront][3]
 
 <!-- Links -->
 [1]: https://catalog.us-east-1.prod.workshops.aws/workshops/4557215e-2a5c-4522-a69b-8d058aba088c/en-US/cache-control/cache-key-control
 [2]: https://docs.amazonaws.cn/en_us/AmazonCloudFront/latest/DeveloperGuide/http-502-bad-gateway.html
+[3]: https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_cloudfront/README.html
 
 <!-- Links end -->
 

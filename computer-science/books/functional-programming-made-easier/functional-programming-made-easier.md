@@ -62,8 +62,8 @@ Chapter Checklist
         - [x] 2.3. Higher-order Functions
         - [x] 2.4. Composition
             - [x] 2.4.1. Point-free Notation
-        - [ ] 2.5. Currying
-            - [ ] 2.5.1. Partial Application
+        - [x] 2.5. Currying
+            - [x] 2.5.1. Partial Application
     - [ ] 3. The Basics of PureScript
         - [ ] 3.1. Types
             - [ ] 3.1.1. Javascript Primitives
