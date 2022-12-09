@@ -22,6 +22,7 @@ Resources
 - [Shortcat: Universal command palette for your Mac][3]
 - [dbalatero/VimMode.spoon: Adds vim keybindings to all OS X inputs][4]
 - [dexterleng/vimac: Productive macOS keyboard-driven navigation][5]
+- [awesome-macos-command-line - Use your macOS terminal shell to do awesome things][6]
 
 <!-- Links -->
 [1]: https://github.com/koekeishiya/yabai
@@ -29,6 +30,7 @@ Resources
 [3]: https://shortcat.app/
 [4]: https://github.com/dbalatero/VimMode.spoon
 [5]: https://github.com/dexterleng/vimac/
+[6]: https://git.herrbischoff.com/awesome-macos-command-line/about/
 
 <!-- Links end -->
 
