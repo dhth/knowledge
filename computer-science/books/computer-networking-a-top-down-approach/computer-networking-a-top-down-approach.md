@@ -18,17 +18,17 @@ Resources
 <!-- Links end -->
 
 
-Mentioned in [[teach-yourself-computer-science]] 
+Mentioned in [[teach-yourself-computer-science]]
 
 
 Chapter Checklist
 ---
 
 - [ ] Chapter 1 Computer Networks and the Internet
-    - [ ] 1.1 What Is the Internet?
-        - [ ] 1.1.1 A Nuts-and-Bolts Description
-        - [ ] 1.1.2 A Services Description
-        - [ ] 1.1.3 What Is a Protocol?
+    - [x] 1.1 What Is the Internet?
+        - [x] 1.1.1 A Nuts-and-Bolts Description
+        - [x] 1.1.2 A Services Description
+        - [x] 1.1.3 What Is a Protocol?
     - [ ] 1.2 The Network Edge
         - [ ] 1.2.1 Access Networks
         - [ ] 1.2.2 Physical Media

@@ -1,6 +1,17 @@
 Python
 ===
 
+Resources
+---
+
+- [Boring Python: code quality][1]
+
+<!-- Links -->
+[1]: https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/
+
+<!-- Links end -->
+
+
 Modules
 ---
 - [[python-resources]]

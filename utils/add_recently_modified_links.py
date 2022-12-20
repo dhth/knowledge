@@ -42,14 +42,15 @@ def get_staged_files_md_links(staged_files):
     for f in staged_files:
         if len(f) > 0:
             f_name = f.strip()
-            if f_name == "docs/index.md":
+            if f_name == "wiki.md":
                 continue
             if f_name.endswith(".md"):
                 # if not f_name.endswith("index.md"):
-                md_file_link = f_name.split("docs/")[1]
+                md_file_link = f_name
+                md_file_name = f_name.split("/")[-1].split(".md")[0]
                 md_file_title = md_file_link.split(".md")[0]
                 md_file_title_trimmed = trim_title(md_file_title)
-                md_line = f"- [:fontawesome-solid-file-alt: {md_file_title_trimmed}]({md_file_link})"
+                md_line = f"- [[{md_file_name}]]"
                 md_links.append(md_line)
     return md_links
 
@@ -83,10 +84,10 @@ if __name__ == "__main__":
     updated_links = get_staged_files_md_links(staged_files)
     insert_updated_links(
         updated_links,
-        "docs/index.md",
+        "wiki.md",
         begin_marker="RECENTLYMODIFIEDBEGIN",
         end_marker="RECENTLYMODIFIEDEND",
     )
     print("Added links.")
-    stage_file("docs/index.md")
-    print("Staged index file.")
+    # stage_file("wiki.md")
+    # print("Staged index file.")

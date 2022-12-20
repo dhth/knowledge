@@ -6,3 +6,8 @@ repos:
         entry: bash -c "foam janitor $WIKI_DIR"
         language: system
         files: ^.*.md$
+    -   id: add_recently_modified_links
+        name: add_recently_modified_links
+        entry: python -m utils.add_recently_modified_links
+        language: system
+        files: ^.*.md$
