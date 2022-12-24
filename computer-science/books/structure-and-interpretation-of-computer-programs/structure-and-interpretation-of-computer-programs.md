@@ -17,9 +17,9 @@ Chapter Checklist
 
 - [ ] 1 Building Abstractions with Procedures
     - [ ] 1.1 The Elements of Programming
-        - [ ] 1.1.1 Expressions
-        - [ ] 1.1.2 Naming and the Environment
-        - [ ] 1.1.3 Evaluating Combinations
+        - [x] 1.1.1 Expressions
+        - [x] 1.1.2 Naming and the Environment
+        - [x] 1.1.3 Evaluating Combinations
         - [ ] 1.1.4 Compound Procedures
         - [ ] 1.1.5 The Substitution Model for Procedure Application
         - [ ] 1.1.6 Conditional Expressions and Predicates
