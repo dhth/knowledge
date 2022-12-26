@@ -5,9 +5,11 @@ Resources
 ---
 
 - [interviewing.io][1]
+- [Finding Great Developers – Joel on Software][2]
 
 <!-- Links -->
 [1]: https://interviewing.io/
+[2]: https://www.joelonsoftware.com/2006/09/06/finding-great-developers-2/
 
 <!-- Links end -->
 

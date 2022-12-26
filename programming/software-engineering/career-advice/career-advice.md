@@ -11,6 +11,10 @@ Resources
 
 <!-- Links end -->
 
+From [here][1]:
+
+> Work to live, don’t live to work.
+
 
 Modules
 ---

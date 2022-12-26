@@ -1,0 +1,26 @@
+Discover the Hidden History of York
+===
+
+Resources
+---
+
+- [Discover the Hidden History of York][1]
+- [York Archbishops' Registers][2]
+- [York Archbishops' Registers Entry for Joan of Leeds][3]
+
+<!-- Links -->
+[1]: https://www.futurelearn.com/courses/discover-the-hidden-history-of-york
+[2]: https://archbishopsregisters.york.ac.uk/home_page/index
+[3]: https://archbishopsregisters.york.ac.uk/searches/show?entry_id=hd76s2628&folio_id=9s1617195&folio_title=Register+9A+f.326+%28verso%29+entry+2&page=1&search_term=York%2C+St+Clement+Priory%2C+Benedictine
+
+<!-- Links end -->
+
+Joan of Leeds
+---
+
+York Archbishops' Registers' entry for Joan of Leeds can be found [here][3].
+
+Immigration in Late Medieval York
+---
+
+In the fifteenth century, about 1.6 % of York's population was born abroad.
