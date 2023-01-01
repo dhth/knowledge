@@ -42,7 +42,7 @@ def get_staged_files_md_links(staged_files):
     for f in staged_files:
         if len(f) > 0:
             f_name = f.strip()
-            if f_name == "wiki.md":
+            if f_name in ["wiki.md", "on-my-mind.md"]:
                 continue
             if f_name.endswith(".md"):
                 # if not f_name.endswith("index.md"):
