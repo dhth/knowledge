@@ -14,7 +14,7 @@ def insert_updated_links(updated_links, file_name, begin_marker, end_marker, lim
     existing_links_list = existing_links_str.split("\n")
     existing_links = []
     for link_str in existing_links_list:
-        if "](" in link_str:
+        if "[[" in link_str:
             existing_links.append(link_str)
 
     for existing_link in existing_links:
