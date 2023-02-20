@@ -1,0 +1,206 @@
+The C Programming Language
+Chapter Checklist
+---
+
+- [x] Preface
+- [x] Preface to the first edition
+- [x] Introduction
+- [ ] Chapter 1 - A Tutorial Introduction
+    - [x] 1.1 Getting Started
+    - [ ] 1.2 Variables and Arithmetic Expressions
+    - [ ] 1.3 The for statement
+    - [ ] 1.4 Symbolic Constants
+    - [ ] 1.5 Character Input and Output
+        - [ ] 1.5.1 File Copying
+        - [ ] 1.5.2 Character Counting 
+        - [ ] 1.5.3 Line Counting
+        - [ ] 1.5.4 Word Counting
+    - [ ] 1.6 Arrays
+    - [ ] 1.7 Functions
+    - [ ] 1.8 Arguments - Call by Value
+    - [ ] 1.9 Character Arrays
+    - [ ] 1.10 External Variables and Scope
+- [ ] Chapter 2 - Types, Operators and Expressions
+    - [ ] 2.1 Variable Names
+    - [ ] 2.2 Data Types and Sizes
+    - [ ] 2.3 Constants
+    - [ ] 2.4 Declarations
+    - [ ] 2.5 Arithmetic Operators
+    - [ ] 2.6 Relational and Logical Operators
+    - [ ] 2.7 Type Conversions
+    - [ ] 2.8 Increment and Decrement Operators
+    - [ ] 2.9 Bitwise Operators
+    - [ ] 2.10 Assignment Operators and Expressions
+    - [ ] 2.11 Conditional Expressions
+    - [ ] 2.12 Precedence and Order of Evaluation
+- [ ] Chapter 3 - Control Flow
+    - [ ] 3.1 Statements and Blocks
+    - [ ] 3.2 If-Else
+    - [ ] 3.3 Else-If
+    - [ ] 3.4 Switch
+    - [ ] 3.5 Loops - While and For
+    - [ ] 3.6 Loops - Do-While
+    - [ ] 3.7 Break and Continue 
+    - [ ] 3.8 Got and labels
+- [ ] Chapter 4 - Functions and Program Structure
+    - [ ] 4.1 Basics of Functions
+    - [ ] 4.2 Functions Returning Non-integers
+    - [ ] 4.3 External Variables
+    - [ ] 4.4 Scope Rules 
+    - [ ] 4.5 Header Files
+    - [ ] 4.6 Static Variables
+    - [ ] 4.7 Register Variables
+    - [ ] 4.8 Block Structure
+- [ ] 49 Initialization 
+    - [ ] 4.10 Recursion
+    - [ ] 4.11 The C Preprocessor
+- [ ] 4.11.1 File Inclusion
+- [ ] 4.11.2 Macro Substitution
+- [ ] 4.11.3 Conditional Inclusion
+- [ ] Chapter 5 - Pointers and Arrays
+    - [ ] 5.1 Pointers and Addresses
+    - [ ] 5.2 Pointers and Function Arguments
+    - [ ] 5.3 Pointers and Arrays 
+    - [ ] 5.4 Address Arithmetic
+    - [ ] 5.5 Character Pointers and Functions
+    - [ ] 5.6 Pointer Arrays; Pointers to Pointers
+    - [ ] 5.7 Multi-dimensional Arrays
+    - [ ] 5.8 Initialization of Pointer Arrays
+    - [ ] 5.9 Pointers vs. Multi-dimensional Arrays
+    - [ ] 5.10 Command-line Arguments
+    - [ ] 5.11 Pointers to Functions
+    - [ ] 5.12 Complicated Declarations
+- [ ] Chapter 6 - Structures
+    - [ ] 6.1 Basics of Structures
+    - [ ] 6.2 Structures and Functions,
+    - [ ] 6.3 Arrays of Structures 
+    - [ ] 6.4 Pointers to Structures
+    - [ ] 6.5 Self-referential Structures
+    - [ ] 6.6 Table Lookup
+    - [ ] 6.7 Typedef
+    - [ ] 6.8 Unions 
+    - [ ] 6.9 Bit-fields
+- [ ] Chapter 7 - Input and Output
+    - [ ] 7.1 Standard Input and Output
+    - [ ] 7.2 Formatted Output - printf
+    - [ ] 7.3 Variable-length Argument Lists
+    - [ ] 7.4 Formatted Input - Scanf
+    - [ ] 7.5 File Access 
+    - [ ] 7.6 Error Handling - Stderr and Ex
+    - [ ] 7.7 Line Input and Output 
+    - [ ] 7.8 Miscellaneous Functions 
+        - [ ] 7.8.1 String Operations
+        - [ ] 7.8.2 Character Class Testing and Conversior
+        - [ ] 7.8.3 Ungetc
+        - [ ] 7.8.4 Command Execution
+        - [ ] 7.8.5 Storage Management
+        - [ ] 7.8.6 Mathematical Functions
+        - [ ] 7.8.7 Random Number generation
+- [ ] Chapter 8 - The UNIX System Interface
+    - [ ] 8.1 File Descriptors
+    - [ ] 8.2 Low Level I/O - Read and Write
+    - [ ] 8.3 Open, Creat, Close, Unlink
+    - [ ] 8.4 Random Access - Lseek
+    - [ ] 8.5 Example - An implementation of Fopen and Getc
+    - [ ] 8.6 Example - Listing Directories
+    - [ ] 8.7 Example - A Storage Allocator
+- [ ] Appendix A - Reference Manual
+    - [ ] A.1 Introduction
+    - [ ] A.2 Lexical Conventions
+        - [ ] A.2.1 Tokens
+        - [ ] A.2.2 Comments
+        - [ ] A.2.3 Identifiers
+        - [ ] A.2.4 Keywords
+        - [ ] A.2.5 Constants
+        - [ ] A.2.6 String Literals 
+    - [ ] A.3 Syntax Notation
+    - [ ] A.4 Meaning of Identifiers
+        - [ ] A.4.1 Storage Class
+        - [ ] A.4.2 Basic Types
+        - [ ] A.4.3 Derived types
+        - [ ] A.4.4 Type Qualifiers
+    - [ ] A.5 Objects and Lvalues
+    - [ ] A.6 Conversions
+        - [ ] A.6.1 Integral Promotion
+        - [ ] A.6.2 Integral Conversions
+        - [ ] A.6.3 Integer and Floating
+        - [ ] A.6.4 Floating Types
+        - [ ] A.6.5 Arithmetic Conversions
+        - [ ] A.6.6 Pointers and Integers
+        - [ ] A.6.7 Void
+        - [ ] A.6.8 Pointers to Void
+    - [ ] A.7 Expressions
+        - [ ] A.7.1 Pointer Conversion
+        - [ ] A.7.2 Primary Expressions
+        - [ ] A.7.3 Postfix Expressions
+        - [ ] A.7.4 Unary Operators 
+        - [ ] A.7.5 Casts
+        - [ ] A.7.6 Multiplicative Operators
+        - [ ] A.7.7 Additive Operators 
+        - [ ] A.7.8 Shift Operators
+        - [ ] A.7.9 Relational Operators
+        - [ ] A.7.10 Equality Operators
+        - [ ] A.7.11 Bitwise AND Operator
+        - [ ] A.7.12 Bitwise Exclusive OR Operator
+        - [ ] A.7.13 Bitwise Inclusive OR Operator
+        - [ ] A.7.14 Logical AND Operator
+        - [ ] A.7.15 Logical OR Operator
+        - [ ] A.7.16 Conditional Operator
+        - [ ] A.7.17 Assignment Expressions
+        - [ ] A.7.18 Comma Operator
+        - [ ] A.7.19 Constant Expressions
+    - [ ] A.8 Declarations
+        - [ ] A.8.1 Storage Class Specifiers
+        - [ ] A.8.2 Type Specifiers
+        - [ ] A.8.3 Structure and Union Declarations
+        - [ ] A.8.4 Enumerations
+        - [ ] A.8.5 Declarators
+        - [ ] A.8.6 Meaning of Declarators
+        - [ ] A.8.7 Initialization
+        - [ ] A.8.8 Type names
+        - [ ] A.8.9 Typedef
+        - [ ] A.8.10 Type Equivalence
+    - [ ] A.9 Statements
+        - [ ] A.9.1 Labeled Statements
+        - [ ] A.9.2 Expression Statement
+        - [ ] A.9.3 Compound Statement
+        - [ ] A.9.4 Selection Statements
+        - [ ] A.9.5 Iteration Statements
+        - [ ] A.9.6 Jump statements 
+    - [ ] A.10 External Declarations
+        - [ ] A.10.1 Function Definitions
+        - [ ] A.10.2 External Declarations
+    - [ ] A.11 Scope and Linkage 
+        - [ ] A.11.1 Lexical Scope
+        - [ ] A.11.2 Linkage
+    - [ ] A.12 Preprocessing
+        - [ ] A.12.1 Trigraph Sequences
+        - [ ] A.12.2 Line Splicing
+        - [ ] A.12.3 Macro Definition and Expansion
+        - [ ] A.12.4 File Inclusion
+        - [ ] A.12.5 Conditional Compilation
+        - [ ] A.12.6 Line Control
+        - [ ] A.12.7 Error Generation
+        - [ ] A.12.8 Pragmas
+        - [ ] A.12.9 Null directive
+        - [ ] A.12.10 Predefined names
+    - [ ] A.13 Grammar
+- [ ] Appendix B - Standard Library
+    - [ ] B.1 Input and Output: <stdio.h
+        - [ ] B.1.1 File Operations 
+        - [ ] B.1.2 Formatted Output
+        - [ ] B.1.3 Formatted Input
+        - [ ] B.1.4 Character Input and Output Functions
+        - [ ] B.1.5 Direct Input and Output Functions
+        - [ ] B.1.6 File Positioning Functions
+        - [ ] B.1.7 Error Functions
+    - [ ] B.2 Character Class Tests: <ctype.h>
+    - [ ] B.3 String Functions: <string.h>
+    - [ ] B.4 Mathematical Functions: <math.h>
+    - [ ] B.5 Utility Functions: <stdlib.h>
+    - [ ] B.6 Diagnostics: <assert.h>
+    - [ ] B.7 Variable Argument Lists: <stdarg.h>
+    - [ ] B.8 Non-local Jumps: <setjmp.h>
+    - [ ] B.9 Signals: <signal.h>
+    - [ ] B.10 Date and Time Functions: <time.h>
+    - [ ] B.11 Implementation-defined Limits: <limits.h> and <float.h>
