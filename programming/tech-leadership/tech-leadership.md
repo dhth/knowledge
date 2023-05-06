@@ -5,9 +5,15 @@ Resources
 ---
 
 - [Tech Lead Compass | How to become a successful Tech Lead][1]
+- [How Engineering Managers Fail][2]
+- [Maker vs Multiplier][3]
+- [What you give up when moving into engineering management - Stack Overflow Blog][4]
 
 <!-- Links -->
 [1]: https://techleadcompass.com/
+[2]: https://www.patkua.com/blog/how-engineering-managers-fail/
+[3]: https://www.patkua.com/blog/maker-vs-multiplier/
+[4]: https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/
 
 <!-- Links end -->
 

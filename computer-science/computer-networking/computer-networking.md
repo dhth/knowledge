@@ -6,10 +6,12 @@ Resources
 
 - [Ben Eater: Networking tutorial][1]
 - [The HTTP crash course nobody asked for][2]
+- [An Introduction to Computer Networks][3]
 
 <!-- Links -->
 [1]: https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
 [2]: https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
+[3]: https://intronetworks.cs.luc.edu/
 
 <!-- Links end -->
 

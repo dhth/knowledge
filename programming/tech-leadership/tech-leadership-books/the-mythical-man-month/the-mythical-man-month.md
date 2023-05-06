@@ -17,7 +17,15 @@ Chapter Checklist
     - [x] The Woes of the Craft
 - [ ] 2 The Mythical Man-Month
 - [ ] 3 The Surgical Team
+    - [x] The Problem
+    - [x] Mill's Proposal
+    - [x] How it works
+    - [x] Scaling up
 - [ ] 4 Aristocracy, Democracy, and System Design
+    - [x] Conceptual Integrity
+    - [x] Achieving Conceptual Integrity
+    - [x] Aristocracy and Democracy 
+    - [x] What does the implementer do while waiting?
 - [ ] 5 The Second-System Effect
 - [ ] 6 Passing the Word
 - [ ] 7 Why Did the Tower of Babel Fail?
