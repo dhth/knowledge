@@ -1,6 +1,17 @@
 Tabs
 ===
 
+Resources
+---
+
+- [Vim tip 21: working with tabs][1]
+
+<!-- Links -->
+[1]: https://learnbyexample.github.io/tips/vim-tip-21/
+
+<!-- Links end -->
+
+
 Close other tabs
 ---
 
