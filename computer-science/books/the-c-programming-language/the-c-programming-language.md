@@ -188,7 +188,7 @@ Chapter Checklist
         - [ ] A.12.10 Predefined names
     - [ ] A.13 Grammar
 - [ ] Appendix B - Standard Library
-    - [ ] B.1 Input and Output: <stdio.h
+    - [ ] B.1 Input and Output: `<stdio.h>`
         - [ ] B.1.1 File Operations 
         - [ ] B.1.2 Formatted Output
         - [ ] B.1.3 Formatted Input
@@ -196,13 +196,13 @@ Chapter Checklist
         - [ ] B.1.5 Direct Input and Output Functions
         - [ ] B.1.6 File Positioning Functions
         - [ ] B.1.7 Error Functions
-    - [ ] B.2 Character Class Tests: <ctype.h>
-    - [ ] B.3 String Functions: <string.h>
-    - [ ] B.4 Mathematical Functions: <math.h>
-    - [ ] B.5 Utility Functions: <stdlib.h>
-    - [ ] B.6 Diagnostics: <assert.h>
-    - [ ] B.7 Variable Argument Lists: <stdarg.h>
-    - [ ] B.8 Non-local Jumps: <setjmp.h>
-    - [ ] B.9 Signals: <signal.h>
-    - [ ] B.10 Date and Time Functions: <time.h>
-    - [ ] B.11 Implementation-defined Limits: <limits.h> and <float.h>
+    - [ ] B.2 Character Class Tests: `<ctype.h>`
+    - [ ] B.3 String Functions: `<string.h>`
+    - [ ] B.4 Mathematical Functions: `<math.h>`
+    - [ ] B.5 Utility Functions: `<stdlib.h>`
+    - [ ] B.6 Diagnostics: `<assert.h>`
+    - [ ] B.7 Variable Argument Lists: `<stdarg.h>`
+    - [ ] B.8 Non-local Jumps: `<setjmp.h>`
+    - [ ] B.9 Signals: `<signal.h>`
+    - [ ] B.10 Date and Time Functions: `<time.h>`
+    - [ ] B.11 Implementation-defined Limits: `<limits.h>` and `<float.h>`

@@ -41,7 +41,7 @@ All 4 collectively form the Compilation System.
 Preprocessing phase
 ---
 The preprocessor (cpp) modifies the original C program according to directives
-that begin with the # character. For example, the #include <stdio.h> command in
+that begin with the # character. For example, the #include `<stdio.h>` command in
 line 1 of hello.c tells the preprocessor to read the contents of the system
 header file stdio.h and insert it directly into the program text. The result is
 another C program, typically with the .i suffix.
