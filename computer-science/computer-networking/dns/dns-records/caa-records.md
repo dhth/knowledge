@@ -5,9 +5,11 @@ Resources
 ---
 
 - [DNS CAA record tester][1]
+- [Configure a CAA record - AWS Certificate Manager][2]
 
 <!-- Links -->
 [1]: https://caatest.co.uk/
+[2]: https://docs.aws.amazon.com/acm/latest/userguide/setup-caa.html
 
 <!-- Links end -->
 
