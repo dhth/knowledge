@@ -1,7 +1,7 @@
 [build]
   base = "_layouts/"
   publish = "public/"
-  command = "npm run build"
+  command = "yarn build"
   ignore = "/bin/false"
 [build.environment]
   YARN_VERSION = "1.22.17"
