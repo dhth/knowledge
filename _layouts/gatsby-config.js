@@ -5,6 +5,9 @@ const PATH_PREFIX = process.env.PATH_PREFIX
 module.exports = {
   // pathPrefix: PATH_PREFIX || `/foam-template-gatsby-kb`, // a. If you are using github pages, this should be the name of your repo
   pathPrefix: PATH_PREFIX || `/`, // b. If you are using Netlify/Vercel, your can keep it this way
+  // flags: {
+  //   FAST_DEV: true,
+  // },
   siteMetadata: {
     // some SEO configs using by gatsby-theme-kb
     title: `dhruv's wiki`, // Replace it with your site's title
@@ -15,14 +18,15 @@ module.exports = {
     {
       resolve: `gatsby-theme-kb`,
       options: {
-        rootNote: '/wiki',
-        contentPath: `${__dirname}/..`,
+        rootNote: '/index',
+        contentPath: `${__dirname}/../docs`,
         ignore: [
           '**/_layouts/**',
           '**/.git/**',
           '**/.github/**',
           '**/.vscode/**',
           '**/.cache/**',
+          '**/.foam/templates/**'
         ],
         // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
         getPluginMdx(defaultPluginMdx) {

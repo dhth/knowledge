@@ -39,6 +39,7 @@ sed -i '' '1,3d' file.txt
 
 Delete lines that match a pattern
 ---
+
 ```bash
 sed -i '' '/somepattern/d' file.txt
 ```
@@ -63,5 +64,15 @@ Add closing tag to html tags
 
 ```bash
 find docs -name '*.md' | xargs sed -i "" '/<img/ s/>$/\/>/'
+```
+  
+
+Add a character in the beginning of a line
+---
+
+Say I want to add `# ` in the begining of the first line.
+
+```bash
+find docs -name '*.md' | xargs sed -i "" '1s/^/# /'
 ```
   

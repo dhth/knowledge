@@ -1,8 +1,0 @@
-Bash
-===
-
-Modules
----
-
-- [[basics]]
-

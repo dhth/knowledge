@@ -39,3 +39,5 @@ Then, in the work repo, make the following change in the `.git/config` file:
 [remote "origin"]
 	url = git@github-work:<username>/<repo>.git
 ```
+
+And, while cloning, use `git@github-work:<username>/<repo>.git` as well.

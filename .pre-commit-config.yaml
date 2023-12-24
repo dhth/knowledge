@@ -3,7 +3,7 @@ repos:
     hooks:
     -   id: run_foam_janitor
         name: run_foam_janitor
-        entry: bash -c "foam janitor $WIKI_DIR"
+        entry: bash -c "foam janitor $WIKI_DIR/docs"
         language: system
         files: ^.*.md$
     -   id: add_recently_modified_links

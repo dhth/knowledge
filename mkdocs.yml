@@ -1,0 +1,59 @@
+site_name: dhruv's wiki
+theme:
+  font:
+    text: Merriweather
+  icon:
+    logo: material/code-array
+    tag:
+      aws: material/aws
+      event-driven-systems: material/message-processing
+      git: material/git
+      cicd: octicons/git-commit-16
+      product-feature: fontawesome/solid/user-plus
+      team-workflows: octicons/workflow-16
+      developer-productivity: material/image-filter-center-focus
+  favicon: assets/images/favicon.png
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: green
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.path
+    - navigation.indexes
+    - navigation.sections
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - tables
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+plugins:
+  - search
+  - roamlinks
+extra_css:
+  - assets/stylesheets/extra.css
