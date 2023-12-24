@@ -5,9 +5,9 @@ const PATH_PREFIX = process.env.PATH_PREFIX
 module.exports = {
   // pathPrefix: PATH_PREFIX || `/foam-template-gatsby-kb`, // a. If you are using github pages, this should be the name of your repo
   pathPrefix: PATH_PREFIX || `/`, // b. If you are using Netlify/Vercel, your can keep it this way
-  // flags: {
-  //   FAST_DEV: true,
-  // },
+  flags: {
+    PARALLEL_QUERY_RUNNING: false
+  },
   siteMetadata: {
     // some SEO configs using by gatsby-theme-kb
     title: `dhruv's wiki`, // Replace it with your site's title
