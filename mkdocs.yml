@@ -38,6 +38,7 @@ theme:
     - navigation.path
     - navigation.indexes
     - navigation.sections
+    - navigation.prune
 markdown_extensions:
   - toc:
       permalink: true
