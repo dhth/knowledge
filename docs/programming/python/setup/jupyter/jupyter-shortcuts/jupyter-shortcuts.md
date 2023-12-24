@@ -1,5 +1,4 @@
-Jupyter Shortcuts
-===
+# Jupyter Shortcuts
 
 Resources
 ---

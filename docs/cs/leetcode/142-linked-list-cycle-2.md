@@ -1,5 +1,4 @@
-142: Linked List Cycle 2
-===
+# 142: Linked List Cycle 2
 
 Cleverly builds upon the problem of simply detecting if a loop exists or not.
 

@@ -1,5 +1,4 @@
-Heaps and Primary Queues
-===
+# Heaps and Primary Queues
 
 Resources
 ---

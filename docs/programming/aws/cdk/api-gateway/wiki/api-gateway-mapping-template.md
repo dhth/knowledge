@@ -1,5 +1,4 @@
-API Gateway Mapping Template
-===
+# API Gateway Mapping Template
 
 Resources
 ---

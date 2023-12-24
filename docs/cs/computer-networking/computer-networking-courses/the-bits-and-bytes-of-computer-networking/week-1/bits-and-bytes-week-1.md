@@ -1,5 +1,4 @@
-Bits and Bytes Week 1
-===
+# Bits and Bytes Week 1
 
 Modules
 ---

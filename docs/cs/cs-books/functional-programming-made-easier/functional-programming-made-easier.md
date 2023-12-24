@@ -1,5 +1,4 @@
-Functional Programming Made Easier
-===
+# Functional Programming Made Easier
 
 Modules
 ---

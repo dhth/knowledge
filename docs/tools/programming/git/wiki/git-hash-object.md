@@ -1,5 +1,4 @@
-Git hash-object
-===
+# Git hash-object
 
 Resources
 ---

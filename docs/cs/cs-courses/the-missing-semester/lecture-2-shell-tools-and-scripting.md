@@ -1,5 +1,4 @@
-Lecture 2: Shell Tools and Scripting
-===
+# Lecture 2: Shell Tools and Scripting
 
 Notes
 ---

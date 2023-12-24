@@ -1,5 +1,4 @@
-The Computer Science Book
-===
+# The Computer Science Book
 
 Resources
 ---

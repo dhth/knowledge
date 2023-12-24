@@ -1,5 +1,4 @@
-Git Push
-===
+# Git Push
 
 Git push default behaviour
 ---

@@ -1,5 +1,4 @@
-Packaging
-===
+# Packaging
 
 - [Packaging Python Projects - Python Packaging User Guide](https://packaging.python.org/tutorials/packaging-projects/)
 - [Python Packaging Docs](https://python-packaging.readthedocs.io/en/latest/minimal.html)

@@ -1,5 +1,4 @@
-Tech Leadership
-===
+# Tech Leadership
 
 Resources
 ---

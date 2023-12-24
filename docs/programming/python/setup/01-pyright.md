@@ -1,5 +1,4 @@
-Pyright
-===
+# Pyright
 
 Resources
 ---

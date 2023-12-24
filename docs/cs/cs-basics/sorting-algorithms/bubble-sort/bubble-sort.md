@@ -1,5 +1,4 @@
-Bubble Sort
-===
+# Bubble Sort
 
 Time Complexity
 ---

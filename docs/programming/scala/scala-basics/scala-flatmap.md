@@ -1,5 +1,4 @@
-Scala FlatMap
-===
+# Scala FlatMap
 
 Resources
 ---

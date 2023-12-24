@@ -1,5 +1,4 @@
-Spotify
-===
+# Spotify
 
 Resources
 ---

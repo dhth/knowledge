@@ -1,5 +1,4 @@
-QuickFix
-===
+# QuickFix
 
 Open quickfix file in new tab
 ---

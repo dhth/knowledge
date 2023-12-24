@@ -1,5 +1,4 @@
-Awesome Vim
-===
+# Awesome Vim
 
 Resources
 ---

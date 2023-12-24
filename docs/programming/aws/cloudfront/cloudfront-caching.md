@@ -1,5 +1,4 @@
-Cloudfront Caching
-===
+# Cloudfront Caching
 
 Resources
 ---

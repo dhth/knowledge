@@ -1,5 +1,4 @@
-Discover the Hidden History of York
-===
+# Discover the Hidden History of York
 
 #currently-active
 

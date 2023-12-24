@@ -1,5 +1,4 @@
-The Civil War and Reconstruction 1850-1861
-===
+# The Civil War and Reconstruction 1850-1861
 
 Resources
 ---

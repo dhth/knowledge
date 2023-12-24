@@ -1,5 +1,4 @@
-jq Filter based on condition
-===
+# jq Filter based on condition
 
 Say you need to filter items in an array based on some condition. For example,
 `https://api.github.com/repos/user/repo/pulls` might return (response shortened

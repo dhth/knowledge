@@ -1,5 +1,4 @@
-2.7: Properties of Logarithms
-===
+# 2.7: Properties of Logarithms
 
 Two implications of these properties of logarithms are important to appreciate
 from an algorithmic perspective:

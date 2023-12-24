@@ -1,5 +1,4 @@
-coc.nvim
-===
+# coc.nvim
 
 Resources
 ---

@@ -1,5 +1,4 @@
-CS 3110 Data Structures and Functional Programming
-===
+# CS 3110 Data Structures and Functional Programming
 
 Resources
 ---

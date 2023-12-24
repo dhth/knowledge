@@ -1,5 +1,4 @@
-Life Hacking
-===
+# Life Hacking
 
 Modules
 ---

@@ -1,5 +1,4 @@
-Pomodoro
-===
+# Pomodoro
 
 Run a pomodoro in Alfred. Inspired by [Pomodoro Timer with Slack and Alfred | by
 Jan-Hendrik

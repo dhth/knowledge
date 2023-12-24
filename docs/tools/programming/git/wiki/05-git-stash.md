@@ -1,5 +1,4 @@
-Git Stash
-===
+# Git Stash
 
 Commands
 ---

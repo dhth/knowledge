@@ -1,5 +1,4 @@
-Replace With Register
-===
+# Replace With Register
 
 [Repo](https://github.com/vim-scripts/ReplaceWithRegister)
 

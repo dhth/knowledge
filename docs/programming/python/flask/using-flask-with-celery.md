@@ -1,5 +1,4 @@
-Using flask with celery
-===
+# Using flask with celery
 
 Using `url_for` within celery
 ---

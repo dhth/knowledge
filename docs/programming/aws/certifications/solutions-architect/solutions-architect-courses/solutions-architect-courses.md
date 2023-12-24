@@ -1,5 +1,4 @@
-Solutions Architect Courses
-===
+# Solutions Architect Courses
 
 Modules
 ---

@@ -1,5 +1,4 @@
-AWS SNS
-===
+# AWS SNS
 
 Modules
 ---

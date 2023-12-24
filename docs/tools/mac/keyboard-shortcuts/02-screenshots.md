@@ -1,5 +1,4 @@
-Screenshots
-===
+# Screenshots
 
 `/Applications/Utilities/Screenshots.app` opens up the regular screenshot app.
 

@@ -1,5 +1,4 @@
-Vim Left Hand Side Stuff
-===
+# Vim Left Hand Side Stuff
 
  - `:signcolumn`
  - `:numberwidth`

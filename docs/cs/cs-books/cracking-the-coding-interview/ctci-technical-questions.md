@@ -1,5 +1,4 @@
-CTCI Technical Questions
-===
+# CTCI Technical Questions
 
 What You Need to Know
 ---

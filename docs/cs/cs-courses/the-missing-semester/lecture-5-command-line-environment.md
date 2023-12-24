@@ -1,5 +1,4 @@
-Lecture 5: Command Line Environment
-===
+# Lecture 5: Command Line Environment
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Lists
-===
+# Lists
 
 Slicing
 ---

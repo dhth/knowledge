@@ -1,5 +1,4 @@
-Run Script
-===
+# Run Script
 
 Use emojis in AppleScript
 ---

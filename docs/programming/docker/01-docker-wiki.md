@@ -1,5 +1,4 @@
-Docker Wiki
-===
+# Docker Wiki
 
 Get container ID from image name
 ---

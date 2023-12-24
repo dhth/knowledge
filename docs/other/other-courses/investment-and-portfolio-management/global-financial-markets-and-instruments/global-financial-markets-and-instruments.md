@@ -1,5 +1,4 @@
-Global Financial Markets and Instruments
-===
+# Global Financial Markets and Instruments
 
 Resources
 ---

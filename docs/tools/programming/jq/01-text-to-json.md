@@ -1,5 +1,4 @@
-Text to JSON
-===
+# Text to JSON
 
 To convert each line in a text file, for example:
 

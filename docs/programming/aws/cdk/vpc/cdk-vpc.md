@@ -1,5 +1,4 @@
-CDK VPC
-===
+# CDK VPC
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Meta Skills
-===
+# Meta Skills
 
 > Meta-skills are those that help you achieve all of your goals. For example,
 > exercise is overwhelmingly shown to improve many areas of your health and

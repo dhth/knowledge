@@ -1,5 +1,4 @@
-git diff-tree
-===
+# git diff-tree
 
 Resources
 ---

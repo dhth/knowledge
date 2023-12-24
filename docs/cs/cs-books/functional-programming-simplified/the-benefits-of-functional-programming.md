@@ -1,5 +1,4 @@
-The Benefits of Functional Programming
-===
+# The Benefits of Functional Programming
 
 Testing is easier with pure functions
 ---

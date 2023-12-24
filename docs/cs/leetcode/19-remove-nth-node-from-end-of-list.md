@@ -1,5 +1,4 @@
-19: Remove Nth Node From End of List
-===
+# 19: Remove Nth Node From End of List
 
 The requirement for one-pass algorithm is misleading. True one-pass for this
 kind of problem is impossible ([One-pass

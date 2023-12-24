@@ -1,5 +1,4 @@
-Python Profiling
-===
+# Python Profiling
 
 - [[python-memory-profiler]]
 - [[python-line-profiler]]

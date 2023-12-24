@@ -1,5 +1,4 @@
-Get IP Address Using dig
-===
+# Get IP Address Using dig
 
 ```bash
 dig +short A neverssl.com

@@ -1,5 +1,4 @@
-Keyboard Maestro
-===
+# Keyboard Maestro
 
 Modules
 ---

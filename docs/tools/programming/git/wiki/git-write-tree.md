@@ -1,5 +1,4 @@
-Git write-tree
-===
+# Git write-tree
 
 Resources
 ---

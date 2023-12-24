@@ -1,5 +1,4 @@
-Lua
-===
+# Lua
 
 Resources
 ---

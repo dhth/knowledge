@@ -1,5 +1,4 @@
-Tech Leadership Books
-===
+# Tech Leadership Books
 
 Modules
 ---

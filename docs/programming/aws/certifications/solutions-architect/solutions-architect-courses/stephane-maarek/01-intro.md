@@ -1,5 +1,4 @@
-Intro
-===
+# Intro
 
 History
 ---

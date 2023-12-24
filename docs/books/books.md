@@ -1,5 +1,4 @@
-Books
-===
+# Books
 
 Modules
 ---

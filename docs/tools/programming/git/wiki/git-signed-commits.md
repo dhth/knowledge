@@ -1,5 +1,4 @@
-Git Signed Commits
-===
+# Git Signed Commits
 
 Resources
 ---

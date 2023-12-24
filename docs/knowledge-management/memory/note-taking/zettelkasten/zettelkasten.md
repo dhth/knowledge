@@ -1,5 +1,4 @@
-Zettelkasten
-===
+# Zettelkasten
 
 Resources
 ---

@@ -1,5 +1,4 @@
-8760 Hours
-===
+# 8760 Hours
 
 This is [[on-my-mind]].
 

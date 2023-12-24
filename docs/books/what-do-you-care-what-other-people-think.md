@@ -1,5 +1,4 @@
-What Do You Care What Other People Think?
-===
+# What Do You Care What Other People Think?
 
 Resources
 ---

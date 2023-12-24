@@ -1,5 +1,4 @@
-Terminal, Console, and Shell
-===
+# Terminal, Console, and Shell
 
 Resources
 ---

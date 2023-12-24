@@ -1,5 +1,4 @@
-Debugging Docker
-===
+# Debugging Docker
 
 Modules
 ---

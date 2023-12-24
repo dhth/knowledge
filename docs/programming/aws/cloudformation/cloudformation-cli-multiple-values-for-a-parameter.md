@@ -1,5 +1,4 @@
-Cloudformation CLI multiple values for a parameter
-===
+# Cloudformation CLI multiple values for a parameter
 
 Say you have a parameter in a cloudformation stack that accepts a list of
 values, eg.

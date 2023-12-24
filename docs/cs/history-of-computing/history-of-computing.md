@@ -1,5 +1,4 @@
-History of Computing
-===
+# History of Computing
 
 Modules
 ---

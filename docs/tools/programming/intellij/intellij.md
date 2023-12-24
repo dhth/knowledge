@@ -1,5 +1,4 @@
-Intellij
-===
+# Intellij
 
 Modules
 ---

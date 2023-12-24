@@ -1,5 +1,4 @@
-AWS Cloudwatch Log Insights Search
-===
+# AWS Cloudwatch Log Insights Search
 
 Sample query
 ---

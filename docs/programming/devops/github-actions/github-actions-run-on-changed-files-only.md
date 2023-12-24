@@ -1,5 +1,4 @@
-Github Actions Run on Changed Files Only
-===
+# Github Actions Run on Changed Files Only
 
 Resources
 ---

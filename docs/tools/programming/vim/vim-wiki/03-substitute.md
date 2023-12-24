@@ -1,5 +1,4 @@
-Substitute
-===
+# Substitute
 
 Resources
 ---

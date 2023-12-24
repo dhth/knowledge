@@ -1,5 +1,4 @@
-jq Slurp
-===
+# jq Slurp
 
 ```
 jq -s : read (slurp) all inputs into an array; apply filter to it;

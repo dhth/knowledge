@@ -1,5 +1,4 @@
-Scala with Cats
-===
+# Scala with Cats
 
 Modules
 ---

@@ -1,5 +1,4 @@
-Twelve Life Areas
-===
+# Twelve Life Areas
 
 Alex breaks down his life into twelve different "buckets".
 

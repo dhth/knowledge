@@ -1,5 +1,4 @@
-Scala Map
-===
+# Scala Map
 
 Basics
 ---

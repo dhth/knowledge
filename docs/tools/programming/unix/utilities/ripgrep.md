@@ -1,5 +1,4 @@
-ripgrep
-===
+# ripgrep
 
 Resources
 ---

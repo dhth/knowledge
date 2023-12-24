@@ -1,5 +1,4 @@
-Maven
-===
+# Maven
 
 Modules
 ---

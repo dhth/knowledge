@@ -1,5 +1,4 @@
-DNS Lookup
-===
+# DNS Lookup
 
 Resources
 ---

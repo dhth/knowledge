@@ -1,5 +1,4 @@
-Lambda
-===
+# Lambda
 
 Resources
 ---

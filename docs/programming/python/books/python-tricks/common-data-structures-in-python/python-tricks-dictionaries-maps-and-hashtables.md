@@ -1,5 +1,4 @@
-Python Tricks: Dictionaries, Maps, and Hashtables
-===
+# Python Tricks: Dictionaries, Maps, and Hashtables
 
 ChainMap
 ---

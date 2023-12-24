@@ -1,5 +1,4 @@
-Character Classes
-===
+# Character Classes
 
 `gr[ea]y` matches "grey", and "gray".
 

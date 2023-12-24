@@ -1,5 +1,4 @@
-3.1: Contiguous vs Linked Data Structures
-===
+# 3.1: Contiguous vs Linked Data Structures
 
 Linked lists vs static arrays
 ---

@@ -1,5 +1,4 @@
-AWS Personalize
-===
+# AWS Personalize
 
 Resources
 ---

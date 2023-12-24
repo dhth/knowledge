@@ -1,5 +1,4 @@
-CDK Resources
-===
+# CDK Resources
 
 Videos
 ---

@@ -1,5 +1,4 @@
-Scala Option
-===
+# Scala Option
 
 Basics
 ---

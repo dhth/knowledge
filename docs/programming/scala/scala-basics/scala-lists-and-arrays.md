@@ -1,5 +1,4 @@
-Scala Lists and Arrays
-===
+# Scala Lists and Arrays
 
 Type Inference
 ---

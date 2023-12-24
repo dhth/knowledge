@@ -1,5 +1,4 @@
-Remove last n lines from stdin
-===
+# Remove last n lines from stdin
 
 ```bash
 echo "1\n2\n3\n4\n"

@@ -1,5 +1,4 @@
-Computer Science Wiki
-===
+# Computer Science Wiki
 
 Resources
 ---

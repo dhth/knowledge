@@ -1,5 +1,4 @@
-Python Typing
-===
+# Python Typing
 
 Modules
 ---

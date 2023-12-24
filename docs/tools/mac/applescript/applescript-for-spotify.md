@@ -1,5 +1,4 @@
-AppleScript for Spotify
-===
+# AppleScript for Spotify
 
 Commands
 ---

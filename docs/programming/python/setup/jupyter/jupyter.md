@@ -1,5 +1,4 @@
-Jupyter
-===
+# Jupyter
 
 Resources
 ---

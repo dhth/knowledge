@@ -1,5 +1,4 @@
-Evergreen Notes
-===
+# Evergreen Notes
 
 Resources
 ---

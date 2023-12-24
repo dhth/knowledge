@@ -1,5 +1,4 @@
-Vim Resources
-===
+# Vim Resources
 
 Awesome Vim resources.
 

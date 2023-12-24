@@ -1,5 +1,4 @@
-Tmux Wiki
-===
+# Tmux Wiki
 
 Resources
 ---

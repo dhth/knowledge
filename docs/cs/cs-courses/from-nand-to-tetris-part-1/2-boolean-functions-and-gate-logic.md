@@ -1,5 +1,4 @@
-Boolean Functions and Gate Logic
-===
+# Boolean Functions and Gate Logic
 
 Resources
 ---

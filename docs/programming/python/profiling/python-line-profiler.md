@@ -1,5 +1,4 @@
-Python Line Profiler
-===
+# Python Line Profiler
 
 ```bash
 pip install line_profiler

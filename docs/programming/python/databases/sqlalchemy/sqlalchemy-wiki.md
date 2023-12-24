@@ -1,5 +1,4 @@
-SQLAlchemy Wiki
-===
+# SQLAlchemy Wiki
 
 Cascades
 ---

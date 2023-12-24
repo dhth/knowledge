@@ -1,5 +1,4 @@
-Ch 3: Pytest Fixtures
-===
+# Ch 3: Pytest Fixtures
 
 Intro
 ---

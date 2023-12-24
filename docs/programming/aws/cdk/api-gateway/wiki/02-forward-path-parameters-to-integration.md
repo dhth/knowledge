@@ -1,5 +1,4 @@
-Forward Path Parameters to Integration
-===
+# Forward Path Parameters to Integration
 
 Let's say we have the following endpoint in a web application (running on ECS),
 which is fronted by API Gateway.

@@ -1,5 +1,4 @@
-Hasura
-===
+# Hasura
 
 Modules
 ---

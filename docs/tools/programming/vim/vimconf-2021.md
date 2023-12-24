@@ -1,5 +1,4 @@
-VimConf 2021
-===
+# VimConf 2021
 
 Resources
 ---

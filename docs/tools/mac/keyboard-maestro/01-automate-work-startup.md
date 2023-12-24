@@ -1,5 +1,4 @@
-Automate Work Startup
-===
+# Automate Work Startup
 
 Open Chrome with urls
 ---

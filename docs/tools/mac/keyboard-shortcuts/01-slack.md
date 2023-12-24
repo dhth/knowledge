@@ -1,5 +1,4 @@
-Slack
-===
+# Slack
 
 ```
 - cmd + /:         toggle keyboard shortcuts panel

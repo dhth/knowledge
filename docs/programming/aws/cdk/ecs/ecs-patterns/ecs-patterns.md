@@ -1,5 +1,4 @@
-ECS Patterns
-===
+# ECS Patterns
 
 Modules
 ---

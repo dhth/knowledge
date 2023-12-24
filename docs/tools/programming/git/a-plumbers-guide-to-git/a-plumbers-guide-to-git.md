@@ -1,5 +1,4 @@
-A Plumbers Guide to Git
-===
+# A Plumbers Guide to Git
 
 Resources
 ---

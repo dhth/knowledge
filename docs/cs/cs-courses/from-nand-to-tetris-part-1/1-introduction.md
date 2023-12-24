@@ -1,5 +1,4 @@
-Introduction
-===
+# Introduction
 
 Separation of Concerns
 ---

@@ -1,5 +1,4 @@
-Git Log
-===
+# Git Log
 
 Pretty git log
 ---

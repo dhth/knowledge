@@ -1,5 +1,4 @@
-Git Global Gitignore
-===
+# Git Global Gitignore
 
 Resources
 ---

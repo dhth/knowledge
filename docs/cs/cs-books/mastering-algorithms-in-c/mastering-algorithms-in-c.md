@@ -1,5 +1,4 @@
-Mastering Algorithms in C
-===
+# Mastering Algorithms in C
 
 Resources
 ---

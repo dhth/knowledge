@@ -1,5 +1,4 @@
-Solutions Architect
-===
+# Solutions Architect
 
 Modules
 ---

@@ -1,5 +1,4 @@
-Practical Vim
-===
+# Practical Vim
 
 [Practical Vim](https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629/)
 - [[vimcasts-by-drew-neil]]

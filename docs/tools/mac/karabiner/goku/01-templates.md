@@ -1,5 +1,4 @@
-Templates
-===
+# Templates
 
 Keyboard Maestro Template
 ---

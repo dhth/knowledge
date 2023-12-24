@@ -1,5 +1,4 @@
-Git Wiki
-===
+# Git Wiki
 
 Modules
 ---

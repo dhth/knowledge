@@ -1,5 +1,4 @@
-Book: Mastering Regular Expressions
-===
+# Book: Mastering Regular Expressions
 
 Resources
 ---

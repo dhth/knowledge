@@ -1,5 +1,4 @@
-Asymptotics
-===
+# Asymptotics
 
 Big Theta
 ---

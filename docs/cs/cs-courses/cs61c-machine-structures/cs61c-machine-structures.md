@@ -1,5 +1,4 @@
-CS61C Machine Structures
-===
+# CS61C Machine Structures
 
 UCB's course from Spring 2015.
 

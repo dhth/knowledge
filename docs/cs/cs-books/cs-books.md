@@ -1,5 +1,4 @@
-CS Books
-===
+# CS Books
 
 - [[the-algorithm-design-manual]]
 - [[mastering-algorithms-in-c]]

@@ -1,5 +1,4 @@
-Speeding Up Deployments
-===
+# Speeding Up Deployments
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Coffee
-===
+# Coffee
 
 Modules
 ---

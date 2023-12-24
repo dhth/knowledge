@@ -1,5 +1,4 @@
-Python Tricks Array Data Structures
-===
+# Python Tricks Array Data Structures
 
 There are a number of built-in data structures you can choose from when it comes
 to implementing arrays in Python. In this chapter we’ve focused on core language

@@ -1,5 +1,4 @@
-James Cameron
-===
+# James Cameron
 
 Resources
 ---

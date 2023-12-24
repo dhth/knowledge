@@ -1,5 +1,4 @@
-CNAME records
-===
+# CNAME records
 
 Resources
 ---

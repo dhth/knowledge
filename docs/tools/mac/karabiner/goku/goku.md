@@ -1,5 +1,4 @@
-Goku
-===
+# Goku
 
 Resources
 ---

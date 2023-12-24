@@ -1,5 +1,4 @@
-Spaced Repetition
-===
+# Spaced Repetition
 
 Resources
 ---

@@ -1,5 +1,4 @@
-External Commands
-===
+# External Commands
 
 Open Urls with pound sign in them
 ---

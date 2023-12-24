@@ -1,5 +1,4 @@
-Programming in Scala
-===
+# Programming in Scala
 
 Resources
 ---

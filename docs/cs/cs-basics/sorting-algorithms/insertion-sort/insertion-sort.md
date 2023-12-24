@@ -1,5 +1,4 @@
-Insertion Sort
-===
+# Insertion Sort
 
 
 Time complexity

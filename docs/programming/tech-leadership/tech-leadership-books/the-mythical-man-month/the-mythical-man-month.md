@@ -1,5 +1,4 @@
-The Mythical Man Month
-===
+# The Mythical Man Month
 
 Modules
 ---

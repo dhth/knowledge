@@ -1,5 +1,4 @@
-1.4: Modeling the Problem
-===
+# 1.4: Modeling the Problem
 
 Combinatorial Objects
 ---

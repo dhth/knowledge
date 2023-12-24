@@ -1,5 +1,4 @@
-Toggle Suggestions or Sources
-===
+# Toggle Suggestions or Sources
 
 Toggle suggestions for a file type
 ---

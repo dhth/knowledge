@@ -1,5 +1,4 @@
-Chapter 3: Effective Functions
-===
+# Chapter 3: Effective Functions
 
 3.1 Python's functions are first class
 ---

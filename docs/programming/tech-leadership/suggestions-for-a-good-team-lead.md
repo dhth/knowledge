@@ -1,5 +1,4 @@
-Suggestions for a Good Team Lead
-===
+# Suggestions for a Good Team Lead
 
 Resources
 ---

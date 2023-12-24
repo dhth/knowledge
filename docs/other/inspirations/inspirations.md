@@ -1,5 +1,4 @@
-Inspirations
-===
+# Inspirations
 
 Modules
 ---

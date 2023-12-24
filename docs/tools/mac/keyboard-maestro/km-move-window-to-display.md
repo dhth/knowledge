@@ -1,5 +1,4 @@
-KM Move Window to Display
-===
+# KM Move Window to Display
 
 So far, the following's working out pretty well:
 

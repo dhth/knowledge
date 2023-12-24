@@ -1,5 +1,4 @@
-LaTeX Tools
-===
+# LaTeX Tools
 
 Resources
 ---

@@ -1,5 +1,4 @@
-rich
-===
+# rich
 
 [https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)
 

@@ -1,5 +1,4 @@
-Typing
-===
+# Typing
 
 Resources
 ---

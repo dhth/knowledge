@@ -1,5 +1,4 @@
-fzf.vim
-===
+# fzf.vim
 
 Powered by [[fzf]].
 

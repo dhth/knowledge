@@ -1,5 +1,4 @@
-Language Servers
-===
+# Language Servers
 
 Modules
 ---

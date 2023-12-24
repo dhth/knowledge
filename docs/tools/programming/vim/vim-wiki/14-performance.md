@@ -1,5 +1,4 @@
-Performance
-===
+# Performance
 
 Slow Downs
 ---

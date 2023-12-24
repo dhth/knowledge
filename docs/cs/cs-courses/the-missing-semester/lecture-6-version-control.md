@@ -1,5 +1,4 @@
-Lecture 6: Version Control
-===
+# Lecture 6: Version Control
 
 Resources
 ---

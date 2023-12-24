@@ -1,5 +1,4 @@
-CloudFront Lamdba Edge
-===
+# CloudFront Lamdba Edge
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Scala FunctionX
-===
+# Scala FunctionX
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Siddhartha: A Novel
-===
+# Siddhartha: A Novel
 
 Resources
 ---

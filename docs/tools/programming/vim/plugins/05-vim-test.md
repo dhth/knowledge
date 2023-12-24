@@ -1,5 +1,4 @@
-Vim Test
-===
+# Vim Test
 
 Links
 ---

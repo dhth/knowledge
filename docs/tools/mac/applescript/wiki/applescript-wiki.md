@@ -1,5 +1,4 @@
-AppleScript Wiki
-===
+# AppleScript Wiki
 
 Modules
 ---

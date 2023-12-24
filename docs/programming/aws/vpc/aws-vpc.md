@@ -1,5 +1,4 @@
-AWS VPC
-===
+# AWS VPC
 
 Resources
 ---

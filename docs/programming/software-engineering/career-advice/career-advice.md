@@ -1,5 +1,4 @@
-Career Advice
-===
+# Career Advice
 
 Resources
 ---

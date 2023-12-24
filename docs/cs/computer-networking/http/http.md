@@ -1,5 +1,4 @@
-HTTP
-===
+# HTTP
 
 Resources
 ---

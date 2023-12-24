@@ -1,5 +1,4 @@
-Operator Pending Mappings
-===
+# Operator Pending Mappings
 
 Resources
 ---

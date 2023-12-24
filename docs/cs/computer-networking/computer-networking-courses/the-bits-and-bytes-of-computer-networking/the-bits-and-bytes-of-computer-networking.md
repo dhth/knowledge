@@ -1,5 +1,4 @@
-The Bits and Bytes of Computer Networking
-===
+# The Bits and Bytes of Computer Networking
 
 Resources
 ---

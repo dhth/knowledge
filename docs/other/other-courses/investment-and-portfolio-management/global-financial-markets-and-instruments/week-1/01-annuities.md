@@ -1,5 +1,4 @@
-Annuities
-===
+# Annuities
 
 Intro
 ---

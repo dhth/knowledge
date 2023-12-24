@@ -1,5 +1,4 @@
-Software Engineering
-===
+# Software Engineering
 
 Resources
 ---

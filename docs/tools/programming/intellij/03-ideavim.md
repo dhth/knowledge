@@ -1,5 +1,4 @@
-IdeaVim
-===
+# IdeaVim
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Splits
-===
+# Splits
 
 Resources
 ---

@@ -1,5 +1,4 @@
-vim-showcases
-===
+# vim-showcases
 
 Resources
 ---

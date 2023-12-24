@@ -1,5 +1,4 @@
-Tmux
-===
+# Tmux
 
 Resources
 ---

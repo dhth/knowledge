@@ -1,5 +1,4 @@
-Traits of a Zettelkasten
-===
+# Traits of a Zettelkasten
 
 3 important traits:
 

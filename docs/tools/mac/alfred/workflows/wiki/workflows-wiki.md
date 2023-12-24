@@ -1,5 +1,4 @@
-Workflows Wiki
-===
+# Workflows Wiki
 
 Resources
 ---

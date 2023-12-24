@@ -1,5 +1,4 @@
-History of Computer Networking
-===
+# History of Computer Networking
 
 Resources
 ---

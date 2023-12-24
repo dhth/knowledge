@@ -1,5 +1,4 @@
-AWS Transfer Family
-===
+# AWS Transfer Family
 
 Modules
 ---

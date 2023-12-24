@@ -1,5 +1,4 @@
-Yaml
-===
+# Yaml
 
 Resources
 ---

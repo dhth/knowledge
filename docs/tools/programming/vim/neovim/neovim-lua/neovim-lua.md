@@ -1,5 +1,4 @@
-Neovim Lua
-===
+# Neovim Lua
 
 Resources
 ---

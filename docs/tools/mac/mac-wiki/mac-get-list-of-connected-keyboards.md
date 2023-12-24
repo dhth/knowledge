@@ -1,5 +1,4 @@
-Mac Get List of Connected Keyboards
-===
+# Mac Get List of Connected Keyboards
 
 ```bash
 ioreg -p IOUSB -w0 | sed 's/[^o]*o //; s/@.*$//' | grep -v '^Root.*'

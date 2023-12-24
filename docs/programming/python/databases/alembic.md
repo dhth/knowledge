@@ -1,5 +1,4 @@
-Alembic
-===
+# Alembic
 
 ```bash
 # a new column, model, etc. has been added before

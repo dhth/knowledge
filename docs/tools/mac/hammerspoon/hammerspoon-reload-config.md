@@ -1,5 +1,4 @@
-Hammerspoon Reload Config
-===
+# Hammerspoon Reload Config
 
 ```lua
 hs.hotkey.bind({"ctrl", "shift", "alt"}, "r", function()

@@ -1,5 +1,4 @@
-The Elements of Computing Systems
-===
+# The Elements of Computing Systems
 
 Related to the course [[from-nand-to-tetris-part-1]].
 

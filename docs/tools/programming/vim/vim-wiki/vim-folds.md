@@ -1,5 +1,4 @@
-Vim Folds
-===
+# Vim Folds
 
 Resources
 ---

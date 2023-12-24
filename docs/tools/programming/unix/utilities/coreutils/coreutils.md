@@ -1,5 +1,4 @@
-CoreUtils
-===
+# CoreUtils
 
 Resources
 ---

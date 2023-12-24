@@ -1,5 +1,4 @@
-VSCode Setup for wiki
-===
+# VSCode Setup for wiki
 
 Open preview to the side
 ---

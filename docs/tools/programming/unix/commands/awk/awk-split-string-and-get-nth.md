@@ -1,5 +1,4 @@
-Split String and Get Nth
-===
+# Split String and Get Nth
 
 ```bash
 echo 'computer-science/computer-networking/wiki/01-cidr.md:cidr](assets/vpc-cidr.png)' \

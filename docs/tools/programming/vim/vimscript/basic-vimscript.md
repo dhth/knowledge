@@ -1,5 +1,4 @@
-Basic VimScript
-===
+# Basic VimScript
 
 Comparisons
 ---

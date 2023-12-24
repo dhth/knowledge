@@ -1,5 +1,4 @@
-Python Memory Profiler
-===
+# Python Memory Profiler
 
 ```bash
 pip install memory_profiler

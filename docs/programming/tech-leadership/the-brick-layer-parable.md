@@ -1,5 +1,4 @@
-The Brick Layer Parable
-===
+# The Brick Layer Parable
 
 Resources
 ---

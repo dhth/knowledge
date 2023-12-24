@@ -1,5 +1,4 @@
-Get string between brackets
-===
+# Get string between brackets
 
 Suppose you need to extract the string between two braces, eg.
 

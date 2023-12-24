@@ -1,5 +1,4 @@
-Understanding the Session and Exceptions
-===
+# Understanding the Session and Exceptions
 
 Session States
 ---

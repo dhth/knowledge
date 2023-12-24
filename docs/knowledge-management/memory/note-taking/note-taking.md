@@ -1,5 +1,4 @@
-Note Taking
-===
+# Note Taking
 
 Modules
 ---

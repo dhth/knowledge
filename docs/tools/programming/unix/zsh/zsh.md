@@ -1,5 +1,4 @@
-zsh
-===
+# zsh
 
 Modules
 ---

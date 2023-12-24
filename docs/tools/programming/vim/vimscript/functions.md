@@ -1,5 +1,4 @@
-Functions
-===
+# Functions
 
 ```
 :function DisplayName(name)

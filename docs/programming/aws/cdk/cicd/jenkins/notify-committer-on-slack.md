@@ -1,5 +1,4 @@
-Notify committer on slack
-===
+# Notify committer on slack
 
 Jenkins helper function
 ---

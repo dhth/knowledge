@@ -1,5 +1,4 @@
-Norm
-===
+# Norm
 
 Resources
 ---

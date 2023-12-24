@@ -1,5 +1,4 @@
-Selection Sort
-===
+# Selection Sort
 
 Time Complexity
 ---

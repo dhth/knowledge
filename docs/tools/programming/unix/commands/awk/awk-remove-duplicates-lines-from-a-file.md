@@ -1,5 +1,4 @@
-AWK Remove duplicates lines from a file
-===
+# AWK Remove duplicates lines from a file
 
 ```bash
 awk '!seen[$0]++' filename

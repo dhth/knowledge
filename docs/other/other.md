@@ -1,5 +1,4 @@
-Other
-===
+# Other
 
 Modules
 ---

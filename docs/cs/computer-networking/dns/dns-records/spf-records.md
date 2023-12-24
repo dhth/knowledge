@@ -1,5 +1,4 @@
-SPF Records
-===
+# SPF Records
 
 An SPF record looks like this:
 

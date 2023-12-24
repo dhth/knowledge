@@ -1,5 +1,4 @@
-Packaging Python Projects
-===
+# Packaging Python Projects
 
 ```bash
 	some_module_proj/

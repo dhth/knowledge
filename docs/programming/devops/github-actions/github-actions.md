@@ -1,5 +1,4 @@
-Github Actions
-===
+# Github Actions
 
 Resources
 ---

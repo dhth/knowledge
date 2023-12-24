@@ -1,5 +1,4 @@
-Stephane Maarek
-===
+# Stephane Maarek
 
 Modules
 ---

@@ -1,5 +1,4 @@
-AWS Transfer Use Password Authentication
-===
+# AWS Transfer Use Password Authentication
 
 Resources
 ---

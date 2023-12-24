@@ -1,5 +1,4 @@
-Alfred
-===
+# Alfred
 
 Modules
 ---

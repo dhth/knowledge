@@ -1,5 +1,4 @@
-Git Checkout
-===
+# Git Checkout
 
 Get changes from a branch to a specific directory
 ---

@@ -1,5 +1,4 @@
-The Woes of Programming
-===
+# The Woes of Programming
 
 One must perform perfectly.
 ---

@@ -1,5 +1,4 @@
-Vim Wiki Help
-===
+# Vim Wiki Help
 
 Man
 ---

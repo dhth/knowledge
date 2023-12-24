@@ -1,5 +1,4 @@
-Scala Learning Resources
-===
+# Scala Learning Resources
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Python Setup
-===
+# Python Setup
 
 Setting up Python for development use.
 

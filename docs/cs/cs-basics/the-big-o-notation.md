@@ -1,5 +1,4 @@
-The Big O Notation
-===
+# The Big O Notation
 
 Why ignore constants?
 ---

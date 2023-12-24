@@ -1,5 +1,4 @@
-Patterns for Cleaner Python
-===
+# Patterns for Cleaner Python
 
 Asserts
 ---

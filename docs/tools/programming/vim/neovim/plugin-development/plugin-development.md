@@ -1,5 +1,4 @@
-Plugin Development
-===
+# Plugin Development
 
 Resources
 ---

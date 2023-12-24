@@ -1,5 +1,4 @@
-The Data Link Layer
-===
+# The Data Link Layer
 
 The Ethernet Frame
 ---

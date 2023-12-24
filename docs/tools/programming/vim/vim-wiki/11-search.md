@@ -1,5 +1,4 @@
-Search
-===
+# Search
 
 Search History
 ---

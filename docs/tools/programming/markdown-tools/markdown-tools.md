@@ -1,5 +1,4 @@
-Markdown Tools
-===
+# Markdown Tools
 
 Resources
 ---

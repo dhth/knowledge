@@ -1,5 +1,4 @@
-2.1: The RAM Model of Computation
-===
+# 2.1: The RAM Model of Computation
 
 To understand the notions of the best, worst, and average-case complexity, think
 about running an algorithm over all possible instances of data that can be fed

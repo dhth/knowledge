@@ -1,5 +1,4 @@
-Scala For Comprehensions
-===
+# Scala For Comprehensions
 
 Basics
 ---

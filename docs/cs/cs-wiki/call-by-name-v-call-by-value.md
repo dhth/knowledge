@@ -1,5 +1,4 @@
-Call by Name v Call by Value
-===
+# Call by Name v Call by Value
 
 Resources
 ---

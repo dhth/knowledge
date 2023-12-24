@@ -1,5 +1,4 @@
-The Tim Ferris Show
-===
+# The Tim Ferris Show
 
 Resources
 ---

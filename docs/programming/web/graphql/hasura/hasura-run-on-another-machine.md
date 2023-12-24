@@ -1,5 +1,4 @@
-Hasura Run on Another Machine
-===
+# Hasura Run on Another Machine
 
 Use case: Run hasura on a machine, and then access the web console via the
 browser using the IP of the machine. (Reason: hasura doesn't work well at the

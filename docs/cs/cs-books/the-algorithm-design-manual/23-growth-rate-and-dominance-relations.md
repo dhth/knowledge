@@ -1,5 +1,4 @@
-2.3: Growth Rate and Dominance Relations
-===
+# 2.3: Growth Rate and Dominance Relations
 
 ![growth-rates](assets/growth-rates.png)
 

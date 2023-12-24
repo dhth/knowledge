@@ -1,5 +1,4 @@
-Add private subnets to existing VPC
-===
+# Add private subnets to existing VPC
 
 Resources
 ---

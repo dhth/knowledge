@@ -1,5 +1,4 @@
-Python DocStrings
-===
+# Python DocStrings
 
 Resources
 ---

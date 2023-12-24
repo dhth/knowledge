@@ -1,5 +1,4 @@
-Vim Wiki
-===
+# Vim Wiki
 
 !!! danger "TODO"
     Split up wiki into modules.

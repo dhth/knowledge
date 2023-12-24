@@ -1,5 +1,4 @@
-Git Ignore Revisions in Blame
-===
+# Git Ignore Revisions in Blame
 
 Add a `.git-blame-ignore-revs` file to the repo.
 

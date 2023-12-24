@@ -1,5 +1,4 @@
-JSON Web Token
-===
+# JSON Web Token
 
 Resources
 ---

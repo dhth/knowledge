@@ -1,5 +1,4 @@
-The Missing Semester
-===
+# The Missing Semester
 
 The Missing Semester teaches tools that are normally not taught in most traditional CS curriculum but are indispensible in everyday software engineering work.
 

@@ -1,5 +1,4 @@
-Writing
-===
+# Writing
 
 Resources
 ---

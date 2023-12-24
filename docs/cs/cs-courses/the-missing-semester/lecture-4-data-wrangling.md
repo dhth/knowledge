@@ -1,5 +1,4 @@
-Lecture 3: Data Wrangling
-===
+# Lecture 3: Data Wrangling
 
 Resources
 ---

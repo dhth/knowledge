@@ -1,5 +1,4 @@
-DNS
-===
+# DNS
 
 Resources
 ---

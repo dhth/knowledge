@@ -1,5 +1,4 @@
-Vim Surround
-===
+# Vim Surround
 
 Resources
 ---

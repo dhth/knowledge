@@ -1,5 +1,4 @@
-Investment and Portfolio Management
-===
+# Investment and Portfolio Management
 
 Modules
 ---

@@ -1,5 +1,4 @@
-The Book Of Life: Daily Meditations With Krishnamurti
-===
+# The Book Of Life: Daily Meditations With Krishnamurti
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Mac Wiki
-===
+# Mac Wiki
 
 Modules
 ---

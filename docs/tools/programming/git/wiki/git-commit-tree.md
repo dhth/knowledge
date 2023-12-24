@@ -1,5 +1,4 @@
-Git commit-tree
-===
+# Git commit-tree
 
 Resources
 ---

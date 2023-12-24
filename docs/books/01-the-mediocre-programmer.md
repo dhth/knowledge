@@ -1,5 +1,4 @@
-The Mediocre Programmer
-===
+# The Mediocre Programmer
 
 Resources
 ---

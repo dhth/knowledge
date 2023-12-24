@@ -1,5 +1,4 @@
-Maven Basics
-===
+# Maven Basics
 
 Resources
 ---

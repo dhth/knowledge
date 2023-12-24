@@ -1,5 +1,4 @@
-The Procrastination Equation
-===
+# The Procrastination Equation
 
 Resources
 ---

@@ -1,5 +1,4 @@
-AWS Transfer CDK
-===
+# AWS Transfer CDK
 
 Resources
 ---

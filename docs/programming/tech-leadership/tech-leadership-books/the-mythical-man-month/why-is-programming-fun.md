@@ -1,5 +1,4 @@
-Why is Programming Fun?
-===
+# Why is Programming Fun?
 
 First is the sheer joy of making things. As the child delights in his mud pie,
 so the adult enjoys building things, especially things of his own design.

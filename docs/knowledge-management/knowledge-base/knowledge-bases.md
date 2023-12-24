@@ -1,5 +1,4 @@
-Knowledge Bases
-===
+# Knowledge Bases
 
 Resources
 ---

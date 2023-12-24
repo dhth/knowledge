@@ -1,5 +1,4 @@
-Screencasts by Greg Hurrell
-===
+# Screencasts by Greg Hurrell
 
 Screencasts by [Greg Hurrell](https://wincent.com/).
 

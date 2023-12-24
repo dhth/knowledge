@@ -1,5 +1,4 @@
-VSCode Vim Shortcuts
-===
+# VSCode Vim Shortcuts
 
 Resources
 ---

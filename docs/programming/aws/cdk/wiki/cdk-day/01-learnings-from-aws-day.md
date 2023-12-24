@@ -1,5 +1,4 @@
-Learnings from AWS Day
-===
+# Learnings from AWS Day
 
 Resources
 ---

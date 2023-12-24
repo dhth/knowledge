@@ -1,5 +1,4 @@
-CTCI Big O
-===
+# CTCI Big O
 
 Base of logs and exponents
 ---

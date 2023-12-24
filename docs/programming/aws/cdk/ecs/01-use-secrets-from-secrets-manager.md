@@ -1,5 +1,4 @@
-Use secrets from secrets manager
-===
+# Use secrets from secrets manager
 
 Resources
 ---

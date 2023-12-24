@@ -1,5 +1,4 @@
-Keyboard Shortcuts
-===
+# Keyboard Shortcuts
 
 Keyboard shortcuts for lesser used apps.
 

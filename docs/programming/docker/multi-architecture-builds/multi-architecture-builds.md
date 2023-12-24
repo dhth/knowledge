@@ -1,5 +1,4 @@
-Multi Architecture Builds
-===
+# Multi Architecture Builds
 
 Resources
 ---

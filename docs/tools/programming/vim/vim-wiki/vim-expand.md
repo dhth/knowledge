@@ -1,5 +1,4 @@
-Vim expand
-===
+# Vim expand
 
 `:h expand`
 

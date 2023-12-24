@@ -1,5 +1,4 @@
-CDK VPC Issues
-===
+# CDK VPC Issues
 
 Handling existing VPC resources with CDK
 ---

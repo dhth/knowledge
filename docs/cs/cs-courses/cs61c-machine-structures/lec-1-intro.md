@@ -1,5 +1,4 @@
-Lec 1: Intro
-===
+# Lec 1: Intro
 
 > What is hardware and how does it magically run software?
 

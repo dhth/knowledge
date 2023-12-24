@@ -1,5 +1,4 @@
-VSCode Vim
-===
+# VSCode Vim
 
 Resources
 ---

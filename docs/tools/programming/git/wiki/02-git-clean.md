@@ -1,5 +1,4 @@
-Git Clean
-===
+# Git Clean
 
 Remove untracked files
 ---

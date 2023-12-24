@@ -1,5 +1,4 @@
-Vim Plugins
-===
+# Vim Plugins
 
 Vim's plugin file looks like:
 

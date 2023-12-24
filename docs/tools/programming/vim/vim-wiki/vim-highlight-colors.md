@@ -1,5 +1,4 @@
-Vim Highlight Colors
-===
+# Vim Highlight Colors
 
 Resources
 ---

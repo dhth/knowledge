@@ -1,5 +1,4 @@
-From Nand To Tetris: Part 1
-===
+# From Nand To Tetris: Part 1
 
 Resources
 ---

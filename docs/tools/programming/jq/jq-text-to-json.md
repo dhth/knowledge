@@ -1,5 +1,4 @@
-jq Text to JSON
-===
+# jq Text to JSON
 
 To convert each line in a text file, for example:
 

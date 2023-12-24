@@ -1,5 +1,4 @@
-API Gateway Wiki
-===
+# API Gateway Wiki
 
 Modules
 ---

@@ -1,5 +1,4 @@
-Open TCP connection using nc
-===
+# Open TCP connection using nc
 
 Resources
 ---

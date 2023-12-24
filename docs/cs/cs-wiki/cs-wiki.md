@@ -1,5 +1,4 @@
-CS Wiki
-===
+# CS Wiki
 
 Concepts
 ---

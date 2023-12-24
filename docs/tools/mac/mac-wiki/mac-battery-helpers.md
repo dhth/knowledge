@@ -1,5 +1,4 @@
-Mac Battery Helpers
-===
+# Mac Battery Helpers
 
 Check if charging or discharging
 ---

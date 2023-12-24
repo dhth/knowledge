@@ -1,5 +1,4 @@
-Alfred Script Filters
-===
+# Alfred Script Filters
 
 Resources
 ---

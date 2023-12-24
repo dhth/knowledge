@@ -1,5 +1,4 @@
-Heroku CLI
-===
+# Heroku CLI
 
 Resources
 ---

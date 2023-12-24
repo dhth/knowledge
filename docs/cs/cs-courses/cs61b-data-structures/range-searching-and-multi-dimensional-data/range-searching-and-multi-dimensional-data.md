@@ -1,5 +1,4 @@
-Range Searching and Multi Dimensional Data
-===
+# Range Searching and Multi Dimensional Data
 
 Intro
 ---

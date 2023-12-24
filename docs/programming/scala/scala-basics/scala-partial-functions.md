@@ -1,5 +1,4 @@
-Scala Partial Functions
-===
+# Scala Partial Functions
 
 Resources
 ---

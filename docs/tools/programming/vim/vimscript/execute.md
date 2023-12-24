@@ -1,5 +1,4 @@
-Execute
-===
+# Execute
 
 Usage
 ---

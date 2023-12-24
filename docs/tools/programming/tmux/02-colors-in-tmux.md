@@ -1,5 +1,4 @@
-Colors in Tmux
-===
+# Colors in Tmux
 
 Resources
 ---

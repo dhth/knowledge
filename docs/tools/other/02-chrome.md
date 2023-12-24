@@ -1,5 +1,4 @@
-Chrome
-===
+# Chrome
 
 Switch Profile
 ---

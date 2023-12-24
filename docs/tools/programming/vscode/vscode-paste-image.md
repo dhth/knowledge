@@ -1,5 +1,4 @@
-VSCode Paste Image
-===
+# VSCode Paste Image
 
 Resources
 ---

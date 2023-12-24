@@ -1,5 +1,4 @@
-Tabs
-===
+# Tabs
 
 Resources
 ---

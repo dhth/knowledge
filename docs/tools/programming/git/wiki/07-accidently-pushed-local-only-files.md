@@ -1,5 +1,4 @@
-Accidently pushed local only files
-===
+# Accidently pushed local only files
 
 Let's say you have some local files that in a repo that are not meant to be
 pushed to a remote, but, accidently, have been.

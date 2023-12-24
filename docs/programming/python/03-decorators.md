@@ -1,5 +1,4 @@
-Decorators
-===
+# Decorators
 
 Resources
 ---

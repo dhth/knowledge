@@ -1,5 +1,4 @@
-Workflows
-===
+# Workflows
 
 Resources
 ---

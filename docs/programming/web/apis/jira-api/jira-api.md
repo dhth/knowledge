@@ -1,5 +1,4 @@
-JIRA API
-===
+# JIRA API
 
 Search Issues
 ---

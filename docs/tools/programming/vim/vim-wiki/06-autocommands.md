@@ -1,5 +1,4 @@
-Autocommands
-===
+# Autocommands
 
 Autocommand structure
 ---

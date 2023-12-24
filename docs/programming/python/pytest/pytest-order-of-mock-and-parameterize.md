@@ -1,5 +1,4 @@
-Pytest order of mock and parameterize
-===
+# Pytest order of mock and parameterize
 
 Order of arguments to a test function: Mocks come first (in reverse order), then parameterized stuff, and then the normal fixtures.
 

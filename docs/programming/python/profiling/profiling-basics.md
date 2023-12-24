@@ -1,5 +1,4 @@
-Profiling Basics
-===
+# Profiling Basics
 
 - `%time`: Time the execution of a single statement
 - `%timeit`: Time repeated execution of a single statement for more accuracy

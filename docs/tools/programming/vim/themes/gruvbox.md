@@ -1,5 +1,4 @@
-Gruvbox
-===
+# Gruvbox
 
 Cursor not visible in gruvbox light
 ---

@@ -1,5 +1,4 @@
-Debugging Python
-===
+# Debugging Python
 
 Modules
 ---

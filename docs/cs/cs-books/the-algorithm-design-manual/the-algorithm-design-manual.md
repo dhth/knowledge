@@ -1,5 +1,4 @@
-The Algorithm Design Manual
-===
+# The Algorithm Design Manual
 
 Resources
 ---

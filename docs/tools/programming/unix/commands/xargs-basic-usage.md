@@ -1,5 +1,4 @@
-xargs Basic Usage
-===
+# xargs Basic Usage
 
 ```bash
 echo 1 2 3 4 5 6 7 8 | xargs -n1 bash -c 'echo this is each item in a line: $0'

@@ -1,5 +1,4 @@
-FPPiS Week 1
-===
+# FPPiS Week 1
 
 The Substituion Model
 ---

@@ -1,5 +1,4 @@
-Use Existing Rest API
-===
+# Use Existing Rest API
 
 Fetch rest api ID, and root resource ID via:
 

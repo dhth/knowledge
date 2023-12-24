@@ -1,5 +1,4 @@
-Buffers
-===
+# Buffers
 
 Delete all other buffers
 ---

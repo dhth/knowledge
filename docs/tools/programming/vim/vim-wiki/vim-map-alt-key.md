@@ -1,5 +1,4 @@
-Vim Map Alt Key
-===
+# Vim Map Alt Key
 
 MacOS
 ---

@@ -1,5 +1,4 @@
-DNS Records
-===
+# DNS Records
 
 Resources
 ---

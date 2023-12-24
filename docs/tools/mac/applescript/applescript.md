@@ -1,5 +1,4 @@
-AppleScript
-===
+# AppleScript
 
 Modules
 ---

@@ -1,5 +1,4 @@
-Courses
-===
+# Courses
 
 Modules
 ---

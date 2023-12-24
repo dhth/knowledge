@@ -1,5 +1,4 @@
-The Basics of Networking Devices
-===
+# The Basics of Networking Devices
 
 Hubs and Switches
 ---

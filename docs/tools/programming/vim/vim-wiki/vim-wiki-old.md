@@ -1,5 +1,4 @@
-Vim Wiki Old
-===
+# Vim Wiki Old
 
 Mapping
 ---

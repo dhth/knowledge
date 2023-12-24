@@ -1,5 +1,4 @@
-Miscellaneous
-===
+# Miscellaneous
 
 Open web link in browser
 ---

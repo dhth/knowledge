@@ -1,5 +1,4 @@
-2.2: The Big Oh Notation
-===
+# 2.2: The Big Oh Notation
 
 The formal definitions associated with the Big Oh notation are as follows:
 

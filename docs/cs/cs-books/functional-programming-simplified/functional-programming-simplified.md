@@ -1,5 +1,4 @@
-Functional Programming Simplified
-===
+# Functional Programming Simplified
 
 Resources
 ---

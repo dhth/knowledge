@@ -1,5 +1,4 @@
-Use Environment Variables in Data
-===
+# Use Environment Variables in Data
 
 ```bash
 curl -s -X POST https://api.airtable.com/v0/$POMODORO_AIRTABLE_BASE_ID/tasks \

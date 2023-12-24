@@ -1,5 +1,4 @@
-The TF Show: 473: Naval
-===
+# The TF Show: 473: Naval
 
 Features [[naval]].
 

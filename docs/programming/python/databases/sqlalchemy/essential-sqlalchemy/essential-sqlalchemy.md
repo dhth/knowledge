@@ -1,5 +1,4 @@
-Essential SQLAlchemy
-===
+# Essential SQLAlchemy
 
 Resources
 ---

@@ -1,5 +1,4 @@
-AppleScript for Google Chrome
-===
+# AppleScript for Google Chrome
 
 Get bookmark folders
 ---

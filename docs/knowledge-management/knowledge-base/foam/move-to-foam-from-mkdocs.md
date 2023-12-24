@@ -1,5 +1,4 @@
-Move to foam from mkdocs
-===
+# Move to foam from mkdocs
 
 Just a page to keep track of modifications I had to make to the wiki when moving
 from mkdocs to foam.

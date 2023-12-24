@@ -1,5 +1,4 @@
-CloudFormation
-===
+# CloudFormation
 
 Resources
 ---

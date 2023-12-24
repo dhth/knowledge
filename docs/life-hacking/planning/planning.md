@@ -1,5 +1,4 @@
-Planning
-===
+# Planning
 
 Modules
 ---

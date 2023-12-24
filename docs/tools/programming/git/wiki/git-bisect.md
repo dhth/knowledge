@@ -1,5 +1,4 @@
-Git Bisect
-===
+# Git Bisect
 
 ```bash
 git bisect start <BAD_REF> <GOOD_REF>

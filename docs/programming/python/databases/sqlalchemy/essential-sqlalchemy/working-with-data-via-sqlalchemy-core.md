@@ -1,5 +1,4 @@
-Working with data via SQLAlchemy Core
-===
+# Working with data via SQLAlchemy Core
 
 Schema and Types
 ---

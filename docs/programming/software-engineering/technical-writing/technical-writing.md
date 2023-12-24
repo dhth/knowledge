@@ -1,5 +1,4 @@
-Technical Writing
-===
+# Technical Writing
 
 Resources
 ---

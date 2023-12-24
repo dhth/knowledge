@@ -1,5 +1,4 @@
-Making our own Ping
-===
+# Making our own Ping
 
 Resources
 ---

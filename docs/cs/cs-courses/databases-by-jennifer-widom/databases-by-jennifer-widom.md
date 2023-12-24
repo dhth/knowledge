@@ -1,5 +1,4 @@
-Databases By Jennifer Widom
-===
+# Databases By Jennifer Widom
 
 Resources
 ---

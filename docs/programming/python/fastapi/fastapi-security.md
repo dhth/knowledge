@@ -1,5 +1,4 @@
-FastAPI Security
-===
+# FastAPI Security
 
 Resources
 ---

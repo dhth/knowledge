@@ -1,5 +1,4 @@
-AWS Lambda Docker Image Function
-===
+# AWS Lambda Docker Image Function
 
 Setup
 ---

@@ -1,5 +1,4 @@
-Trunk Based Development
-===
+# Trunk Based Development
 
 Resources
 ---

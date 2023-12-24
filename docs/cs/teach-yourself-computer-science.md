@@ -1,5 +1,4 @@
-Teach Yourself Computer Science
-===
+# Teach Yourself Computer Science
 
 Resources
 ---

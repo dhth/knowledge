@@ -1,5 +1,4 @@
-VimCasts by Drew Neil
-===
+# VimCasts by Drew Neil
 
 Screencasts on Vim by [Drew Neil](httpss://vimcasts.org/about/).
 

@@ -1,5 +1,4 @@
-Boolean Arithmetic and the ALU
-===
+# Boolean Arithmetic and the ALU
 
 Representing Negative Numbers
 ---

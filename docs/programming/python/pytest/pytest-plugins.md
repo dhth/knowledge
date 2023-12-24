@@ -1,5 +1,4 @@
-Pytest Plugins
-===
+# Pytest Plugins
 
 Resources
 ---

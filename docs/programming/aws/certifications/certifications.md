@@ -1,5 +1,4 @@
-Certifications
-===
+# Certifications
 
 Resources
 ---

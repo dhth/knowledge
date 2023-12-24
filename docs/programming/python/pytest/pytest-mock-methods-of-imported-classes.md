@@ -1,5 +1,4 @@
-Pytest Mock Methods of Imported Classes
-===
+# Pytest Mock Methods of Imported Classes
 
 Structure:
 

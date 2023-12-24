@@ -1,5 +1,4 @@
-Basics
-===
+# Basics
 
 Check existence of argument
 ---

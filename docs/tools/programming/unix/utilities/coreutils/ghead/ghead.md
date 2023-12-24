@@ -1,5 +1,4 @@
-ghead
-===
+# ghead
 
 Modules
 ---

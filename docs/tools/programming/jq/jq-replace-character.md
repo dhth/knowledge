@@ -1,5 +1,4 @@
-jq Replace Character
-===
+# jq Replace Character
 
 Use `split("_")|join(" ")`.
 

@@ -1,5 +1,4 @@
-Python Talks
-===
+# Python Talks
 
 Resources
 ---

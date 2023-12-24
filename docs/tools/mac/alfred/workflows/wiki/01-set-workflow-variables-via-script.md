@@ -1,5 +1,4 @@
-Set Workflow Variables Via Script
-===
+# Set Workflow Variables Via Script
 
 Resources
 ---

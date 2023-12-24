@@ -1,5 +1,4 @@
-Hand Grinders
-===
+# Hand Grinders
 
 Porlex Tall
 ---

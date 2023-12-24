@@ -1,5 +1,4 @@
-Python Logging
-===
+# Python Logging
 
 Resources
 ---

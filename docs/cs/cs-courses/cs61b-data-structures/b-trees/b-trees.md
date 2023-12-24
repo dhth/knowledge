@@ -1,5 +1,4 @@
-B Trees
-===
+# B Trees
 
 Related to [[01-binary-search-trees]].
 

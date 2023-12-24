@@ -1,5 +1,4 @@
-Configure Personal and Work Github SSH configuration
-===
+# Configure Personal and Work Github SSH configuration
 
 Resources
 ---

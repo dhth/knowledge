@@ -1,5 +1,4 @@
-Intellij Resources
-===
+# Intellij Resources
 
 Resources
 ---

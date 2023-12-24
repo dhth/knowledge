@@ -1,5 +1,4 @@
-Github API
-===
+# Github API
 
 Pagination
 ---

@@ -1,5 +1,4 @@
-Intellij Shortcuts
-===
+# Intellij Shortcuts
 
 ```bash
 ctrl + `: Quickly change theme

@@ -1,5 +1,4 @@
-Git Resources
-===
+# Git Resources
 
 Resources
 ---

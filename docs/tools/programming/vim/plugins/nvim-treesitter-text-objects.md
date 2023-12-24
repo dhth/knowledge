@@ -1,5 +1,4 @@
-NVim Treesitter Text Objects
-===
+# NVim Treesitter Text Objects
 
 Resources
 ---

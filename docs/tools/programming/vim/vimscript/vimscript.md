@@ -1,5 +1,4 @@
-VimScript
-===
+# VimScript
 
 Resources
 ---

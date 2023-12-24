@@ -1,5 +1,4 @@
-ftplugin
-===
+# ftplugin
 
 Create filetype specific mappings
 ---

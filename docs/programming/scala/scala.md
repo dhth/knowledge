@@ -1,5 +1,4 @@
-Scala
-===
+# Scala
 
 Modules
 ---

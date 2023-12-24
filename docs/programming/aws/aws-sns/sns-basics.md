@@ -1,5 +1,4 @@
-SNS Basics
-===
+# SNS Basics
 
 Resources
 ---

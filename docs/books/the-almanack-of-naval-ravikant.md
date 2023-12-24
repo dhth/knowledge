@@ -1,5 +1,4 @@
-The Almanack of Naval Ravikant
-===
+# The Almanack of Naval Ravikant
 
 Resources
 ---

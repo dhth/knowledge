@@ -1,5 +1,4 @@
-Negotiation
-===
+# Negotiation
 
 Resources
 ---

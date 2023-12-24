@@ -1,5 +1,4 @@
-Vimium
-===
+# Vimium
 
 Bindings worth remembering
 ---

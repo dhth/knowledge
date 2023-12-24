@@ -1,5 +1,4 @@
-Date
-===
+# Date
 
 Get epoch in nanoseconds
 ---

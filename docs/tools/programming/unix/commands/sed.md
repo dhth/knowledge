@@ -1,5 +1,4 @@
-sed
-===
+# sed
 
 Resources
 ---

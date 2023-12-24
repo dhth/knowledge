@@ -1,5 +1,4 @@
-CS
-===
+# CS
 
 - [[cs-basics]]
 - [[programming]]

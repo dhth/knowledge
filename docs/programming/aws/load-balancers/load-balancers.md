@@ -1,5 +1,4 @@
-Load Balancers
-===
+# Load Balancers
 
 Modules
 ---

@@ -1,5 +1,4 @@
-CAA Records
-===
+# CAA Records
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Tail Recursion
-===
+# Tail Recursion
 
 The recursive calls occurs as the last call of any code path.
 

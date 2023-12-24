@@ -1,4 +1,3 @@
-CSAPP Hardware Organisation
-===
+# CSAPP Hardware Organisation
 
 ![Hardware organisation](assets/Hardware organisation.png)

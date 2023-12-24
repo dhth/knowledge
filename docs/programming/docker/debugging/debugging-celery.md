@@ -1,5 +1,4 @@
-Debugging Celery
-===
+# Debugging Celery
 
 Related to [[debugging-python]].
 

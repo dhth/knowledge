@@ -1,5 +1,4 @@
-Scala Play
-===
+# Scala Play
 
 Resources
 ---

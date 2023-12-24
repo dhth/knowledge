@@ -1,5 +1,4 @@
-Unix Diff two directories
-===
+# Unix Diff two directories
 
 ```bash
 diff --brief --recursive -x '.git' -x 'autoload' \

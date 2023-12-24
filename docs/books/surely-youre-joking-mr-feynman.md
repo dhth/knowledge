@@ -1,5 +1,4 @@
-Surely You'Re Joking, Mr. Feynman
-===
+# Surely You'Re Joking, Mr. Feynman
 
 Resources
 ---

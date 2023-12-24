@@ -1,5 +1,4 @@
-Python Wiki
-===
+# Python Wiki
 
 Modules
 ---

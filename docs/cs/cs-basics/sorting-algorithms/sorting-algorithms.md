@@ -1,5 +1,4 @@
-Sorting Algorithms
-===
+# Sorting Algorithms
 
 Modules
 ---

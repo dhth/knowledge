@@ -1,5 +1,4 @@
-CS Basics
-===
+# CS Basics
 
 Resources
 ---

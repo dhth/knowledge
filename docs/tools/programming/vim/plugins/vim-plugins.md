@@ -1,5 +1,4 @@
-Vim Plugins
-===
+# Vim Plugins
 
 List of plugins:
 ---

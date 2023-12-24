@@ -1,5 +1,4 @@
-History Courses
-===
+# History Courses
 
 Modules
 ---

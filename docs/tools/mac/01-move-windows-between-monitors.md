@@ -1,5 +1,4 @@
-Move windows between monitors
-===
+# Move windows between monitors
 
 Resources
 ---

@@ -1,5 +1,4 @@
-Python Static Checking
-===
+# Python Static Checking
 
 Resources
 ---

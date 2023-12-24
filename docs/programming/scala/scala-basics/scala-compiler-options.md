@@ -1,5 +1,4 @@
-Scala Compiler Options
-===
+# Scala Compiler Options
 
 Resources
 ---

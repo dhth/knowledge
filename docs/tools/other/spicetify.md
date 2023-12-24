@@ -1,5 +1,4 @@
-Spicetify
-===
+# Spicetify
 
 Resources
 ---

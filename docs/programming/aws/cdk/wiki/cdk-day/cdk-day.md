@@ -1,5 +1,4 @@
-CDK Day
-===
+# CDK Day
 
 Resources
 ---

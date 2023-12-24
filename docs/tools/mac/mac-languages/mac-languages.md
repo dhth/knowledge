@@ -1,5 +1,4 @@
-Mac Languages
-===
+# Mac Languages
 
 Resources
 ---
