@@ -1,4 +1,4 @@
-Computer Science Books
+CS Books
 ===
 
 - [[the-algorithm-design-manual]]

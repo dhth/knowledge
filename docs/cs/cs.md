@@ -1,4 +1,4 @@
-Computer Science
+CS
 ===
 
 - [[cs-basics]]
@@ -19,7 +19,7 @@ Computer Science
 [programming]: ../programming/programming.md "Programming"
 [roadmap]: roadmap/roadmap.md "Roadmap"
 [cs-courses]: cs-courses/cs-courses.md "CS Courses"
-[cs-books]: books/cs-books.md "Computer Science Books"
+[cs-books]: cs-books/cs-books.md "CS Books"
 [leetcode]: leetcode/leetcode.md "Leetcode"
 [computer-science-wiki]: wiki/computer-science-wiki.md "Computer Science Wiki"
 [cs-stories]: cs-stories/cs-stories.md "CS Stories"
